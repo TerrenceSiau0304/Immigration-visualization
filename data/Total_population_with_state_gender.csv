@@ -1,0 +1,1001 @@
+state,year,sex,population
+Johor,1970,both,1326
+Johor,1970,female,657
+Johor,1970,male,669
+Johor,1971,both,1355
+Johor,1971,female,672
+Johor,1971,male,684
+Johor,1972,both,1385
+Johor,1972,female,687
+Johor,1972,male,698
+Johor,1973,both,1414
+Johor,1973,female,702
+Johor,1973,male,713
+Johor,1974,both,1444
+Johor,1974,female,717
+Johor,1974,male,728
+Johor,1975,both,1477
+Johor,1975,female,733
+Johor,1975,male,744
+Johor,1976,both,1508
+Johor,1976,female,749
+Johor,1976,male,760
+Johor,1977,both,1542
+Johor,1977,female,766
+Johor,1977,male,776
+Johor,1978,both,1573
+Johor,1978,female,781
+Johor,1978,male,792
+Johor,1979,both,1606
+Johor,1979,female,798
+Johor,1979,male,808
+Johor,1980,both,1646
+Johor,1980,female,817
+Johor,1980,male,829
+Johor,1981,both,1689
+Johor,1981,female,836
+Johor,1981,male,853
+Johor,1982,both,1735
+Johor,1982,female,856
+Johor,1982,male,878
+Johor,1983,both,1780
+Johor,1983,female,877
+Johor,1983,male,904
+Johor,1984,both,1826
+Johor,1984,female,897
+Johor,1984,male,928
+Johor,1985,both,1876
+Johor,1985,female,921
+Johor,1985,male,955
+Johor,1986,both,1926
+Johor,1986,female,944
+Johor,1986,male,982
+Johor,1987,both,1978
+Johor,1987,female,969
+Johor,1987,male,1009
+Johor,1988,both,2031
+Johor,1988,female,994
+Johor,1988,male,1037
+Johor,1989,both,2086
+Johor,1989,female,1020
+Johor,1989,male,1066
+Johor,1990,both,2140
+Johor,1990,female,1045
+Johor,1990,male,1094
+Johor,1991,both,2188
+Johor,1991,female,1069
+Johor,1991,male,1119
+Johor,1992,both,2249
+Johor,1992,female,1097
+Johor,1992,male,1152
+Johor,1993,both,2313
+Johor,1993,female,1126
+Johor,1993,male,1187
+Johor,1994,both,2378
+Johor,1994,female,1156
+Johor,1994,male,1222
+Johor,1995,both,2441
+Johor,1995,female,1185
+Johor,1995,male,1257
+Johor,1996,both,2504
+Johor,1996,female,1213
+Johor,1996,male,1291
+Johor,1997,both,2568
+Johor,1997,female,1242
+Johor,1997,male,1325
+Johor,1998,both,2632
+Johor,1998,female,1272
+Johor,1998,male,1360
+Johor,1999,both,2699
+Johor,1999,female,1304
+Johor,1999,male,1396
+Johor,2000,both,2762
+Johor,2000,female,1332
+Johor,2000,male,1430
+Johor,2001,both,2830
+Johor,2001,female,1362
+Johor,2001,male,1468
+Johor,2002,both,2894
+Johor,2002,female,1389
+Johor,2002,male,1505
+Johor,2003,both,2954
+Johor,2003,female,1414
+Johor,2003,male,1540
+Johor,2004,both,3015
+Johor,2004,female,1440
+Johor,2004,male,1574
+Johor,2005,both,3074
+Johor,2005,female,1466
+Johor,2005,male,1609
+Johor,2006,both,3134
+Johor,2006,female,1492
+Johor,2006,male,1643
+Johor,2007,both,3194
+Johor,2007,female,1517
+Johor,2007,male,1677
+Johor,2008,both,3252
+Johor,2008,female,1542
+Johor,2008,male,1710
+Johor,2009,both,3309
+Johor,2009,female,1566
+Johor,2009,male,1743
+Johor,2010,both,3363
+Johor,2010,female,1589
+Johor,2010,male,1774
+Johor,2011,both,3410
+Johor,2011,female,1611
+Johor,2011,male,1799
+Johor,2012,both,3450
+Johor,2012,female,1629
+Johor,2012,male,1822
+Johor,2013,both,3474
+Johor,2013,female,1644
+Johor,2013,male,1830
+Johor,2014,both,3560
+Johor,2014,female,1676
+Johor,2014,male,1883
+Johor,2015,both,3610
+Johor,2015,female,1700
+Johor,2015,male,1910
+Johor,2016,both,3652
+Johor,2016,female,1721
+Johor,2016,male,1931
+Johor,2017,both,3697
+Johor,2017,female,1744
+Johor,2017,male,1953
+Johor,2018,both,3749
+Johor,2018,female,1773
+Johor,2018,male,1976
+Johor,2019,both,3761
+Johor,2019,female,1787
+Johor,2019,male,1975
+Johor,2020,both,4010
+Johor,2020,female,1868
+Johor,2020,male,2141
+Johor,2021,both,4020
+Johor,2021,female,1881
+Johor,2021,male,2139
+Johor,2022,both,4028
+Johor,2022,female,1890
+Johor,2022,male,2138
+Johor,2023,both,4107
+Johor,2023,female,1915
+Johor,2023,male,2192
+Johor,2024,both,4186
+Johor,2024,female,1940
+Johor,2024,male,2247
+Kedah,1970,both,990
+Kedah,1970,female,490
+Kedah,1970,male,500
+Kedah,1971,both,1004
+Kedah,1971,female,498
+Kedah,1971,male,506
+Kedah,1972,both,1017
+Kedah,1972,female,506
+Kedah,1972,male,512
+Kedah,1973,both,1029
+Kedah,1973,female,513
+Kedah,1973,male,516
+Kedah,1974,both,1041
+Kedah,1974,female,520
+Kedah,1974,male,521
+Kedah,1975,both,1055
+Kedah,1975,female,528
+Kedah,1975,male,527
+Kedah,1976,both,1065
+Kedah,1976,female,535
+Kedah,1976,male,531
+Kedah,1977,both,1080
+Kedah,1977,female,543
+Kedah,1977,male,537
+Kedah,1978,both,1091
+Kedah,1978,female,550
+Kedah,1978,male,541
+Kedah,1979,both,1103
+Kedah,1979,female,557
+Kedah,1979,male,546
+Kedah,1980,both,1120
+Kedah,1980,female,567
+Kedah,1980,male,553
+Kedah,1981,both,1140
+Kedah,1981,female,576
+Kedah,1981,male,564
+Kedah,1982,both,1162
+Kedah,1982,female,586
+Kedah,1982,male,576
+Kedah,1983,both,1184
+Kedah,1983,female,596
+Kedah,1983,male,588
+Kedah,1984,both,1206
+Kedah,1984,female,607
+Kedah,1984,male,600
+Kedah,1985,both,1231
+Kedah,1985,female,619
+Kedah,1985,male,612
+Kedah,1986,both,1256
+Kedah,1986,female,632
+Kedah,1986,male,625
+Kedah,1987,both,1281
+Kedah,1987,female,644
+Kedah,1987,male,637
+Kedah,1988,both,1305
+Kedah,1988,female,656
+Kedah,1988,male,649
+Kedah,1989,both,1329
+Kedah,1989,female,668
+Kedah,1989,male,661
+Kedah,1990,both,1352
+Kedah,1990,female,680
+Kedah,1990,male,672
+Kedah,1991,both,1371
+Kedah,1991,female,693
+Kedah,1991,male,678
+Kedah,1992,both,1402
+Kedah,1992,female,708
+Kedah,1992,male,694
+Kedah,1993,both,1434
+Kedah,1993,female,724
+Kedah,1993,male,710
+Kedah,1994,both,1467
+Kedah,1994,female,740
+Kedah,1994,male,727
+Kedah,1995,both,1500
+Kedah,1995,female,756
+Kedah,1995,male,744
+Kedah,1996,both,1533
+Kedah,1996,female,773
+Kedah,1996,male,760
+Kedah,1997,both,1567
+Kedah,1997,female,789
+Kedah,1997,male,778
+Kedah,1998,both,1601
+Kedah,1998,female,806
+Kedah,1998,male,795
+Kedah,1999,both,1636
+Kedah,1999,female,824
+Kedah,1999,male,813
+Kedah,2000,both,1672
+Kedah,2000,female,842
+Kedah,2000,male,830
+Kedah,2001,both,1704
+Kedah,2001,female,856
+Kedah,2001,male,848
+Kedah,2002,both,1735
+Kedah,2002,female,869
+Kedah,2002,male,865
+Kedah,2003,both,1764
+Kedah,2003,female,882
+Kedah,2003,male,882
+Kedah,2004,both,1792
+Kedah,2004,female,895
+Kedah,2004,male,897
+Kedah,2005,both,1820
+Kedah,2005,female,907
+Kedah,2005,male,913
+Kedah,2006,both,1848
+Kedah,2006,female,919
+Kedah,2006,male,928
+Kedah,2007,both,1874
+Kedah,2007,female,931
+Kedah,2007,male,943
+Kedah,2008,both,1900
+Kedah,2008,female,942
+Kedah,2008,male,958
+Kedah,2009,both,1925
+Kedah,2009,female,953
+Kedah,2009,male,972
+Kedah,2010,both,1949
+Kedah,2010,female,964
+Kedah,2010,male,986
+Kedah,2011,both,1972
+Kedah,2011,female,975
+Kedah,2011,male,997
+Kedah,2012,both,2001
+Kedah,2012,female,989
+Kedah,2012,male,1012
+Kedah,2013,both,2040
+Kedah,2013,female,1005
+Kedah,2013,male,1035
+Kedah,2014,both,2063
+Kedah,2014,female,1016
+Kedah,2014,male,1046
+Kedah,2015,both,2096
+Kedah,2015,female,1033
+Kedah,2015,male,1063
+Kedah,2016,both,2120
+Kedah,2016,female,1044
+Kedah,2016,male,1076
+Kedah,2017,both,2144
+Kedah,2017,female,1055
+Kedah,2017,male,1089
+Kedah,2018,both,2163
+Kedah,2018,female,1065
+Kedah,2018,male,1098
+Kedah,2019,both,2174
+Kedah,2019,female,1072
+Kedah,2019,male,1102
+Kedah,2020,both,2131
+Kedah,2020,female,1044
+Kedah,2020,male,1087
+Kedah,2021,both,2152
+Kedah,2021,female,1056
+Kedah,2021,male,1096
+Kedah,2022,both,2163
+Kedah,2022,female,1062
+Kedah,2022,male,1101
+Kedah,2023,both,2189
+Kedah,2023,female,1073
+Kedah,2023,male,1116
+Kedah,2024,both,2218
+Kedah,2024,female,1085
+Kedah,2024,male,1133
+Kelantan,1970,both,707
+Kelantan,1970,female,356
+Kelantan,1970,male,351
+Kelantan,1971,both,724
+Kelantan,1971,female,364
+Kelantan,1971,male,359
+Kelantan,1972,both,741
+Kelantan,1972,female,374
+Kelantan,1972,male,367
+Kelantan,1973,both,760
+Kelantan,1973,female,383
+Kelantan,1973,male,376
+Kelantan,1974,both,777
+Kelantan,1974,female,392
+Kelantan,1974,male,385
+Kelantan,1975,both,796
+Kelantan,1975,female,402
+Kelantan,1975,male,394
+Kelantan,1976,both,814
+Kelantan,1976,female,411
+Kelantan,1976,male,403
+Kelantan,1977,both,834
+Kelantan,1977,female,422
+Kelantan,1977,male,413
+Kelantan,1978,both,852
+Kelantan,1978,female,431
+Kelantan,1978,male,421
+Kelantan,1979,both,874
+Kelantan,1979,female,442
+Kelantan,1979,male,432
+Kelantan,1980,both,896
+Kelantan,1980,female,453
+Kelantan,1980,male,442
+Kelantan,1981,both,920
+Kelantan,1981,female,466
+Kelantan,1981,male,455
+Kelantan,1982,both,947
+Kelantan,1982,female,479
+Kelantan,1982,male,468
+Kelantan,1983,both,975
+Kelantan,1983,female,492
+Kelantan,1983,male,482
+Kelantan,1984,both,1003
+Kelantan,1984,female,506
+Kelantan,1984,male,496
+Kelantan,1985,both,1033
+Kelantan,1985,female,521
+Kelantan,1985,male,512
+Kelantan,1986,both,1063
+Kelantan,1986,female,535
+Kelantan,1986,male,527
+Kelantan,1987,both,1093
+Kelantan,1987,female,550
+Kelantan,1987,male,544
+Kelantan,1988,both,1124
+Kelantan,1988,female,564
+Kelantan,1988,male,560
+Kelantan,1989,both,1154
+Kelantan,1989,female,579
+Kelantan,1989,male,575
+Kelantan,1990,both,1187
+Kelantan,1990,female,595
+Kelantan,1990,male,592
+Kelantan,1991,both,1227
+Kelantan,1991,female,622
+Kelantan,1991,male,605
+Kelantan,1992,both,1244
+Kelantan,1992,female,629
+Kelantan,1992,male,614
+Kelantan,1993,both,1259
+Kelantan,1993,female,636
+Kelantan,1993,male,623
+Kelantan,1994,both,1274
+Kelantan,1994,female,642
+Kelantan,1994,male,631
+Kelantan,1995,both,1288
+Kelantan,1995,female,648
+Kelantan,1995,male,639
+Kelantan,1996,both,1301
+Kelantan,1996,female,654
+Kelantan,1996,male,647
+Kelantan,1997,both,1314
+Kelantan,1997,female,660
+Kelantan,1997,male,654
+Kelantan,1998,both,1329
+Kelantan,1998,female,667
+Kelantan,1998,male,662
+Kelantan,1999,both,1345
+Kelantan,1999,female,674
+Kelantan,1999,male,671
+Kelantan,2000,both,1361
+Kelantan,2000,female,682
+Kelantan,2000,male,680
+Kelantan,2001,both,1390
+Kelantan,2001,female,695
+Kelantan,2001,male,695
+Kelantan,2002,both,1417
+Kelantan,2002,female,708
+Kelantan,2002,male,709
+Kelantan,2003,both,1440
+Kelantan,2003,female,719
+Kelantan,2003,male,721
+Kelantan,2004,both,1464
+Kelantan,2004,female,731
+Kelantan,2004,male,733
+Kelantan,2005,both,1486
+Kelantan,2005,female,742
+Kelantan,2005,male,745
+Kelantan,2006,both,1508
+Kelantan,2006,female,752
+Kelantan,2006,male,756
+Kelantan,2007,both,1529
+Kelantan,2007,female,762
+Kelantan,2007,male,767
+Kelantan,2008,both,1550
+Kelantan,2008,female,772
+Kelantan,2008,male,778
+Kelantan,2009,both,1570
+Kelantan,2009,female,782
+Kelantan,2009,male,788
+Kelantan,2010,both,1590
+Kelantan,2010,female,791
+Kelantan,2010,male,799
+Kelantan,2011,both,1619
+Kelantan,2011,female,805
+Kelantan,2011,male,813
+Kelantan,2012,both,1651
+Kelantan,2012,female,821
+Kelantan,2012,male,830
+Kelantan,2013,both,1684
+Kelantan,2013,female,837
+Kelantan,2013,male,847
+Kelantan,2014,both,1723
+Kelantan,2014,female,855
+Kelantan,2014,male,869
+Kelantan,2015,both,1761
+Kelantan,2015,female,873
+Kelantan,2015,male,888
+Kelantan,2016,both,1797
+Kelantan,2016,female,890
+Kelantan,2016,male,907
+Kelantan,2017,both,1829
+Kelantan,2017,female,906
+Kelantan,2017,male,923
+Kelantan,2018,both,1860
+Kelantan,2018,female,921
+Kelantan,2018,male,940
+Kelantan,2019,both,1884
+Kelantan,2019,female,932
+Kelantan,2019,male,952
+Kelantan,2020,both,1792
+Kelantan,2020,female,892
+Kelantan,2020,male,900
+Kelantan,2021,both,1812
+Kelantan,2021,female,903
+Kelantan,2021,male,910
+Kelantan,2022,both,1831
+Kelantan,2022,female,912
+Kelantan,2022,male,918
+Kelantan,2023,both,1860
+Kelantan,2023,female,926
+Kelantan,2023,male,934
+Kelantan,2024,both,1888
+Kelantan,2024,female,939
+Kelantan,2024,male,949
+Melaka,1970,both,419
+Melaka,1970,female,213
+Melaka,1970,male,206
+Melaka,1971,both,425
+Melaka,1971,female,216
+Melaka,1971,male,208
+Melaka,1972,both,430
+Melaka,1972,female,219
+Melaka,1972,male,210
+Melaka,1973,both,434
+Melaka,1973,female,222
+Melaka,1973,male,212
+Melaka,1974,both,438
+Melaka,1974,female,224
+Melaka,1974,male,214
+Melaka,1975,both,443
+Melaka,1975,female,227
+Melaka,1975,male,216
+Melaka,1976,both,447
+Melaka,1976,female,229
+Melaka,1976,male,218
+Melaka,1977,both,452
+Melaka,1977,female,232
+Melaka,1977,male,220
+Melaka,1978,both,456
+Melaka,1978,female,234
+Melaka,1978,male,222
+Melaka,1979,both,461
+Melaka,1979,female,237
+Melaka,1979,male,224
+Melaka,1980,both,467
+Melaka,1980,female,240
+Melaka,1980,male,227
+Melaka,1981,both,473
+Melaka,1981,female,242
+Melaka,1981,male,230
+Melaka,1982,both,479
+Melaka,1982,female,245
+Melaka,1982,male,234
+Melaka,1983,both,485
+Melaka,1983,female,248
+Melaka,1983,male,237
+Melaka,1984,both,491
+Melaka,1984,female,250
+Melaka,1984,male,241
+Melaka,1985,both,499
+Melaka,1985,female,254
+Melaka,1985,male,245
+Melaka,1986,both,506
+Melaka,1986,female,257
+Melaka,1986,male,248
+Melaka,1987,both,513
+Melaka,1987,female,261
+Melaka,1987,male,252
+Melaka,1988,both,520
+Melaka,1988,female,264
+Melaka,1988,male,256
+Melaka,1989,both,527
+Melaka,1989,female,268
+Melaka,1989,male,260
+Melaka,1990,both,534
+Melaka,1990,female,271
+Melaka,1990,male,263
+Melaka,1991,both,540
+Melaka,1991,female,274
+Melaka,1991,male,266
+Melaka,1992,both,552
+Melaka,1992,female,279
+Melaka,1992,male,273
+Melaka,1993,both,563
+Melaka,1993,female,284
+Melaka,1993,male,279
+Melaka,1994,both,575
+Melaka,1994,female,290
+Melaka,1994,male,285
+Melaka,1995,both,586
+Melaka,1995,female,294
+Melaka,1995,male,292
+Melaka,1996,both,597
+Melaka,1996,female,300
+Melaka,1996,male,298
+Melaka,1997,both,609
+Melaka,1997,female,305
+Melaka,1997,male,304
+Melaka,1998,both,620
+Melaka,1998,female,310
+Melaka,1998,male,311
+Melaka,1999,both,633
+Melaka,1999,female,316
+Melaka,1999,male,317
+Melaka,2000,both,647
+Melaka,2000,female,322
+Melaka,2000,male,325
+Melaka,2001,both,666
+Melaka,2001,female,331
+Melaka,2001,male,334
+Melaka,2002,both,684
+Melaka,2002,female,340
+Melaka,2002,male,344
+Melaka,2003,both,702
+Melaka,2003,female,349
+Melaka,2003,male,353
+Melaka,2004,both,720
+Melaka,2004,female,358
+Melaka,2004,male,362
+Melaka,2005,both,737
+Melaka,2005,female,366
+Melaka,2005,male,371
+Melaka,2006,both,755
+Melaka,2006,female,375
+Melaka,2006,male,380
+Melaka,2007,both,773
+Melaka,2007,female,384
+Melaka,2007,male,389
+Melaka,2008,both,790
+Melaka,2008,female,392
+Melaka,2008,male,398
+Melaka,2009,both,808
+Melaka,2009,female,401
+Melaka,2009,male,407
+Melaka,2010,both,824
+Melaka,2010,female,409
+Melaka,2010,male,415
+Melaka,2011,both,833
+Melaka,2011,female,414
+Melaka,2011,male,419
+Melaka,2012,both,843
+Melaka,2012,female,417
+Melaka,2012,male,426
+Melaka,2013,both,857
+Melaka,2013,female,424
+Melaka,2013,male,432
+Melaka,2014,both,872
+Melaka,2014,female,432
+Melaka,2014,male,440
+Melaka,2015,both,889
+Melaka,2015,female,441
+Melaka,2015,male,448
+Melaka,2016,both,901
+Melaka,2016,female,448
+Melaka,2016,male,453
+Melaka,2017,both,913
+Melaka,2017,female,454
+Melaka,2017,male,459
+Melaka,2018,both,922
+Melaka,2018,female,459
+Melaka,2018,male,464
+Melaka,2019,both,928
+Melaka,2019,female,462
+Melaka,2019,male,466
+Melaka,2020,both,998
+Melaka,2020,female,474
+Melaka,2020,male,525
+Melaka,2021,both,1004
+Melaka,2021,female,477
+Melaka,2021,male,527
+Melaka,2022,both,1009
+Melaka,2022,female,480
+Melaka,2022,male,529
+Melaka,2023,both,1028
+Melaka,2023,female,486
+Melaka,2023,male,542
+Melaka,2024,both,1047
+Melaka,2024,female,493
+Melaka,2024,male,554
+"Negeri Sembilan",1970,both,500
+"Negeri Sembilan",1970,female,248
+"Negeri Sembilan",1970,male,252
+"Negeri Sembilan",1971,both,508
+"Negeri Sembilan",1971,female,252
+"Negeri Sembilan",1971,male,256
+"Negeri Sembilan",1972,both,516
+"Negeri Sembilan",1972,female,256
+"Negeri Sembilan",1972,male,260
+"Negeri Sembilan",1973,both,523
+"Negeri Sembilan",1973,female,260
+"Negeri Sembilan",1973,male,263
+"Negeri Sembilan",1974,both,530
+"Negeri Sembilan",1974,female,264
+"Negeri Sembilan",1974,male,266
+"Negeri Sembilan",1975,both,538
+"Negeri Sembilan",1975,female,268
+"Negeri Sembilan",1975,male,270
+"Negeri Sembilan",1976,both,544
+"Negeri Sembilan",1976,female,271
+"Negeri Sembilan",1976,male,273
+"Negeri Sembilan",1977,both,552
+"Negeri Sembilan",1977,female,275
+"Negeri Sembilan",1977,male,276
+"Negeri Sembilan",1978,both,559
+"Negeri Sembilan",1978,female,279
+"Negeri Sembilan",1978,male,280
+"Negeri Sembilan",1979,both,566
+"Negeri Sembilan",1979,female,283
+"Negeri Sembilan",1979,male,284
+"Negeri Sembilan",1980,both,577
+"Negeri Sembilan",1980,female,288
+"Negeri Sembilan",1980,male,289
+"Negeri Sembilan",1981,both,587
+"Negeri Sembilan",1981,female,293
+"Negeri Sembilan",1981,male,294
+"Negeri Sembilan",1982,both,599
+"Negeri Sembilan",1982,female,298
+"Negeri Sembilan",1982,male,300
+"Negeri Sembilan",1983,both,611
+"Negeri Sembilan",1983,female,304
+"Negeri Sembilan",1983,male,307
+"Negeri Sembilan",1984,both,624
+"Negeri Sembilan",1984,female,310
+"Negeri Sembilan",1984,male,314
+"Negeri Sembilan",1985,both,638
+"Negeri Sembilan",1985,female,317
+"Negeri Sembilan",1985,male,322
+"Negeri Sembilan",1986,both,654
+"Negeri Sembilan",1986,female,324
+"Negeri Sembilan",1986,male,330
+"Negeri Sembilan",1987,both,669
+"Negeri Sembilan",1987,female,332
+"Negeri Sembilan",1987,male,337
+"Negeri Sembilan",1988,both,684
+"Negeri Sembilan",1988,female,338
+"Negeri Sembilan",1988,male,345
+"Negeri Sembilan",1989,both,698
+"Negeri Sembilan",1989,female,346
+"Negeri Sembilan",1989,male,353
+"Negeri Sembilan",1990,both,713
+"Negeri Sembilan",1990,female,353
+"Negeri Sembilan",1990,male,361
+"Negeri Sembilan",1991,both,726
+"Negeri Sembilan",1991,female,359
+"Negeri Sembilan",1991,male,367
+"Negeri Sembilan",1992,both,742
+"Negeri Sembilan",1992,female,366
+"Negeri Sembilan",1992,male,375
+"Negeri Sembilan",1993,both,757
+"Negeri Sembilan",1993,female,373
+"Negeri Sembilan",1993,male,384
+"Negeri Sembilan",1994,both,772
+"Negeri Sembilan",1994,female,380
+"Negeri Sembilan",1994,male,392
+"Negeri Sembilan",1995,both,788
+"Negeri Sembilan",1995,female,387
+"Negeri Sembilan",1995,male,400
+"Negeri Sembilan",1996,both,803
+"Negeri Sembilan",1996,female,394
+"Negeri Sembilan",1996,male,409
+"Negeri Sembilan",1997,both,818
+"Negeri Sembilan",1997,female,401
+"Negeri Sembilan",1997,male,417
+"Negeri Sembilan",1998,both,834
+"Negeri Sembilan",1998,female,408
+"Negeri Sembilan",1998,male,426
+"Negeri Sembilan",1999,both,850
+"Negeri Sembilan",1999,female,415
+"Negeri Sembilan",1999,male,434
+"Negeri Sembilan",2000,both,866
+"Negeri Sembilan",2000,female,423
+"Negeri Sembilan",2000,male,443
+"Negeri Sembilan",2001,both,884
+"Negeri Sembilan",2001,female,431
+"Negeri Sembilan",2001,male,453
+"Negeri Sembilan",2002,both,900
+"Negeri Sembilan",2002,female,439
+"Negeri Sembilan",2002,male,462
+"Negeri Sembilan",2003,both,917
+"Negeri Sembilan",2003,female,446
+"Negeri Sembilan",2003,male,471
+"Negeri Sembilan",2004,both,934
+"Negeri Sembilan",2004,female,454
+"Negeri Sembilan",2004,male,480
+"Negeri Sembilan",2005,both,950
+"Negeri Sembilan",2005,female,462
+"Negeri Sembilan",2005,male,489
+"Negeri Sembilan",2006,both,967
+"Negeri Sembilan",2006,female,469
+"Negeri Sembilan",2006,male,498
+"Negeri Sembilan",2007,both,984
+"Negeri Sembilan",2007,female,476
+"Negeri Sembilan",2007,male,507
+"Negeri Sembilan",2008,both,1000
+"Negeri Sembilan",2008,female,484
+"Negeri Sembilan",2008,male,516
+"Negeri Sembilan",2009,both,1015
+"Negeri Sembilan",2009,female,491
+"Negeri Sembilan",2009,male,524
+"Negeri Sembilan",2010,both,1030
+"Negeri Sembilan",2010,female,498
+"Negeri Sembilan",2010,male,532
+"Negeri Sembilan",2011,both,1047
+"Negeri Sembilan",2011,female,506
+"Negeri Sembilan",2011,male,541
+"Negeri Sembilan",2012,both,1058
+"Negeri Sembilan",2012,female,509
+"Negeri Sembilan",2012,male,549
+"Negeri Sembilan",2013,both,1072
+"Negeri Sembilan",2013,female,515
+"Negeri Sembilan",2013,male,557
+"Negeri Sembilan",2014,both,1080
+"Negeri Sembilan",2014,female,520
+"Negeri Sembilan",2014,male,559
+"Negeri Sembilan",2015,both,1089
+"Negeri Sembilan",2015,female,525
+"Negeri Sembilan",2015,male,564
+"Negeri Sembilan",2016,both,1099
+"Negeri Sembilan",2016,female,530
+"Negeri Sembilan",2016,male,569
+"Negeri Sembilan",2017,both,1114
+"Negeri Sembilan",2017,female,537
+"Negeri Sembilan",2017,male,577
+"Negeri Sembilan",2018,both,1123
+"Negeri Sembilan",2018,female,542
+"Negeri Sembilan",2018,male,581
+"Negeri Sembilan",2019,both,1126
+"Negeri Sembilan",2019,female,546
+"Negeri Sembilan",2019,male,581
+"Negeri Sembilan",2020,both,1200
+"Negeri Sembilan",2020,female,576
+"Negeri Sembilan",2020,male,624
+"Negeri Sembilan",2021,both,1204
+"Negeri Sembilan",2021,female,580
+"Negeri Sembilan",2021,male,624
+"Negeri Sembilan",2022,both,1208
+"Negeri Sembilan",2022,female,583
+"Negeri Sembilan",2022,male,625
+"Negeri Sembilan",2023,both,1225
+"Negeri Sembilan",2023,female,590
+"Negeri Sembilan",2023,male,635
+"Negeri Sembilan",2024,both,1240
+"Negeri Sembilan",2024,female,596
+"Negeri Sembilan",2024,male,644
+Pahang,1970,both,524
+Pahang,1970,female,251
+Pahang,1970,male,273
+Pahang,1971,both,548
+Pahang,1971,female,263
+Pahang,1971,male,286
+Pahang,1972,both,574
+Pahang,1972,female,275
+Pahang,1972,male,299
+Pahang,1973,both,599
+Pahang,1973,female,287
+Pahang,1973,male,312
+Pahang,1974,both,626
+Pahang,1974,female,300
+Pahang,1974,male,326
+Pahang,1975,both,653
+Pahang,1975,female,313
+Pahang,1975,male,341
+Pahang,1976,both,680
+Pahang,1976,female,326
+Pahang,1976,male,355
+Pahang,1977,both,710
+Pahang,1977,female,339
+Pahang,1977,male,370
+Pahang,1978,both,738
+Pahang,1978,female,353
+Pahang,1978,male,385
+Pahang,1979,both,768
+Pahang,1979,female,367
+Pahang,1979,male,401
+Pahang,1980,both,802
+Pahang,1980,female,383
+Pahang,1980,male,419
+Pahang,1981,both,821
+Pahang,1981,female,392
+Pahang,1981,male,429
+Pahang,1982,both,842
+Pahang,1982,female,401
+Pahang,1982,male,441
+Pahang,1983,both,865
+Pahang,1983,female,412
+Pahang,1983,male,453
+Pahang,1984,both,889
+Pahang,1984,female,423
+Pahang,1984,male,466
+Pahang,1985,both,915
+Pahang,1985,female,436
+Pahang,1985,male,479
+Pahang,1986,both,944
+Pahang,1986,female,449
+Pahang,1986,male,494
+Pahang,1987,both,971
+Pahang,1987,female,463
+Pahang,1987,male,508
+Pahang,1988,both,998
+Pahang,1988,female,477
+Pahang,1988,male,522
+Pahang,1989,both,1026
+Pahang,1989,female,490
+Pahang,1989,male,536
+Pahang,1990,both,1054
+Pahang,1990,female,504
+Pahang,1990,male,550
+Pahang,1991,both,1080
+Pahang,1991,female,519
+Pahang,1991,male,560
+Pahang,1992,both,1104
+Pahang,1992,female,530
+Pahang,1992,male,574
+Pahang,1993,both,1128
+Pahang,1993,female,541
+Pahang,1993,male,587
+Pahang,1994,both,1152
+Pahang,1994,female,552
+Pahang,1994,male,600
+Pahang,1995,both,1176
+Pahang,1995,female,563
+Pahang,1995,male,614
+Pahang,1996,both,1201
+Pahang,1996,female,574
+Pahang,1996,male,627
+Pahang,1997,both,1225
+Pahang,1997,female,585
+Pahang,1997,male,640
+Pahang,1998,both,1249
+Pahang,1998,female,596
+Pahang,1998,male,653
+Pahang,1999,both,1272
+Pahang,1999,female,606
+Pahang,1999,male,666
+Pahang,2000,both,1296
+Pahang,2000,female,617
+Pahang,2000,male,679
+Pahang,2001,both,1317
+Pahang,2001,female,627
+Pahang,2001,male,691
+Pahang,2002,both,1339
+Pahang,2002,female,636
+Pahang,2002,male,703
+Pahang,2003,both,1360
+Pahang,2003,female,645
+Pahang,2003,male,715
+Pahang,2004,both,1380
+Pahang,2004,female,653
+Pahang,2004,male,727
+Pahang,2005,both,1401
+Pahang,2005,female,662
+Pahang,2005,male,739
+Pahang,2006,both,1421
+Pahang,2006,female,670
+Pahang,2006,male,751
+Pahang,2007,both,1441
+Pahang,2007,female,679
+Pahang,2007,male,763
+Pahang,2008,both,1462
+Pahang,2008,female,687
+Pahang,2008,male,774
+Pahang,2009,both,1482
+Pahang,2009,female,695
+Pahang,2009,male,786
+Pahang,2010,both,1502
+Pahang,2010,female,704
+Pahang,2010,male,798
+Pahang,2011,both,1527
+Pahang,2011,female,714
+Pahang,2011,male,813
+Pahang,2012,both,1547
+Pahang,2012,female,723
+Pahang,2012,male,824
+Pahang,2013,both,1569
+Pahang,2013,female,731
+Pahang,2013,male,838
+Pahang,2014,both,1592
+Pahang,2014,female,742
+Pahang,2014,male,850
+Pahang,2015,both,1608
+Pahang,2015,female,750
+Pahang,2015,male,858
+Pahang,2016,both,1627
+Pahang,2016,female,759
+Pahang,2016,male,867
+Pahang,2017,both,1647
+Pahang,2017,female,769
+Pahang,2017,male,878
+Pahang,2018,both,1665
+Pahang,2018,female,778
+Pahang,2018,male,887
+Pahang,2019,both,1671
+Pahang,2019,female,785
+Pahang,2019,male,887
+Pahang,2020,both,1591
+Pahang,2020,female,747
+Pahang,2020,male,844
+Pahang,2021,both,1602
+Pahang,2021,female,754
+Pahang,2021,male,847
+Pahang,2022,both,1614
+Pahang,2022,female,761
+Pahang,2022,male,853
+Pahang,2023,both,1643
+Pahang,2023,female,770
+Pahang,2023,male,873
+Pahang,2024,both,1668
+Pahang,2024,female,778
+Pahang,2024,male,890
+Perak,1970,both,1632
+Perak,1970,female,810
+Perak,1970,male,822
+Perak,1971,both,1651
+Perak,1971,female,821
+Perak,1971,male,830
+Perak,1972,both,1669
+Perak,1972,female,832
+Perak,1972,male,838
+Perak,1973,both,1686
