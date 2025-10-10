@@ -1,0 +1,481 @@
+state,year,sex,population
+Johor,2016,both,3651.8
+Johor,2016,female,1720.7
+Johor,2016,male,1931.1
+Johor,2017,both,3697
+Johor,2017,female,1744.5
+Johor,2017,male,1952.6
+Johor,2018,both,3749.4
+Johor,2018,female,1773
+Johor,2018,male,1976.4
+Johor,2019,both,3761.2
+Johor,2019,female,1786.6
+Johor,2019,male,1974.6
+Johor,2020,both,4009.7
+Johor,2020,female,1868.4
+Johor,2020,male,2141.3
+Johor,2021,both,4020
+Johor,2021,female,1881.1
+Johor,2021,male,2138.8
+Johor,2022,both,4028.3
+Johor,2022,female,1890
+Johor,2022,male,2138.2
+Johor,2023,both,4107.2
+Johor,2023,female,1914.8
+Johor,2023,male,2192.4
+Johor,2024,both,4184.4
+Johor,2024,female,1938.7
+Johor,2024,male,2245.6
+Johor,2025,both,4205.9
+Johor,2025,female,1951.4
+Johor,2025,male,2254.5
+Kedah,2016,both,2119.7
+Kedah,2016,female,1044.1
+Kedah,2016,male,1075.6
+Kedah,2017,both,2143.9
+Kedah,2017,female,1055.2
+Kedah,2017,male,1088.7
+Kedah,2018,both,2163
+Kedah,2018,female,1065.1
+Kedah,2018,male,1097.8
+Kedah,2019,both,2173.7
+Kedah,2019,female,1072.3
+Kedah,2019,male,1101.5
+Kedah,2020,both,2131.4
+Kedah,2020,female,1044.1
+Kedah,2020,male,1087.3
+Kedah,2021,both,2151.7
+Kedah,2021,female,1055.9
+Kedah,2021,male,1095.8
+Kedah,2022,both,2163.1
+Kedah,2022,female,1061.9
+Kedah,2022,male,1101.2
+Kedah,2023,both,2189.3
+Kedah,2023,female,1073.2
+Kedah,2023,male,1116.1
+Kedah,2024,both,2217.1
+Kedah,2024,female,1084.5
+Kedah,2024,male,1132.6
+Kedah,2025,both,2228
+Kedah,2025,female,1090.9
+Kedah,2025,male,1137.1
+Kelantan,2016,both,1796.7
+Kelantan,2016,female,890.1
+Kelantan,2016,male,906.7
+Kelantan,2017,both,1829
+Kelantan,2017,female,905.8
+Kelantan,2017,male,923.2
+Kelantan,2018,both,1860.5
+Kelantan,2018,female,920.6
+Kelantan,2018,male,939.9
+Kelantan,2019,both,1883.8
+Kelantan,2019,female,931.7
+Kelantan,2019,male,952.1
+Kelantan,2020,both,1792.5
+Kelantan,2020,female,892.4
+Kelantan,2020,male,900.1
+Kelantan,2021,both,1812.3
+Kelantan,2021,female,902.6
+Kelantan,2021,male,909.7
+Kelantan,2022,both,1830.6
+Kelantan,2022,female,912
+Kelantan,2022,male,918.5
+Kelantan,2023,both,1859.8
+Kelantan,2023,female,925.8
+Kelantan,2023,male,934
+Kelantan,2024,both,1887.9
+Kelantan,2024,female,939
+Kelantan,2024,male,949
+Kelantan,2025,both,1907.7
+Kelantan,2025,female,948.9
+Kelantan,2025,male,958.8
+Melaka,2016,both,901.1
+Melaka,2016,female,447.7
+Melaka,2016,male,453.4
+Melaka,2017,both,913.1
+Melaka,2017,female,453.9
+Melaka,2017,male,459.2
+Melaka,2018,both,922.4
+Melaka,2018,female,458.9
+Melaka,2018,male,463.6
+Melaka,2019,both,928.4
+Melaka,2019,female,462.5
+Melaka,2019,male,465.9
+Melaka,2020,both,998.4
+Melaka,2020,female,473.5
+Melaka,2020,male,524.9
+Melaka,2021,both,1004.5
+Melaka,2021,female,477.1
+Melaka,2021,male,527.4
+Melaka,2022,both,1008.6
+Melaka,2022,female,479.8
+Melaka,2022,male,528.8
+Melaka,2023,both,1028.3
+Melaka,2023,female,486.4
+Melaka,2023,male,541.9
+Melaka,2024,both,1046.7
+Melaka,2024,female,492.6
+Melaka,2024,male,554.1
+Melaka,2025,both,1052.5
+Melaka,2025,female,495.8
+Melaka,2025,male,556.7
+"Negeri Sembilan",2016,both,1099.3
+"Negeri Sembilan",2016,female,530.2
+"Negeri Sembilan",2016,male,569.1
+"Negeri Sembilan",2017,both,1114
+"Negeri Sembilan",2017,female,537.1
+"Negeri Sembilan",2017,male,576.8
+"Negeri Sembilan",2018,both,1122.9
+"Negeri Sembilan",2018,female,542.1
+"Negeri Sembilan",2018,male,580.8
+"Negeri Sembilan",2019,both,1126.2
+"Negeri Sembilan",2019,female,545.6
+"Negeri Sembilan",2019,male,580.6
+"Negeri Sembilan",2020,both,1200
+"Negeri Sembilan",2020,female,576
+"Negeri Sembilan",2020,male,624
+"Negeri Sembilan",2021,both,1204.2
+"Negeri Sembilan",2021,female,579.9
+"Negeri Sembilan",2021,male,624.2
+"Negeri Sembilan",2022,both,1207.9
+"Negeri Sembilan",2022,female,582.7
+"Negeri Sembilan",2022,male,625.1
+"Negeri Sembilan",2023,both,1224.9
+"Negeri Sembilan",2023,female,589.5
+"Negeri Sembilan",2023,male,635.4
+"Negeri Sembilan",2024,both,1239.5
+"Negeri Sembilan",2024,female,595.3
+"Negeri Sembilan",2024,male,644.1
+"Negeri Sembilan",2025,both,1244.6
+"Negeri Sembilan",2025,female,598.6
+"Negeri Sembilan",2025,male,646
+Pahang,2016,both,1626.7
+Pahang,2016,female,759.4
+Pahang,2016,male,867.3
+Pahang,2017,both,1647
+Pahang,2017,female,768.9
+Pahang,2017,male,878.2
+Pahang,2018,both,1664.7
+Pahang,2018,female,778
+Pahang,2018,male,886.8
+Pahang,2019,both,1671.4
+Pahang,2019,female,784.6
+Pahang,2019,male,886.9
+Pahang,2020,both,1591.3
+Pahang,2020,female,747.1
+Pahang,2020,male,844.2
+Pahang,2021,both,1601.5
+Pahang,2021,female,754.4
+Pahang,2021,male,847
+Pahang,2022,both,1614.3
+Pahang,2022,female,761.2
+Pahang,2022,male,853
+Pahang,2023,both,1643.2
+Pahang,2023,female,770.3
+Pahang,2023,male,872.9
+Pahang,2024,both,1667.7
+Pahang,2024,female,778.1
+Pahang,2024,male,889.7
+Pahang,2025,both,1678.2
+Pahang,2025,female,783.9
+Pahang,2025,male,894.3
+Perak,2016,both,2482.1
+Perak,2016,female,1225.2
+Perak,2016,male,1257
+Perak,2017,both,2493.2
+Perak,2017,female,1230.3
+Perak,2017,male,1262.9
+Perak,2018,both,2503.5
+Perak,2018,female,1236.7
+Perak,2018,male,1266.7
+Perak,2019,both,2508.8
+Perak,2019,female,1240.6
+Perak,2019,male,1268.2
+Perak,2020,both,2496
+Perak,2020,female,1195.8
+Perak,2020,male,1300.2
+Perak,2021,both,2515.8
+Perak,2021,female,1206.8
+Perak,2021,male,1309
+Perak,2022,both,2514.4
+Perak,2022,female,1209.9
+Perak,2022,male,1304.6
+Perak,2023,both,2541.2
+Perak,2023,female,1217.9
+Perak,2023,male,1323.4
+Perak,2024,both,2569.4
+Perak,2024,female,1225.7
+Perak,2024,male,1343.7
+Perak,2025,both,2574.9
+Perak,2025,female,1229.8
+Perak,2025,male,1345.1
+Perlis,2016,both,251
+Perlis,2016,female,125.7
+Perlis,2016,male,125.3
+Perlis,2017,both,252
+Perlis,2017,female,126.3
+Perlis,2017,male,125.7
+Perlis,2018,both,253.5
+Perlis,2018,female,127.2
+Perlis,2018,male,126.3
+Perlis,2019,both,254
+Perlis,2019,female,127.6
+Perlis,2019,male,126.5
+Perlis,2020,both,284.9
+Perlis,2020,female,142.5
+Perlis,2020,male,142.3
+Perlis,2021,both,287.6
+Perlis,2021,female,144
+Perlis,2021,male,143.6
+Perlis,2022,both,289.8
+Perlis,2022,female,145.2
+Perlis,2022,male,144.6
+Perlis,2023,both,293.1
+Perlis,2023,female,146.9
+Perlis,2023,male,146.2
+Perlis,2024,both,296.8
+Perlis,2024,female,148.8
+Perlis,2024,male,147.9
+Perlis,2025,both,297.8
+Perlis,2025,female,149.4
+Perlis,2025,male,148.3
+"Pulau Pinang",2016,both,1717.7
+"Pulau Pinang",2016,female,853
+"Pulau Pinang",2016,male,864.6
+"Pulau Pinang",2017,both,1744.1
+"Pulau Pinang",2017,female,867
+"Pulau Pinang",2017,male,877.1
+"Pulau Pinang",2018,both,1762.8
+"Pulau Pinang",2018,female,876.3
+"Pulau Pinang",2018,male,886.5
+"Pulau Pinang",2019,both,1768.8
+"Pulau Pinang",2019,female,879.7
+"Pulau Pinang",2019,male,889.1
+"Pulau Pinang",2020,both,1740.4
+"Pulau Pinang",2020,female,847.9
+"Pulau Pinang",2020,male,892.6
+"Pulau Pinang",2021,both,1740
+"Pulau Pinang",2021,female,848.6
+"Pulau Pinang",2021,male,891.4
+"Pulau Pinang",2022,both,1740.9
+"Pulau Pinang",2022,female,849.9
+"Pulau Pinang",2022,male,891
+"Pulau Pinang",2023,both,1772.6
+"Pulau Pinang",2023,female,864.2
+"Pulau Pinang",2023,male,908.4
+"Pulau Pinang",2024,both,1800.5
+"Pulau Pinang",2024,female,876.7
+"Pulau Pinang",2024,male,923.8
+"Pulau Pinang",2025,both,1803.3
+"Pulau Pinang",2025,female,878.6
+"Pulau Pinang",2025,male,924.7
+Sabah,2016,both,3802.8
+Sabah,2016,female,1816.2
+Sabah,2016,male,1986.6
+Sabah,2017,both,3855.9
+Sabah,2017,female,1842.1
+Sabah,2017,male,2013.8
+Sabah,2018,both,3898.4
+Sabah,2018,female,1862.8
+Sabah,2018,male,2035.6
+Sabah,2019,both,3904.4
+Sabah,2019,female,1867.2
+Sabah,2019,male,2037.2
+Sabah,2020,both,3418.8
+Sabah,2020,female,1639
+Sabah,2020,male,1779.8
+Sabah,2021,both,3412.6
+Sabah,2021,female,1633.1
+Sabah,2021,male,1779.5
+Sabah,2022,both,3414.9
+Sabah,2022,female,1635.9
+Sabah,2022,male,1779.1
+Sabah,2023,both,3596.7
+Sabah,2023,female,1719.9
+Sabah,2023,male,1876.9
+Sabah,2024,both,3742
+Sabah,2024,female,1786.9
+Sabah,2024,male,1955
+Sabah,2025,both,3759.6
+Sabah,2025,female,1796.7
+Sabah,2025,male,1962.9
+Sarawak,2016,both,2738.7
+Sarawak,2016,female,1310.8
+Sarawak,2016,male,1427.9
+Sarawak,2017,both,2766.3
+Sarawak,2017,female,1324
+Sarawak,2017,male,1442.3
+Sarawak,2018,both,2791.7
+Sarawak,2018,female,1336.5
+Sarawak,2018,male,1455.1
+Sarawak,2019,both,2806
+Sarawak,2019,female,1345.7
+Sarawak,2019,male,1460.3
+Sarawak,2020,both,2453.7
+Sarawak,2020,female,1184.1
+Sarawak,2020,male,1269.6
+Sarawak,2021,both,2465.6
+Sarawak,2021,female,1192
+Sarawak,2021,male,1273.6
+Sarawak,2022,both,2473.5
+Sarawak,2022,female,1197.4
+Sarawak,2022,male,1276.1
+Sarawak,2023,both,2502.3
+Sarawak,2023,female,1210.4
+Sarawak,2023,male,1292
+Sarawak,2024,both,2517.5
+Sarawak,2024,female,1218.3
+Sarawak,2024,male,1299.2
+Sarawak,2025,both,2529.8
+Sarawak,2025,female,1225.4
+Sarawak,2025,male,1304.4
+Selangor,2016,both,6291.5
+Selangor,2016,female,3019.9
+Selangor,2016,male,3271.6
+Selangor,2017,both,6380.7
+Selangor,2017,female,3064.5
+Selangor,2017,male,3316.2
+Selangor,2018,both,6475
+Selangor,2018,female,3110.1
+Selangor,2018,male,3365
+Selangor,2019,both,6506.1
+Selangor,2019,female,3131
+Selangor,2019,male,3375.1
+Selangor,2020,both,6994.4
+Selangor,2020,female,3283.7
+Selangor,2020,male,3710.8
+Selangor,2021,both,7014.7
+Selangor,2021,female,3304.7
+Selangor,2021,male,3710
+Selangor,2022,both,7050.3
+Selangor,2022,female,3326
+Selangor,2022,male,3724.3
+Selangor,2023,both,7209.7
+Selangor,2023,female,3379
+Selangor,2023,male,3830.7
+Selangor,2024,both,7362.7
+Selangor,2024,female,3429.2
+Selangor,2024,male,3933.5
+Selangor,2025,both,7406.8
+Selangor,2025,female,3453.2
+Selangor,2025,male,3953.6
+Terengganu,2016,both,1183.4
+Terengganu,2016,female,580
+Terengganu,2016,male,603.4
+Terengganu,2017,both,1208
+Terengganu,2017,female,591.6
+Terengganu,2017,male,616.4
+Terengganu,2018,both,1228.3
+Terengganu,2018,female,602.2
+Terengganu,2018,male,626.1
+Terengganu,2019,both,1244.5
+Terengganu,2019,female,611.3
+Terengganu,2019,male,633.2
+Terengganu,2020,both,1149.4
+Terengganu,2020,female,561.6
+Terengganu,2020,male,587.9
+Terengganu,2021,both,1170.7
+Terengganu,2021,female,571.5
+Terengganu,2021,male,599.1
+Terengganu,2022,both,1186.6
+Terengganu,2022,female,579.5
+Terengganu,2022,male,607.1
+Terengganu,2023,both,1210
+Terengganu,2023,female,589.5
+Terengganu,2023,male,620.6
+Terengganu,2024,both,1231.5
+Terengganu,2024,female,598.8
+Terengganu,2024,male,632.8
+Terengganu,2025,both,1246.9
+Terengganu,2025,female,606.6
+Terengganu,2025,male,640.3
+"W.P. Kuala Lumpur",2016,both,1789.7
+"W.P. Kuala Lumpur",2016,female,871.4
+"W.P. Kuala Lumpur",2016,male,918.3
+"W.P. Kuala Lumpur",2017,both,1793.2
+"W.P. Kuala Lumpur",2017,female,873.8
+"W.P. Kuala Lumpur",2017,male,919.4
+"W.P. Kuala Lumpur",2018,both,1790
+"W.P. Kuala Lumpur",2018,female,870.7
+"W.P. Kuala Lumpur",2018,male,919.4
+"W.P. Kuala Lumpur",2019,both,1782.5
+"W.P. Kuala Lumpur",2019,female,867.3
+"W.P. Kuala Lumpur",2019,male,915.2
+"W.P. Kuala Lumpur",2020,both,1982.1
+"W.P. Kuala Lumpur",2020,female,923.2
+"W.P. Kuala Lumpur",2020,male,1058.9
+"W.P. Kuala Lumpur",2021,both,1964
+"W.P. Kuala Lumpur",2021,female,918.8
+"W.P. Kuala Lumpur",2021,male,1045.2
+"W.P. Kuala Lumpur",2022,both,1961.2
+"W.P. Kuala Lumpur",2022,female,920.3
+"W.P. Kuala Lumpur",2022,male,1040.8
+"W.P. Kuala Lumpur",2023,both,2005.7
+"W.P. Kuala Lumpur",2023,female,933.6
+"W.P. Kuala Lumpur",2023,male,1072.1
+"W.P. Kuala Lumpur",2024,both,2067.5
+"W.P. Kuala Lumpur",2024,female,950.6
+"W.P. Kuala Lumpur",2024,male,1116.9
+"W.P. Kuala Lumpur",2025,both,2074.1
+"W.P. Kuala Lumpur",2025,female,954.5
+"W.P. Kuala Lumpur",2025,male,1119.6
+"W.P. Labuan",2016,both,96.8
+"W.P. Labuan",2016,female,47.9
+"W.P. Labuan",2016,male,48.9
+"W.P. Labuan",2017,both,97.6
+"W.P. Labuan",2017,female,48.3
+"W.P. Labuan",2017,male,49.2
+"W.P. Labuan",2018,both,99
+"W.P. Labuan",2018,female,49.1
+"W.P. Labuan",2018,male,49.9
+"W.P. Labuan",2019,both,99.3
+"W.P. Labuan",2019,female,49.3
+"W.P. Labuan",2019,male,50
+"W.P. Labuan",2020,both,95.1
+"W.P. Labuan",2020,female,46.2
+"W.P. Labuan",2020,male,48.9
+"W.P. Labuan",2021,both,96
+"W.P. Labuan",2021,female,46.6
+"W.P. Labuan",2021,male,49.4
+"W.P. Labuan",2022,both,96.9
+"W.P. Labuan",2022,female,47
+"W.P. Labuan",2022,male,49.8
+"W.P. Labuan",2023,both,99
+"W.P. Labuan",2023,female,48.2
+"W.P. Labuan",2023,male,50.8
+"W.P. Labuan",2024,both,100.8
+"W.P. Labuan",2024,female,49
+"W.P. Labuan",2024,male,51.8
+"W.P. Labuan",2025,both,100.9
+"W.P. Labuan",2025,female,49.1
+"W.P. Labuan",2025,male,51.9
+"W.P. Putrajaya",2016,both,84.4
+"W.P. Putrajaya",2016,female,45
+"W.P. Putrajaya",2016,male,39.5
+"W.P. Putrajaya",2017,both,87.5
+"W.P. Putrajaya",2017,female,46.5
+"W.P. Putrajaya",2017,male,41
+"W.P. Putrajaya",2018,both,97.2
+"W.P. Putrajaya",2018,female,51.5
+"W.P. Putrajaya",2018,male,45.6
+"W.P. Putrajaya",2019,both,103.7
+"W.P. Putrajaya",2019,female,55.1
+"W.P. Putrajaya",2019,male,48.6
+"W.P. Putrajaya",2020,both,109.2
+"W.P. Putrajaya",2020,female,55.6
+"W.P. Putrajaya",2020,male,53.6
+"W.P. Putrajaya",2021,both,115.2
+"W.P. Putrajaya",2021,female,58.5
+"W.P. Putrajaya",2021,male,56.7
+"W.P. Putrajaya",2022,both,117
+"W.P. Putrajaya",2022,female,59.4
+"W.P. Putrajaya",2022,male,57.6
+"W.P. Putrajaya",2023,both,118.8
+"W.P. Putrajaya",2023,female,60.2
+"W.P. Putrajaya",2023,male,58.6
+"W.P. Putrajaya",2024,both,120.3
+"W.P. Putrajaya",2024,female,60.8
+"W.P. Putrajaya",2024,male,59.4
+"W.P. Putrajaya",2025,both,120.8
+"W.P. Putrajaya",2025,female,61.2
+"W.P. Putrajaya",2025,male,59.5
