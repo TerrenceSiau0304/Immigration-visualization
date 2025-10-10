@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Population and Migration Dynamics in Malaysia",
+  "params": [
+    {
+      "name": "State_selection",
+      "value": "Selangor",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Johor",
+          "Kedah",
+          "Kelantan",
+          "Melaka",
+          "Negeri Sembilan",
+          "Pahang",
+          "Perak",
+          "Perlis",
+          "Pulau Pinang",
+          "Sabah",
+          "Sarawak",
+          "Selangor",
+          "Terengganu",
+          "W.P. Kuala Lumpur",
+          "W.P. Labuan",
+          "W.P. Putrajaya"
+        ],
+        "name": "Select State: "
+      }
+    }
+  ],
+  "vconcat": [
+    {
+      "title": {"text": "Total Immigration towards Malaysia in 2025"},
+      "width": 800,
+      "height": 400,
+      "projection": {"type": "equirectangular", "rotate": [-120, 0, 0]},
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/ne_grid_boundary110m.json",
+            "format": {
+              "type": "topojson",
+              "feature": "ne_110m_admin_0_countries"
+            }
+          },
+          "transform": [
+            {
+              "lookup": "properties.ISO_A3",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Immigrants_2024.csv"
+                },
+                "key": "country",
+                "fields": ["total"]
+              }
+            }
+          ],
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#999999",
+            "strokeWidth": 1,
+            "strokeOpacity": 0.8
+          },
+          "encoding": {
+            "color": {
+              "field": "total",
+              "type": "quantitative",
+              "scale": {"type": "linear"}
+            },
+            "tooltip": [
+              {
+                "field": "properties.NAME",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {"field": "total", "type": "quantitative", "title": "Immigrants"}
+            ]
+          }
+        },
+        {
+          "data": {"graticule": true},
+          "mark": {"type": "geoshape", "stroke": "#cccccc", "strokeWidth": 0.5}
+        }
+      ]
+    },
+    {
+      "width": 800,
+      "height": 400,
+      "title": "Total Population of Malaysia by Sex",
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_gender_10years.csv"
+      },
+      "layer": [
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"}
+          ],
+          "mark": {"type": "line", "interpolate": "monotone", "point": true},
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal", "title": "Year"},
+            "y": {
+              "field": "pop",
+              "type": "quantitative",
+              "title": "Total Population"
+            },
+            "color": {"field": "sex", "type": "nominal", "title": "Sex"},
+            "tooltip": [
+              {"field": "state", "title": "State"},
+              {"field": "year", "title": "Year"},
+              {"field": "sex", "title": "Sex"},
+              {"field": "pop", "title": "Total Population"}
+            ]
+          }
+        },
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"},
+            {
+              "joinaggregate": [
+                {"op": "max", "field": "year_num", "as": "max_year"}
+              ],
+              "groupby": ["sex"]
+            },
+            {"filter": "datum.year_num == datum.max_year"}
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 8,
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal"},
+            "y": {"field": "pop", "type": "quantitative"},
+            "color": {"field": "sex", "type": "nominal"},
+            "text": {"field": "sex", "type": "nominal"}
+          }
+        }
+      ]
+    }
+  ],
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
