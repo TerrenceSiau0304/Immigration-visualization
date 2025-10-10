@@ -161,9 +161,12 @@ Johor,2022,male,2138
 Johor,2023,both,4107
 Johor,2023,female,1915
 Johor,2023,male,2192
-Johor,2024,both,4186
-Johor,2024,female,1940
-Johor,2024,male,2247
+Johor,2024,both,4184
+Johor,2024,female,1939
+Johor,2024,male,2246
+Johor,2025,both,4206
+Johor,2025,female,1951
+Johor,2025,male,2254
 Kedah,1970,both,990
 Kedah,1970,female,490
 Kedah,1970,male,500
@@ -326,9 +329,12 @@ Kedah,2022,male,1101
 Kedah,2023,both,2189
 Kedah,2023,female,1073
 Kedah,2023,male,1116
-Kedah,2024,both,2218
-Kedah,2024,female,1085
+Kedah,2024,both,2217
+Kedah,2024,female,1084
 Kedah,2024,male,1133
+Kedah,2025,both,2228
+Kedah,2025,female,1091
+Kedah,2025,male,1137
 Kelantan,1970,both,707
 Kelantan,1970,female,356
 Kelantan,1970,male,351
@@ -494,6 +500,9 @@ Kelantan,2023,male,934
 Kelantan,2024,both,1888
 Kelantan,2024,female,939
 Kelantan,2024,male,949
+Kelantan,2025,both,1908
+Kelantan,2025,female,949
+Kelantan,2025,male,959
 Melaka,1970,both,419
 Melaka,1970,female,213
 Melaka,1970,male,206
@@ -659,6 +668,9 @@ Melaka,2023,male,542
 Melaka,2024,both,1047
 Melaka,2024,female,493
 Melaka,2024,male,554
+Melaka,2025,both,1052
+Melaka,2025,female,496
+Melaka,2025,male,557
 "Negeri Sembilan",1970,both,500
 "Negeri Sembilan",1970,female,248
 "Negeri Sembilan",1970,male,252
@@ -822,8 +834,11 @@ Melaka,2024,male,554
 "Negeri Sembilan",2023,female,590
 "Negeri Sembilan",2023,male,635
 "Negeri Sembilan",2024,both,1240
-"Negeri Sembilan",2024,female,596
+"Negeri Sembilan",2024,female,595
 "Negeri Sembilan",2024,male,644
+"Negeri Sembilan",2025,both,1245
+"Negeri Sembilan",2025,female,599
+"Negeri Sembilan",2025,male,646
 Pahang,1970,both,524
 Pahang,1970,female,251
 Pahang,1970,male,273
@@ -984,18 +999,3 @@ Pahang,2022,both,1614
 Pahang,2022,female,761
 Pahang,2022,male,853
 Pahang,2023,both,1643
-Pahang,2023,female,770
-Pahang,2023,male,873
-Pahang,2024,both,1668
-Pahang,2024,female,778
-Pahang,2024,male,890
-Perak,1970,both,1632
-Perak,1970,female,810
-Perak,1970,male,822
-Perak,1971,both,1651
-Perak,1971,female,821
-Perak,1971,male,830
-Perak,1972,both,1669
-Perak,1972,female,832
-Perak,1972,male,838
-Perak,1973,both,1686
