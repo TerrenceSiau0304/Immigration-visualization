@@ -1,0 +1,1001 @@
+state,year,age,population
+Johor,2016,overall,3651.8
+Johor,2016,0-4,295.8
+Johor,2016,5-9,285.2
+Johor,2016,10-14,305.6
+Johor,2016,15-19,324.6
+Johor,2016,20-24,347.1
+Johor,2016,25-29,342.1
+Johor,2016,30-34,322.1
+Johor,2016,35-39,265.7
+Johor,2016,40-44,232.7
+Johor,2016,45-49,212.5
+Johor,2016,50-54,191.2
+Johor,2016,55-59,163.6
+Johor,2016,60-64,126.5
+Johor,2016,65-69,95.2
+Johor,2016,70-74,60
+Johor,2016,75-79,41.6
+Johor,2016,80-84,21.4
+Johor,2016,85+,19.1
+Johor,2017,overall,3697
+Johor,2017,0-4,296.8
+Johor,2017,5-9,286.5
+Johor,2017,10-14,300.1
+Johor,2017,15-19,325.6
+Johor,2017,20-24,353.8
+Johor,2017,25-29,342.8
+Johor,2017,30-34,323.9
+Johor,2017,35-39,276.4
+Johor,2017,40-44,233.8
+Johor,2017,45-49,215
+Johor,2017,50-54,194.1
+Johor,2017,55-59,167.9
+Johor,2017,60-64,132
+Johor,2017,65-69,98.9
+Johor,2017,70-74,64.5
+Johor,2017,75-79,42
+Johor,2017,80-84,23.3
+Johor,2017,85+,19.6
+Johor,2018,overall,3749.4
+Johor,2018,0-4,298.9
+Johor,2018,5-9,289.8
+Johor,2018,10-14,295.7
+Johor,2018,15-19,327.6
+Johor,2018,20-24,360.9
+Johor,2018,25-29,344.8
+Johor,2018,30-34,323.4
+Johor,2018,35-39,288.3
+Johor,2018,40-44,235.9
+Johor,2018,45-49,217.9
+Johor,2018,50-54,196.6
+Johor,2018,55-59,171.9
+Johor,2018,60-64,137.9
+Johor,2018,65-69,102.4
+Johor,2018,70-74,69.7
+Johor,2018,75-79,42
+Johor,2018,80-84,25.7
+Johor,2018,85+,20
+Johor,2019,overall,3761.2
+Johor,2019,0-4,301.2
+Johor,2019,5-9,290.5
+Johor,2019,10-14,290.3
+Johor,2019,15-19,325.6
+Johor,2019,20-24,361.3
+Johor,2019,25-29,338.8
+Johor,2019,30-34,318.1
+Johor,2019,35-39,294.2
+Johor,2019,40-44,238.2
+Johor,2019,45-49,218.4
+Johor,2019,50-54,197.5
+Johor,2019,55-59,174.3
+Johor,2019,60-64,142.5
+Johor,2019,65-69,105.3
+Johor,2019,70-74,74.1
+Johor,2019,75-79,42.9
+Johor,2019,80-84,27.4
+Johor,2019,85+,20.6
+Johor,2020,overall,4009.7
+Johor,2020,0-4,306.3
+Johor,2020,5-9,322.3
+Johor,2020,10-14,330.7
+Johor,2020,15-19,345.2
+Johor,2020,20-24,388.9
+Johor,2020,25-29,362.6
+Johor,2020,30-34,338.1
+Johor,2020,35-39,318.1
+Johor,2020,40-44,260.1
+Johor,2020,45-49,234.3
+Johor,2020,50-54,212.1
+Johor,2020,55-59,189.1
+Johor,2020,60-64,157.2
+Johor,2020,65-69,94.9
+Johor,2020,70-74,66
+Johor,2020,75-79,38.1
+Johor,2020,80-84,24.7
+Johor,2020,85+,20.9
+Johor,2021,overall,4020
+Johor,2021,0-4,296.6
+Johor,2021,5-9,318.8
+Johor,2021,10-14,333.9
+Johor,2021,15-19,335.9
+Johor,2021,20-24,391.3
+Johor,2021,25-29,361.1
+Johor,2021,30-34,335.4
+Johor,2021,35-39,319.2
+Johor,2021,40-44,267
+Johor,2021,45-49,235.2
+Johor,2021,50-54,214
+Johor,2021,55-59,191.8
+Johor,2021,60-64,161.4
+Johor,2021,65-69,104.2
+Johor,2021,70-74,68.4
+Johor,2021,75-79,39.9
+Johor,2021,80-84,25.3
+Johor,2021,85+,20.8
+Johor,2022,overall,4028.3
+Johor,2022,0-4,280.7
+Johor,2022,5-9,312.8
+Johor,2022,10-14,337.4
+Johor,2022,15-19,331.9
+Johor,2022,20-24,392.6
+Johor,2022,25-29,363.8
+Johor,2022,30-34,333.6
+Johor,2022,35-39,319
+Johor,2022,40-44,276.2
+Johor,2022,45-49,235.9
+Johor,2022,50-54,215.6
+Johor,2022,55-59,193.9
+Johor,2022,60-64,164.8
+Johor,2022,65-69,113.9
+Johor,2022,70-74,70.3
+Johor,2022,75-79,41.8
+Johor,2022,80-84,24.5
+Johor,2022,85+,19.4
+Johor,2023,overall,4107.2
+Johor,2023,0-4,266.2
+Johor,2023,5-9,310.1
+Johor,2023,10-14,337.9
+Johor,2023,15-19,338.6
+Johor,2023,20-24,403.1
+Johor,2023,25-29,381.3
+Johor,2023,30-34,340.6
+Johor,2023,35-39,323.4
+Johor,2023,40-44,290.5
+Johor,2023,45-49,240.3
+Johor,2023,50-54,219.7
+Johor,2023,55-59,197.6
+Johor,2023,60-64,169.2
+Johor,2023,65-69,126.1
+Johor,2023,70-74,73.1
+Johor,2023,75-79,45.1
+Johor,2023,80-84,24.3
+Johor,2023,85+,20.1
+Johor,2024,overall,4184.4
+Johor,2024,0-4,259.6
+Johor,2024,5-9,310.6
+Johor,2024,10-14,339.3
+Johor,2024,15-19,332.3
+Johor,2024,20-24,410.5
+Johor,2024,25-29,399
+Johor,2024,30-34,347.9
+Johor,2024,35-39,328.1
+Johor,2024,40-44,302.8
+Johor,2024,45-49,246.7
+Johor,2024,50-54,223.6
+Johor,2024,55-59,201.2
+Johor,2024,60-64,173.5
+Johor,2024,65-69,138.7
+Johor,2024,70-74,76
+Johor,2024,75-79,48.1
+Johor,2024,80-84,25.3
+Johor,2024,85+,21.1
+Johor,2025,overall,4205.9
+Johor,2025,0-4,251.7
+Johor,2025,5-9,306.2
+Johor,2025,10-14,321.8
+Johor,2025,15-19,347
+Johor,2025,20-24,405.5
+Johor,2025,25-29,404.7
+Johor,2025,30-34,348.3
+Johor,2025,35-39,328.1
+Johor,2025,40-44,308
+Johor,2025,45-49,252.7
+Johor,2025,50-54,225.6
+Johor,2025,55-59,203.2
+Johor,2025,60-64,176.7
+Johor,2025,65-69,149.7
+Johor,2025,70-74,78.5
+Johor,2025,75-79,49.6
+Johor,2025,80-84,27.1
+Johor,2025,85+,21.4
+Kedah,2016,overall,2119.7
+Kedah,2016,0-4,184.2
+Kedah,2016,5-9,174.9
+Kedah,2016,10-14,180.6
+Kedah,2016,15-19,217.4
+Kedah,2016,20-24,214.7
+Kedah,2016,25-29,180.5
+Kedah,2016,30-34,149
+Kedah,2016,35-39,129
+Kedah,2016,40-44,122.8
+Kedah,2016,45-49,118.3
+Kedah,2016,50-54,113.3
+Kedah,2016,55-59,101
+Kedah,2016,60-64,81.7
+Kedah,2016,65-69,60.9
+Kedah,2016,70-74,37.6
+Kedah,2016,75-79,29
+Kedah,2016,80-84,13.4
+Kedah,2016,85+,11.4
+Kedah,2017,overall,2143.9
+Kedah,2017,0-4,183
+Kedah,2017,5-9,178.2
+Kedah,2017,10-14,176.1
+Kedah,2017,15-19,212.4
+Kedah,2017,20-24,222.1
+Kedah,2017,25-29,187.4
+Kedah,2017,30-34,152.8
+Kedah,2017,35-39,131.1
+Kedah,2017,40-44,122.6
+Kedah,2017,45-49,118.2
+Kedah,2017,50-54,113.9
+Kedah,2017,55-59,102.9
+Kedah,2017,60-64,84.4
+Kedah,2017,65-69,63.6
+Kedah,2017,70-74,40.4
+Kedah,2017,75-79,28.5
+Kedah,2017,80-84,14.7
+Kedah,2017,85+,11.5
+Kedah,2018,overall,2163
+Kedah,2018,0-4,182.3
+Kedah,2018,5-9,181.3
+Kedah,2018,10-14,172.4
+Kedah,2018,15-19,206.3
+Kedah,2018,20-24,226.8
+Kedah,2018,25-29,193.6
+Kedah,2018,30-34,155.2
+Kedah,2018,35-39,133.5
+Kedah,2018,40-44,122.4
+Kedah,2018,45-49,117.9
+Kedah,2018,50-54,113.8
+Kedah,2018,55-59,104.5
+Kedah,2018,60-64,87
+Kedah,2018,65-69,66.1
+Kedah,2018,70-74,43.8
+Kedah,2018,75-79,27.6
+Kedah,2018,80-84,16.4
+Kedah,2018,85+,11.6
+Kedah,2019,overall,2173.7
+Kedah,2019,0-4,181.4
+Kedah,2019,5-9,181.6
+Kedah,2019,10-14,171.7
+Kedah,2019,15-19,199.4
+Kedah,2019,20-24,228.1
+Kedah,2019,25-29,198.3
+Kedah,2019,30-34,157.2
+Kedah,2019,35-39,135.2
+Kedah,2019,40-44,122.1
+Kedah,2019,45-49,117.4
+Kedah,2019,50-54,113.5
+Kedah,2019,55-59,105.6
+Kedah,2019,60-64,89.4
+Kedah,2019,65-69,68.6
+Kedah,2019,70-74,47
+Kedah,2019,75-79,27.3
+Kedah,2019,80-84,18.2
+Kedah,2019,85+,11.9
+Kedah,2020,overall,2131.4
+Kedah,2020,0-4,181
+Kedah,2020,5-9,183.4
+Kedah,2020,10-14,174.5
+Kedah,2020,15-19,187.4
+Kedah,2020,20-24,219.7
+Kedah,2020,25-29,196.7
+Kedah,2020,30-34,154.8
+Kedah,2020,35-39,132.8
+Kedah,2020,40-44,117.9
+Kedah,2020,45-49,113.3
+Kedah,2020,50-54,109.7
+Kedah,2020,55-59,103
+Kedah,2020,60-64,88.8
+Kedah,2020,65-69,66.7
+Kedah,2020,70-74,45.9
+Kedah,2020,75-79,25.9
+Kedah,2020,80-84,17.6
+Kedah,2020,85+,12.4
+Kedah,2021,overall,2151.7
+Kedah,2021,0-4,176.9
+Kedah,2021,5-9,183.8
+Kedah,2021,10-14,175.8
+Kedah,2021,15-19,181.6
+Kedah,2021,20-24,217.7
+Kedah,2021,25-29,203.8
+Kedah,2021,30-34,159.4
+Kedah,2021,35-39,135.7
+Kedah,2021,40-44,119.1
+Kedah,2021,45-49,113.5
+Kedah,2021,50-54,110
+Kedah,2021,55-59,104
+Kedah,2021,60-64,91.2
+Kedah,2021,65-69,70.4
+Kedah,2021,70-74,49.1
+Kedah,2021,75-79,27.9
+Kedah,2021,80-84,19.2
+Kedah,2021,85+,12.6
+Kedah,2022,overall,2163.1
+Kedah,2022,0-4,173.1
+Kedah,2022,5-9,182
+Kedah,2022,10-14,178.4
+Kedah,2022,15-19,177.4
+Kedah,2022,20-24,213.7
+Kedah,2022,25-29,211.2
+Kedah,2022,30-34,165.4
+Kedah,2022,35-39,138.7
+Kedah,2022,40-44,120.5
+Kedah,2022,45-49,112.8
+Kedah,2022,50-54,109.3
+Kedah,2022,55-59,103.6
+Kedah,2022,60-64,92.2
+Kedah,2022,65-69,73
+Kedah,2022,70-74,50.8
+Kedah,2022,75-79,29.8
+Kedah,2022,80-84,18.7
+Kedah,2022,85+,12.7
+Kedah,2023,overall,2189.3
+Kedah,2023,0-4,172.1
+Kedah,2023,5-9,181.5
+Kedah,2023,10-14,181.4
+Kedah,2023,15-19,174.6
+Kedah,2023,20-24,209.4
+Kedah,2023,25-29,218.7
+Kedah,2023,30-34,173.5
+Kedah,2023,35-39,142.7
+Kedah,2023,40-44,123.2
+Kedah,2023,45-49,112.7
+Kedah,2023,50-54,109.4
+Kedah,2023,55-59,103.8
+Kedah,2023,60-64,93.4
+Kedah,2023,65-69,76.2
+Kedah,2023,70-74,52.8
+Kedah,2023,75-79,32.3
+Kedah,2023,80-84,18
+Kedah,2023,85+,13.5
+Kedah,2024,overall,2217.1
+Kedah,2024,0-4,170.7
+Kedah,2024,5-9,181.2
+Kedah,2024,10-14,181.8
+Kedah,2024,15-19,174.7
+Kedah,2024,20-24,205
+Kedah,2024,25-29,224.7
+Kedah,2024,30-34,182.7
+Kedah,2024,35-39,147.4
+Kedah,2024,40-44,126.3
+Kedah,2024,45-49,113.2
+Kedah,2024,50-54,109.4
+Kedah,2024,55-59,104
+Kedah,2024,60-64,94.6
+Kedah,2024,65-69,79.3
+Kedah,2024,70-74,55
+Kedah,2024,75-79,34.7
+Kedah,2024,80-84,17.7
+Kedah,2024,85+,14.8
+Kedah,2025,overall,2228
+Kedah,2025,0-4,167.3
+Kedah,2025,5-9,177.9
+Kedah,2025,10-14,181.8
+Kedah,2025,15-19,175.7
+Kedah,2025,20-24,198.3
+Kedah,2025,25-29,224.9
+Kedah,2025,30-34,190
+Kedah,2025,35-39,151.6
+Kedah,2025,40-44,128.9
+Kedah,2025,45-49,113.7
+Kedah,2025,50-54,109.2
+Kedah,2025,55-59,103.9
+Kedah,2025,60-64,95.3
+Kedah,2025,65-69,82.1
+Kedah,2025,70-74,57
+Kedah,2025,75-79,36.5
+Kedah,2025,80-84,18.3
+Kedah,2025,85+,15.6
+Kelantan,2016,overall,1796.7
+Kelantan,2016,0-4,196
+Kelantan,2016,5-9,178.9
+Kelantan,2016,10-14,178.9
+Kelantan,2016,15-19,193.7
+Kelantan,2016,20-24,203.3
+Kelantan,2016,25-29,141.2
+Kelantan,2016,30-34,110.1
+Kelantan,2016,35-39,93.1
+Kelantan,2016,40-44,86.8
+Kelantan,2016,45-49,87.1
+Kelantan,2016,50-54,85.4
+Kelantan,2016,55-59,75.2
+Kelantan,2016,60-64,57.4
+Kelantan,2016,65-69,45.3
+Kelantan,2016,70-74,28.2
+Kelantan,2016,75-79,18.6
+Kelantan,2016,80-84,9.3
+Kelantan,2016,85+,8.3
+Kelantan,2017,overall,1829
+Kelantan,2017,0-4,195.9
+Kelantan,2017,5-9,183.5
+Kelantan,2017,10-14,175.5
+Kelantan,2017,15-19,193.2
+Kelantan,2017,20-24,205.7
+Kelantan,2017,25-29,156.8
+Kelantan,2017,30-34,112.3
+Kelantan,2017,35-39,96.3
+Kelantan,2017,40-44,86.5
+Kelantan,2017,45-49,86.7
+Kelantan,2017,50-54,85.6
+Kelantan,2017,55-59,77.3
+Kelantan,2017,60-64,59.8
+Kelantan,2017,65-69,46.6
+Kelantan,2017,70-74,30.2
+Kelantan,2017,75-79,19.1
+Kelantan,2017,80-84,9.6
+Kelantan,2017,85+,8.3
+Kelantan,2018,overall,1860.5
+Kelantan,2018,0-4,196.1
+Kelantan,2018,5-9,188.3
+Kelantan,2018,10-14,174.5
+Kelantan,2018,15-19,190
+Kelantan,2018,20-24,202.9
+Kelantan,2018,25-29,175.7
+Kelantan,2018,30-34,114.7
+Kelantan,2018,35-39,100.6
+Kelantan,2018,40-44,86.4
+Kelantan,2018,45-49,86.4
+Kelantan,2018,50-54,85.3
+Kelantan,2018,55-59,78.9
+Kelantan,2018,60-64,62.5
+Kelantan,2018,65-69,47.5
+Kelantan,2018,70-74,32.7
+Kelantan,2018,75-79,19.6
+Kelantan,2018,80-84,9.8
+Kelantan,2018,85+,8.4
+Kelantan,2019,overall,1883.8
+Kelantan,2019,0-4,194.8
+Kelantan,2019,5-9,191.1
+Kelantan,2019,10-14,175.4
+Kelantan,2019,15-19,187.2
+Kelantan,2019,20-24,198
+Kelantan,2019,25-29,190.5
+Kelantan,2019,30-34,119
+Kelantan,2019,35-39,103.8
+Kelantan,2019,40-44,86.7
+Kelantan,2019,45-49,85.5
+Kelantan,2019,50-54,84.7
+Kelantan,2019,55-59,79.9
+Kelantan,2019,60-64,65.1
+Kelantan,2019,65-69,48.4
+Kelantan,2019,70-74,35
+Kelantan,2019,75-79,19.5
+Kelantan,2019,80-84,10.8
+Kelantan,2019,85+,8.5
+Kelantan,2020,overall,1792.5
+Kelantan,2020,0-4,173.8
+Kelantan,2020,5-9,185.5
+Kelantan,2020,10-14,177.9
+Kelantan,2020,15-19,207.2
+Kelantan,2020,20-24,171.6
+Kelantan,2020,25-29,130.1
+Kelantan,2020,30-34,118.2
+Kelantan,2020,35-39,107.5
+Kelantan,2020,40-44,88.2
+Kelantan,2020,45-49,86.6
+Kelantan,2020,50-54,82.1
+Kelantan,2020,55-59,83.5
+Kelantan,2020,60-64,66.3
+Kelantan,2020,65-69,46.8
+Kelantan,2020,70-74,33
+Kelantan,2020,75-79,18.5
+Kelantan,2020,80-84,10.1
+Kelantan,2020,85+,5.8
+Kelantan,2021,overall,1812.3
+Kelantan,2021,0-4,173.4
+Kelantan,2021,5-9,183.5
+Kelantan,2021,10-14,182
+Kelantan,2021,15-19,200
+Kelantan,2021,20-24,179.9
+Kelantan,2021,25-29,136.1
+Kelantan,2021,30-34,118.3
+Kelantan,2021,35-39,110.4
+Kelantan,2021,40-44,90.1
+Kelantan,2021,45-49,84.6
+Kelantan,2021,50-54,82.6
+Kelantan,2021,55-59,81.8
+Kelantan,2021,60-64,69.8
+Kelantan,2021,65-69,50
+Kelantan,2021,70-74,34.1
+Kelantan,2021,75-79,19.6
+Kelantan,2021,80-84,10.1
+Kelantan,2021,85+,6
+Kelantan,2022,overall,1830.6
+Kelantan,2022,0-4,173.1
+Kelantan,2022,5-9,180.3
+Kelantan,2022,10-14,185.7
+Kelantan,2022,15-19,194.7
+Kelantan,2022,20-24,187.7
+Kelantan,2022,25-29,142.5
+Kelantan,2022,30-34,120.5
+Kelantan,2022,35-39,111.9
+Kelantan,2022,40-44,92.8
+Kelantan,2022,45-49,83.5
+Kelantan,2022,50-54,83
+Kelantan,2022,55-59,79.8
+Kelantan,2022,60-64,72.5
+Kelantan,2022,65-69,51.8
+Kelantan,2022,70-74,34.9
+Kelantan,2022,75-79,20.3
+Kelantan,2022,80-84,9.9
+Kelantan,2022,85+,5.8
+Kelantan,2023,overall,1859.8
+Kelantan,2023,0-4,176.4
+Kelantan,2023,5-9,176
+Kelantan,2023,10-14,184.2
+Kelantan,2023,15-19,187.8
+Kelantan,2023,20-24,201.4
+Kelantan,2023,25-29,150.8
+Kelantan,2023,30-34,123.3
+Kelantan,2023,35-39,115.5
+Kelantan,2023,40-44,96.2
+Kelantan,2023,45-49,84.3
+Kelantan,2023,50-54,82.3
+Kelantan,2023,55-59,79.9
+Kelantan,2023,60-64,74
+Kelantan,2023,65-69,54.2
+Kelantan,2023,70-74,36.3
+Kelantan,2023,75-79,21.5
+Kelantan,2023,80-84,9.7
+Kelantan,2023,85+,5.8
+Kelantan,2024,overall,1887.9
+Kelantan,2024,0-4,172.1
+Kelantan,2024,5-9,175.1
+Kelantan,2024,10-14,186.7
+Kelantan,2024,15-19,181.1
+Kelantan,2024,20-24,208.4
+Kelantan,2024,25-29,163
+Kelantan,2024,30-34,129.1
+Kelantan,2024,35-39,115.8
+Kelantan,2024,40-44,101.7
+Kelantan,2024,45-49,84.1
+Kelantan,2024,50-54,83
+Kelantan,2024,55-59,77.8
+Kelantan,2024,60-64,77.1
+Kelantan,2024,65-69,56.4
+Kelantan,2024,70-74,37.8
+Kelantan,2024,75-79,22.6
+Kelantan,2024,80-84,10.8
+Kelantan,2024,85+,5.3
+Kelantan,2025,overall,1907.7
+Kelantan,2025,0-4,167.7
+Kelantan,2025,5-9,173.8
+Kelantan,2025,10-14,185.2
+Kelantan,2025,15-19,177.5
+Kelantan,2025,20-24,209.3
+Kelantan,2025,25-29,174.3
+Kelantan,2025,30-34,131.1
+Kelantan,2025,35-39,116.7
+Kelantan,2025,40-44,105.7
+Kelantan,2025,45-49,85.6
+Kelantan,2025,50-54,83.5
+Kelantan,2025,55-59,78.2
+Kelantan,2025,60-64,77.6
+Kelantan,2025,65-69,59.4
+Kelantan,2025,70-74,39.4
+Kelantan,2025,75-79,25.1
+Kelantan,2025,80-84,11.3
+Kelantan,2025,85+,6.2
+Melaka,2016,overall,901.1
+Melaka,2016,0-4,71.4
+Melaka,2016,5-9,68
+Melaka,2016,10-14,71.9
+Melaka,2016,15-19,78.9
+Melaka,2016,20-24,103.7
+Melaka,2016,25-29,89.8
+Melaka,2016,30-34,71.6
+Melaka,2016,35-39,55.1
+Melaka,2016,40-44,48.1
+Melaka,2016,45-49,50
+Melaka,2016,50-54,48.7
+Melaka,2016,55-59,42.4
+Melaka,2016,60-64,33.5
+Melaka,2016,65-69,27.3
+Melaka,2016,70-74,17.4
+Melaka,2016,75-79,11.9
+Melaka,2016,80-84,5.9
+Melaka,2016,85+,5.4
+Melaka,2017,overall,913.1
+Melaka,2017,0-4,71.9
+Melaka,2017,5-9,68.1
+Melaka,2017,10-14,71.5
+Melaka,2017,15-19,77.6
+Melaka,2017,20-24,101.1
+Melaka,2017,25-29,95.1
+Melaka,2017,30-34,73.7
+Melaka,2017,35-39,58.1
+Melaka,2017,40-44,48.1
+Melaka,2017,45-49,49.3
+Melaka,2017,50-54,49.2
+Melaka,2017,55-59,43.6
+Melaka,2017,60-64,34.7
+Melaka,2017,65-69,28.1
+Melaka,2017,70-74,18.8
+Melaka,2017,75-79,12.2
+Melaka,2017,80-84,6.4
+Melaka,2017,85+,5.6
+Melaka,2018,overall,922.4
+Melaka,2018,0-4,72
+Melaka,2018,5-9,68.8
+Melaka,2018,10-14,70.9
+Melaka,2018,15-19,77
+Melaka,2018,20-24,97.2
+Melaka,2018,25-29,99.6
+Melaka,2018,30-34,75.4
+Melaka,2018,35-39,60.9
+Melaka,2018,40-44,48.3
+Melaka,2018,45-49,48.4
+Melaka,2018,50-54,49.5
+Melaka,2018,55-59,44.7
+Melaka,2018,60-64,35.8
+Melaka,2018,65-69,28.5
+Melaka,2018,70-74,20.5
+Melaka,2018,75-79,12.2
+Melaka,2018,80-84,7.1
+Melaka,2018,85+,5.8
+Melaka,2019,overall,928.4
+Melaka,2019,0-4,72.1
+Melaka,2019,5-9,69.1
+Melaka,2019,10-14,70.2
+Melaka,2019,15-19,76.3
+Melaka,2019,20-24,92.6
+Melaka,2019,25-29,102.2
+Melaka,2019,30-34,77.1
+Melaka,2019,35-39,63.3
+Melaka,2019,40-44,48.8
+Melaka,2019,45-49,47.4
+Melaka,2019,50-54,49.5
+Melaka,2019,55-59,45.6
+Melaka,2019,60-64,37.1
+Melaka,2019,65-69,28.8
+Melaka,2019,70-74,22.1
+Melaka,2019,75-79,12.5
+Melaka,2019,80-84,7.7
+Melaka,2019,85+,6
+Melaka,2020,overall,998.4
+Melaka,2020,0-4,83.1
+Melaka,2020,5-9,82.2
+Melaka,2020,10-14,68.7
+Melaka,2020,15-19,102.6
+Melaka,2020,20-24,91.5
+Melaka,2020,25-29,84.4
+Melaka,2020,30-34,101.8
+Melaka,2020,35-39,74.3
+Melaka,2020,40-44,83.4
+Melaka,2020,45-49,46.1
+Melaka,2020,50-54,40.7
+Melaka,2020,55-59,42.4
+Melaka,2020,60-64,34
+Melaka,2020,65-69,27.4
+Melaka,2020,70-74,17.5
+Melaka,2020,75-79,9.1
+Melaka,2020,80-84,5.9
+Melaka,2020,85+,3.3
+Melaka,2021,overall,1004.5
+Melaka,2021,0-4,78.7
+Melaka,2021,5-9,85.7
+Melaka,2021,10-14,69.7
+Melaka,2021,15-19,96.6
+Melaka,2021,20-24,93.8
+Melaka,2021,25-29,87.3
+Melaka,2021,30-34,101
+Melaka,2021,35-39,75.4
+Melaka,2021,40-44,82.3
+Melaka,2021,45-49,51.2
+Melaka,2021,50-54,40.3
+Melaka,2021,55-59,41.2
+Melaka,2021,60-64,36.3
+Melaka,2021,65-69,28.4
+Melaka,2021,70-74,18
+Melaka,2021,75-79,9.7
+Melaka,2021,80-84,5.7
+Melaka,2021,85+,3.3
+Melaka,2022,overall,1008.6
+Melaka,2022,0-4,74.3
+Melaka,2022,5-9,85.1
+Melaka,2022,10-14,75.5
+Melaka,2022,15-19,94.8
+Melaka,2022,20-24,92.1
+Melaka,2022,25-29,86.8
+Melaka,2022,30-34,103.6
+Melaka,2022,35-39,74.3
+Melaka,2022,40-44,79.4
+Melaka,2022,45-49,57.5
+Melaka,2022,50-54,41
+Melaka,2022,55-59,39.4
+Melaka,2022,60-64,37.8
+Melaka,2022,65-69,28.7
+Melaka,2022,70-74,19.4
+Melaka,2022,75-79,10
+Melaka,2022,80-84,5.7
+Melaka,2022,85+,3.1
+Melaka,2023,overall,1028.3
+Melaka,2023,0-4,69.9
+Melaka,2023,5-9,84.9
+Melaka,2023,10-14,80.1
+Melaka,2023,15-19,83.1
+Melaka,2023,20-24,102.8
+Melaka,2023,25-29,89.4
+Melaka,2023,30-34,111.4
+Melaka,2023,35-39,76.1
+Melaka,2023,40-44,81.6
+Melaka,2023,45-49,61.4
+Melaka,2023,50-54,41
+Melaka,2023,55-59,39.3
+Melaka,2023,60-64,38.2
+Melaka,2023,65-69,28.6
+Melaka,2023,70-74,21
+Melaka,2023,75-79,11
+Melaka,2023,80-84,5.5
+Melaka,2023,85+,2.9
+Melaka,2024,overall,1046.7
+Melaka,2024,0-4,66.3
+Melaka,2024,5-9,86
+Melaka,2024,10-14,81.2
+Melaka,2024,15-19,69.1
+Melaka,2024,20-24,115.2
+Melaka,2024,25-29,93.6
+Melaka,2024,30-34,120.4
+Melaka,2024,35-39,75.4
+Melaka,2024,40-44,77.9
+Melaka,2024,45-49,70.3
+Melaka,2024,50-54,43.2
+Melaka,2024,55-59,37.2
+Melaka,2024,60-64,40.2
+Melaka,2024,65-69,28.6
+Melaka,2024,70-74,22.5
+Melaka,2024,75-79,11.3
+Melaka,2024,80-84,5.8
+Melaka,2024,85+,2.6
+Melaka,2025,overall,1052.5
+Melaka,2025,0-4,64.6
+Melaka,2025,5-9,83.3
+Melaka,2025,10-14,82.2
+Melaka,2025,15-19,69
+Melaka,2025,20-24,109.6
+Melaka,2025,25-29,98.4
+Melaka,2025,30-34,117.1
+Melaka,2025,35-39,77.8
+Melaka,2025,40-44,72.5
+Melaka,2025,45-49,80.2
+Melaka,2025,50-54,43.5
+Melaka,2025,55-59,38.7
+Melaka,2025,60-64,39.4
+Melaka,2025,65-69,30.5
+Melaka,2025,70-74,23.7
+Melaka,2025,75-79,13.5
+Melaka,2025,80-84,5.6
+Melaka,2025,85+,3.1
+"Negeri Sembilan",2016,overall,1099.3
+"Negeri Sembilan",2016,0-4,88
+"Negeri Sembilan",2016,5-9,81.5
+"Negeri Sembilan",2016,10-14,93.5
+"Negeri Sembilan",2016,15-19,104.1
+"Negeri Sembilan",2016,20-24,117.1
+"Negeri Sembilan",2016,25-29,105.4
+"Negeri Sembilan",2016,30-34,85.2
+"Negeri Sembilan",2016,35-39,69.1
+"Negeri Sembilan",2016,40-44,61.7
+"Negeri Sembilan",2016,45-49,58.4
+"Negeri Sembilan",2016,50-54,58.1
+"Negeri Sembilan",2016,55-59,54.7
+"Negeri Sembilan",2016,60-64,45.1
+"Negeri Sembilan",2016,65-69,31.6
+"Negeri Sembilan",2016,70-74,19.5
+"Negeri Sembilan",2016,75-79,13.9
+"Negeri Sembilan",2016,80-84,7.4
+"Negeri Sembilan",2016,85+,5.1
+"Negeri Sembilan",2017,overall,1114
+"Negeri Sembilan",2017,0-4,89
+"Negeri Sembilan",2017,5-9,81.3
+"Negeri Sembilan",2017,10-14,91.2
+"Negeri Sembilan",2017,15-19,104.9
+"Negeri Sembilan",2017,20-24,117.2
+"Negeri Sembilan",2017,25-29,108.5
+"Negeri Sembilan",2017,30-34,89.1
+"Negeri Sembilan",2017,35-39,70.7
+"Negeri Sembilan",2017,40-44,62.2
+"Negeri Sembilan",2017,45-49,58.4
+"Negeri Sembilan",2017,50-54,57.9
+"Negeri Sembilan",2017,55-59,55.1
+"Negeri Sembilan",2017,60-64,46.8
+"Negeri Sembilan",2017,65-69,33.5
+"Negeri Sembilan",2017,70-74,20.9
+"Negeri Sembilan",2017,75-79,14
+"Negeri Sembilan",2017,80-84,7.8
+"Negeri Sembilan",2017,85+,5.4
+"Negeri Sembilan",2018,overall,1122.9
+"Negeri Sembilan",2018,0-4,89.7
+"Negeri Sembilan",2018,5-9,82
+"Negeri Sembilan",2018,10-14,88
+"Negeri Sembilan",2018,15-19,104.7
+"Negeri Sembilan",2018,20-24,116.1
+"Negeri Sembilan",2018,25-29,110.4
+"Negeri Sembilan",2018,30-34,92.8
+"Negeri Sembilan",2018,35-39,71.6
+"Negeri Sembilan",2018,40-44,62.6
+"Negeri Sembilan",2018,45-49,58.5
+"Negeri Sembilan",2018,50-54,57.4
+"Negeri Sembilan",2018,55-59,55
+"Negeri Sembilan",2018,60-64,48
+"Negeri Sembilan",2018,65-69,35.5
+"Negeri Sembilan",2018,70-74,22.5
+"Negeri Sembilan",2018,75-79,14
+"Negeri Sembilan",2018,80-84,8.4
+"Negeri Sembilan",2018,85+,5.6
+"Negeri Sembilan",2019,overall,1126.2
+"Negeri Sembilan",2019,0-4,89.5
+"Negeri Sembilan",2019,5-9,82.6
+"Negeri Sembilan",2019,10-14,84.9
+"Negeri Sembilan",2019,15-19,103.8
+"Negeri Sembilan",2019,20-24,113.7
+"Negeri Sembilan",2019,25-29,110.8
+"Negeri Sembilan",2019,30-34,95.4
+"Negeri Sembilan",2019,35-39,73
+"Negeri Sembilan",2019,40-44,62.6
+"Negeri Sembilan",2019,45-49,58.6
+"Negeri Sembilan",2019,50-54,56.7
+"Negeri Sembilan",2019,55-59,55
+"Negeri Sembilan",2019,60-64,48.8
+"Negeri Sembilan",2019,65-69,37.3
+"Negeri Sembilan",2019,70-74,24.1
+"Negeri Sembilan",2019,75-79,14.3
+"Negeri Sembilan",2019,80-84,9
+"Negeri Sembilan",2019,85+,6
+"Negeri Sembilan",2020,overall,1200
+"Negeri Sembilan",2020,0-4,92.4
+"Negeri Sembilan",2020,5-9,115.8
+"Negeri Sembilan",2020,10-14,93.9
+"Negeri Sembilan",2020,15-19,99.6
+"Negeri Sembilan",2020,20-24,100.8
+"Negeri Sembilan",2020,25-29,101.3
+"Negeri Sembilan",2020,30-34,110.7
+"Negeri Sembilan",2020,35-39,102.6
+"Negeri Sembilan",2020,40-44,76.3
+"Negeri Sembilan",2020,45-49,62.8
+"Negeri Sembilan",2020,50-54,53.8
+"Negeri Sembilan",2020,55-59,63
+"Negeri Sembilan",2020,60-64,45.7
+"Negeri Sembilan",2020,65-69,36.8
+"Negeri Sembilan",2020,70-74,22.9
+"Negeri Sembilan",2020,75-79,11.2
+"Negeri Sembilan",2020,80-84,7.1
+"Negeri Sembilan",2020,85+,3.4
+"Negeri Sembilan",2021,overall,1204.2
+"Negeri Sembilan",2021,0-4,85.2
+"Negeri Sembilan",2021,5-9,117.3
+"Negeri Sembilan",2021,10-14,98.4
+"Negeri Sembilan",2021,15-19,97.4
+"Negeri Sembilan",2021,20-24,103.2
+"Negeri Sembilan",2021,25-29,96.9
+"Negeri Sembilan",2021,30-34,107.9
+"Negeri Sembilan",2021,35-39,105.1
+"Negeri Sembilan",2021,40-44,78.5
+"Negeri Sembilan",2021,45-49,64.8
+"Negeri Sembilan",2021,50-54,53.4
+"Negeri Sembilan",2021,55-59,60.5
+"Negeri Sembilan",2021,60-64,49.5
+"Negeri Sembilan",2021,65-69,38.2
+"Negeri Sembilan",2021,70-74,25
+"Negeri Sembilan",2021,75-79,12
+"Negeri Sembilan",2021,80-84,7.4
+"Negeri Sembilan",2021,85+,3.4
+"Negeri Sembilan",2022,overall,1207.9
+"Negeri Sembilan",2022,0-4,81.5
+"Negeri Sembilan",2022,5-9,114.3
+"Negeri Sembilan",2022,10-14,103.6
+"Negeri Sembilan",2022,15-19,96.4
+"Negeri Sembilan",2022,20-24,104.5
+"Negeri Sembilan",2022,25-29,94.2
+"Negeri Sembilan",2022,30-34,108
+"Negeri Sembilan",2022,35-39,105.1
+"Negeri Sembilan",2022,40-44,82.6
+"Negeri Sembilan",2022,45-49,64.7
+"Negeri Sembilan",2022,50-54,54.8
+"Negeri Sembilan",2022,55-59,56.5
+"Negeri Sembilan",2022,60-64,53.5
+"Negeri Sembilan",2022,65-69,38.4
+"Negeri Sembilan",2022,70-74,26.8
+"Negeri Sembilan",2022,75-79,12.6
+"Negeri Sembilan",2022,80-84,7.5
+"Negeri Sembilan",2022,85+,3
+"Negeri Sembilan",2023,overall,1224.9
+"Negeri Sembilan",2023,0-4,78.6
+"Negeri Sembilan",2023,5-9,111.3
+"Negeri Sembilan",2023,10-14,106.6
+"Negeri Sembilan",2023,15-19,96.9
+"Negeri Sembilan",2023,20-24,108.2
+"Negeri Sembilan",2023,25-29,95.9
+"Negeri Sembilan",2023,30-34,109
+"Negeri Sembilan",2023,35-39,107.9
+"Negeri Sembilan",2023,40-44,86.7
+"Negeri Sembilan",2023,45-49,66.4
+"Negeri Sembilan",2023,50-54,55.8
+"Negeri Sembilan",2023,55-59,54.2
+"Negeri Sembilan",2023,60-64,55.6
+"Negeri Sembilan",2023,65-69,39.2
+"Negeri Sembilan",2023,70-74,28.5
+"Negeri Sembilan",2023,75-79,13.7
+"Negeri Sembilan",2023,80-84,7.6
+"Negeri Sembilan",2023,85+,2.6
+"Negeri Sembilan",2024,overall,1239.5
+"Negeri Sembilan",2024,0-4,76.5
+"Negeri Sembilan",2024,5-9,105.9
+"Negeri Sembilan",2024,10-14,112.1
+"Negeri Sembilan",2024,15-19,93.8
+"Negeri Sembilan",2024,20-24,112.1
+"Negeri Sembilan",2024,25-29,99.4
+"Negeri Sembilan",2024,30-34,111
+"Negeri Sembilan",2024,35-39,107
+"Negeri Sembilan",2024,40-44,91.6
+"Negeri Sembilan",2024,45-49,68.8
+"Negeri Sembilan",2024,50-54,57.5
+"Negeri Sembilan",2024,55-59,51.3
+"Negeri Sembilan",2024,60-64,58
+"Negeri Sembilan",2024,65-69,39.6
+"Negeri Sembilan",2024,70-74,30
+"Negeri Sembilan",2024,75-79,15.1
+"Negeri Sembilan",2024,80-84,7.6
+"Negeri Sembilan",2024,85+,2.4
+"Negeri Sembilan",2025,overall,1244.6
+"Negeri Sembilan",2025,0-4,79.2
+"Negeri Sembilan",2025,5-9,93
+"Negeri Sembilan",2025,10-14,115.1
+"Negeri Sembilan",2025,15-19,94
+"Negeri Sembilan",2025,20-24,110
+"Negeri Sembilan",2025,25-29,104.2
+"Negeri Sembilan",2025,30-34,103.4
+"Negeri Sembilan",2025,35-39,106.4
+"Negeri Sembilan",2025,40-44,95.6
+"Negeri Sembilan",2025,45-49,72.7
+"Negeri Sembilan",2025,50-54,59.6
+"Negeri Sembilan",2025,55-59,51.4
+"Negeri Sembilan",2025,60-64,59.3
+"Negeri Sembilan",2025,65-69,40.9
+"Negeri Sembilan",2025,70-74,31.3
+"Negeri Sembilan",2025,75-79,18.1
+"Negeri Sembilan",2025,80-84,7.5
+"Negeri Sembilan",2025,85+,2.9
+Pahang,2016,overall,1626.7
+Pahang,2016,0-4,140.5
+Pahang,2016,5-9,142.5
+Pahang,2016,10-14,145.9
+Pahang,2016,15-19,153.9
+Pahang,2016,20-24,168.6
+Pahang,2016,25-29,150
+Pahang,2016,30-34,141.6
+Pahang,2016,35-39,105.2
+Pahang,2016,40-44,87.7
+Pahang,2016,45-49,81
+Pahang,2016,50-54,78.3
+Pahang,2016,55-59,70.4
+Pahang,2016,60-64,55.3
+Pahang,2016,65-69,45.1
+Pahang,2016,70-74,26.2
+Pahang,2016,75-79,18.2
+Pahang,2016,80-84,8.6
+Pahang,2016,85+,7.6
+Pahang,2017,overall,1647
+Pahang,2017,0-4,140.4
+Pahang,2017,5-9,141
+Pahang,2017,10-14,144.9
+Pahang,2017,15-19,153.2
+Pahang,2017,20-24,169.4
+Pahang,2017,25-29,156.5
+Pahang,2017,30-34,141.1
+Pahang,2017,35-39,113.4
+Pahang,2017,40-44,87.6
+Pahang,2017,45-49,81.3
+Pahang,2017,50-54,78.2
+Pahang,2017,55-59,71.8
+Pahang,2017,60-64,57.5
+Pahang,2017,65-69,46
+Pahang,2017,70-74,29.1
+Pahang,2017,75-79,18.2
+Pahang,2017,80-84,9.6
+Pahang,2017,85+,7.9
+Pahang,2018,overall,1664.7
+Pahang,2018,0-4,140.2
+Pahang,2018,5-9,139.6
+Pahang,2018,10-14,144.1
+Pahang,2018,15-19,151.7
+Pahang,2018,20-24,168.2
+Pahang,2018,25-29,164.2
+Pahang,2018,30-34,139.4
+Pahang,2018,35-39,122.4
+Pahang,2018,40-44,87.4
+Pahang,2018,45-49,81.4
+Pahang,2018,50-54,77.8
