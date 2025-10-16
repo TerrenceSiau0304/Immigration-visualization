@@ -1,0 +1,339 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+  "text": "Total Immigration towards Malaysia in 2025",
+  "subtitle": ["Author: Terrence Siau"],
+  "subtitleColor": "gray",
+  "fontSize": 20,
+  "fontWeight":"bold",
+  "dy": -50},
+  "spacing": 100,
+  "padding": {"top": 50, "bottom": 40, "left": 0, "right": 0},
+  "params": [
+    {
+      "name": "State_selection",
+      "value": "Selangor",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Johor",
+          "Kedah",
+          "Kelantan",
+          "Melaka",
+          "Negeri Sembilan",
+          "Pahang",
+          "Perak",
+          "Perlis",
+          "Pulau Pinang",
+          "Sabah",
+          "Sarawak",
+          "Selangor",
+          "Terengganu",
+          "W.P. Kuala Lumpur",
+          "W.P. Labuan",
+          "W.P. Putrajaya"
+        ],
+        "name": "Select State: "
+      }
+    },
+    {
+      "name": "Year_selection",
+      "value": 2025,
+      "bind": {
+        "input": "range",
+        "min": 2016,
+        "max": 2025,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "vconcat": [
+    {
+      "title": {"text": "Total Immigration towards Malaysia in 2025",
+      "fontSize": 15},
+      "width": 800,
+      "height": 400,
+      "projection": {"type": "equirectangular", "rotate": [-120, 0, 0]},
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/ne_grid_boundary110m.json",
+            "format": {
+              "type": "topojson",
+              "feature": "ne_110m_admin_0_countries"
+            }
+          },
+          "transform": [
+            {
+              "lookup": "properties.ISO_A3",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Immigrants_2024.csv"
+                },
+                "key": "country",
+                "fields": ["total"]
+              }
+            }
+          ],
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#999999",
+            "strokeWidth": 1,
+            "strokeOpacity": 0.8
+          },
+          "encoding": {
+            "color": {
+              "field": "total",
+              "type": "quantitative",
+              "scale": {"type": "linear"}
+            },
+            "tooltip": [
+              {
+                "field": "properties.NAME",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {"field": "total", "type": "quantitative", "title": "Immigrants"}
+            ]
+          }
+        },
+        {
+          "data": {"graticule": true},
+          "mark": {"type": "geoshape", "stroke": "#cccccc", "strokeWidth": 0.5}
+        }
+      ]
+    },
+{
+  "width": 800,
+  "height": 400,
+  "title":{"text":"Top 10 Origin Countries for Immigrants", "fontSize":15},
+  "data": {
+    "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/All_Immigrants.csv"},
+    "transform": [
+      {"calculate": "toNumber(datum.total)", "as": "total"},
+      {"calculate": "toNumber(datum.year)", "as": "year_num"},
+      {
+      "window": [{"op": "rank", "as": "rank"}],
+      "sort": [{"field": "total", "order": "descending"}],
+      "groupby": ["year_num"]
+      },
+      {"filter": "datum.rank <= 10"}
+    ],
+    "mark": {"type": "line", "point": true, "strokeWidth": 16},
+  "encoding": {
+    "x": {"field": "year_num", "type": "ordinal", "title": "Year"},
+    "y": {
+      "field": "rank",
+      "type": "quantitative",
+      "title": "Country",
+      "sort": "descending"
+    },
+    "color": {"field": "country", "type": "nominal", "title": "Country"},
+    "tooltip": [
+      {"field": "country", "title": "Country"},
+      {"field": "year_num", "title": "Year"},
+      {"field": "total", "title": "Immigrants"},
+      {"field": "rank", "title": "Rank"}
+    ]
+}
+},
+ {
+      "title": {"text":"Malaysia Population by State (2025)", "fontSize":15},
+      "width": 800,
+      "height": 400,
+      "projection": {
+      "type": "mercator",
+      "center": [98, 9],
+      "scale": 2000
+  },
+      "layer": [
+    {
+      "data": {"graticule": {"step": [2, 2]}},
+      "mark": {"type": "geoshape", "stroke": "#dddddd", "strokeWidth": 0.8}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/Malaysia_state_grid.json",
+            "format": {
+              "type": "topojson",
+              "feature": "ne_10m_admin_1_states_provinces"
+            }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_by_state.csv"
+            },
+            "key": "state",
+            "fields": ["population", "area"]
+          }
+        },
+        {"calculate": "datum.population/datum.area", "as": "density"}
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff",
+        "strokeWidth": 0.8
+      },
+      "encoding": {
+        "color": {
+          "field": "density",
+          "type": "quantitative",
+          "scale": {
+            "scheme": "blues",
+            "type":"log"
+          },
+          "title": "Density (/km^2)"
+        },
+        "tooltip": [
+          {"field": "properties.name", "type": "nominal", "title": "State"},
+          {"field": "population", "type": "quantitative", "title": "Population (thousands)"},
+          {"field":"density", "type":"quantitative","title":"Density(/km2)"}
+        ]
+      }
+    }
+  ]
+    },
+    {
+    "hconcat":[
+    {
+      "width": 400,
+      "height": 400,
+      "title": {"text":"Total Population of State by Gender", "fontSize": 15 },
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_gender_10years.csv"
+      },
+      "layer": [
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {
+            "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : 'Overall'",
+            "as": "sex_label"
+          },
+
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"}
+          ],
+          "mark": {"type": "line", "interpolate": "monotone", "point": false},
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal", "title": "Year"},
+            "y": {
+              "field": "pop",
+              "type": "quantitative",
+              "title": "Total Population (thousands)"
+            },
+            "color": {"field": "sex", "type": "nominal", "title": "Sex", "scale": {"domain":["male","female","both"]}},
+            "tooltip": [
+              {"field": "state", "title": "State"},
+              {"field": "year", "title": "Year"},
+              {"field": "sex", "title": "Sex"},
+              {"field": "pop", "title": "Total Population (thousands)"}
+            ]
+          }
+        },
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {
+            "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : 'Overall'",
+            "as": "sex_label"
+            },
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"},
+            {
+              "joinaggregate": [
+                {"op": "max", "field": "year_num", "as": "max_year"}
+              ],
+              "groupby": ["sex"]
+            },
+            {"filter": "datum.year_num == datum.max_year"}
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 8,
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal"},
+            "y": {"field": "pop", "type": "quantitative"},
+            "color": {"field": "sex", "type": "nominal"},
+            "text": {"field": "sex", "type": "nominal"}
+          }
+        }
+      ]
+    },
+    {"width": 400,
+      "height": 400,
+      "title": {"text":"Total Population of State by Ethnics", "fontSize": 15},
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_ethnicity_10years.csv"
+      },
+      "layer": [
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"},
+            {"filter": "datum.ethnicity != 'overall'"}
+          ],
+          "mark": {"type": "bar", "interpolate": "monotone", "point": false},
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal", "title": "Year"},
+            "y": {
+              "field": "pop",
+              "type": "quantitative",
+              "title": "Total Population (thousands)"
+            },
+            "color": {"field": "ethnicity", "type": "nominal", "title": "Ethnics", "scale": {"domain":["bumi", "chinese", "indian", "bumi_malay", "bumi_other", "other_citizen", "other_noncitizen"]}},
+            "tooltip": [
+              {"field": "ethnicity", "title": "Ethnicity"},
+              {"field": "year", "title": "Year"},
+              {"field": "pop", "title": "Total Population"}
+
+            ]
+          }
+        }
+      ]}
+    ],
+    "resolve": {"legend": {"color": "independent"}, "scale": {"color": "independent"}}
+    },
+    {
+  "width": 800,
+  "height": 400,
+  "title": {"text":"Age Distribution",  "fontSize": 15 },
+  "data": {
+    "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_age_10years.csv"
+  },
+  "transform": [
+    {"calculate": "toNumber(datum.population)", "as": "pop"},
+    {"filter": "datum.pop > 0"},
+    {"filter": "datum.age != 'overall'"},
+    {"filter": "datum.year == Year_selection"},
+    {"calculate": "toNumber(replace(split(datum.age, '-')[0], '+', ''))", "as": "age_start"}
+
+
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "age", "type": "ordinal", "title": "Age","sort": {"field":"age_start"}},
+    "y": {"field": "pop", "type": "quantitative", "title": "Population (thousands)"},
+    "tooltip": [
+      {"field": "year", "title": "Year"},
+      {"field": "pop", "title": "Population (thousands)"},
+      {"field": "year", "title": "Year"}
+    ]
+  }
+}
+  ],
+  "center": true
+}
