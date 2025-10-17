@@ -208,11 +208,6 @@
           "transform": [
             {"calculate": "toNumber(datum.population)", "as": "pop"},
             {"calculate": "toNumber(datum.year)", "as": "year_num"},
-            {
-            "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : 'Overall'",
-            "as": "sex_label"
-          },
-
             {"filter": "datum.pop > 0"},
             {"filter": "datum.state == State_selection"}
           ],
@@ -237,10 +232,6 @@
           "transform": [
             {"calculate": "toNumber(datum.population)", "as": "pop"},
             {"calculate": "toNumber(datum.year)", "as": "year_num"},
-            {
-            "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : 'Overall'",
-            "as": "sex_label"
-            },
             {"filter": "datum.pop > 0"},
             {"filter": "datum.state == State_selection"},
             {

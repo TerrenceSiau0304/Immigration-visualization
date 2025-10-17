@@ -1,481 +1,481 @@
 state,sex,year,population
 Johor,Both,2016,3651.8
-Johor,female,2016,1720.7
+Johor,Female,2016,1720.7
 Johor,Male,2016,1931.1
 Johor,Both,2017,3697
-Johor,female,2017,1744.5
+Johor,Female,2017,1744.5
 Johor,Male,2017,1952.6
 Johor,Both,2018,3749.4
-Johor,female,2018,1773
+Johor,Female,2018,1773
 Johor,Male,2018,1976.4
 Johor,Both,2019,3761.2
-Johor,female,2019,1786.6
+Johor,Female,2019,1786.6
 Johor,Male,2019,1974.6
 Johor,Both,2020,4009.7
-Johor,female,2020,1868.4
+Johor,Female,2020,1868.4
 Johor,Male,2020,2141.3
 Johor,Both,2021,4020
-Johor,female,2021,1881.1
+Johor,Female,2021,1881.1
 Johor,Male,2021,2138.8
 Johor,Both,2022,4028.3
-Johor,female,2022,1890
+Johor,Female,2022,1890
 Johor,Male,2022,2138.2
 Johor,Both,2023,4107.2
-Johor,female,2023,1914.8
+Johor,Female,2023,1914.8
 Johor,Male,2023,2192.4
 Johor,Both,2024,4184.4
-Johor,female,2024,1938.7
+Johor,Female,2024,1938.7
 Johor,Male,2024,2245.6
 Johor,Both,2025,4205.9
-Johor,female,2025,1951.4
+Johor,Female,2025,1951.4
 Johor,Male,2025,2254.5
 Kedah,Both,2016,2119.7
-Kedah,female,2016,1044.1
+Kedah,Female,2016,1044.1
 Kedah,Male,2016,1075.6
 Kedah,Both,2017,2143.9
-Kedah,female,2017,1055.2
+Kedah,Female,2017,1055.2
 Kedah,Male,2017,1088.7
 Kedah,Both,2018,2163
-Kedah,female,2018,1065.1
+Kedah,Female,2018,1065.1
 Kedah,Male,2018,1097.8
 Kedah,Both,2019,2173.7
-Kedah,female,2019,1072.3
+Kedah,Female,2019,1072.3
 Kedah,Male,2019,1101.5
 Kedah,Both,2020,2131.4
-Kedah,female,2020,1044.1
+Kedah,Female,2020,1044.1
 Kedah,Male,2020,1087.3
 Kedah,Both,2021,2151.7
-Kedah,female,2021,1055.9
+Kedah,Female,2021,1055.9
 Kedah,Male,2021,1095.8
 Kedah,Both,2022,2163.1
-Kedah,female,2022,1061.9
+Kedah,Female,2022,1061.9
 Kedah,Male,2022,1101.2
 Kedah,Both,2023,2189.3
-Kedah,female,2023,1073.2
+Kedah,Female,2023,1073.2
 Kedah,Male,2023,1116.1
 Kedah,Both,2024,2217.1
-Kedah,female,2024,1084.5
+Kedah,Female,2024,1084.5
 Kedah,Male,2024,1132.6
 Kedah,Both,2025,2228
-Kedah,female,2025,1090.9
+Kedah,Female,2025,1090.9
 Kedah,Male,2025,1137.1
 Kelantan,Both,2016,1796.7
-Kelantan,female,2016,890.1
+Kelantan,Female,2016,890.1
 Kelantan,Male,2016,906.7
 Kelantan,Both,2017,1829
-Kelantan,female,2017,905.8
+Kelantan,Female,2017,905.8
 Kelantan,Male,2017,923.2
 Kelantan,Both,2018,1860.5
-Kelantan,female,2018,920.6
+Kelantan,Female,2018,920.6
 Kelantan,Male,2018,939.9
 Kelantan,Both,2019,1883.8
-Kelantan,female,2019,931.7
+Kelantan,Female,2019,931.7
 Kelantan,Male,2019,952.1
 Kelantan,Both,2020,1792.5
-Kelantan,female,2020,892.4
+Kelantan,Female,2020,892.4
 Kelantan,Male,2020,900.1
 Kelantan,Both,2021,1812.3
-Kelantan,female,2021,902.6
+Kelantan,Female,2021,902.6
 Kelantan,Male,2021,909.7
 Kelantan,Both,2022,1830.6
-Kelantan,female,2022,912
+Kelantan,Female,2022,912
 Kelantan,Male,2022,918.5
 Kelantan,Both,2023,1859.8
-Kelantan,female,2023,925.8
+Kelantan,Female,2023,925.8
 Kelantan,Male,2023,934
 Kelantan,Both,2024,1887.9
-Kelantan,female,2024,939
+Kelantan,Female,2024,939
 Kelantan,Male,2024,949
 Kelantan,Both,2025,1907.7
-Kelantan,female,2025,948.9
+Kelantan,Female,2025,948.9
 Kelantan,Male,2025,958.8
 Melaka,Both,2016,901.1
-Melaka,female,2016,447.7
+Melaka,Female,2016,447.7
 Melaka,Male,2016,453.4
 Melaka,Both,2017,913.1
-Melaka,female,2017,453.9
+Melaka,Female,2017,453.9
 Melaka,Male,2017,459.2
 Melaka,Both,2018,922.4
-Melaka,female,2018,458.9
+Melaka,Female,2018,458.9
 Melaka,Male,2018,463.6
 Melaka,Both,2019,928.4
-Melaka,female,2019,462.5
+Melaka,Female,2019,462.5
 Melaka,Male,2019,465.9
 Melaka,Both,2020,998.4
-Melaka,female,2020,473.5
+Melaka,Female,2020,473.5
 Melaka,Male,2020,524.9
 Melaka,Both,2021,1004.5
-Melaka,female,2021,477.1
+Melaka,Female,2021,477.1
 Melaka,Male,2021,527.4
 Melaka,Both,2022,1008.6
-Melaka,female,2022,479.8
+Melaka,Female,2022,479.8
 Melaka,Male,2022,528.8
 Melaka,Both,2023,1028.3
-Melaka,female,2023,486.4
+Melaka,Female,2023,486.4
 Melaka,Male,2023,541.9
 Melaka,Both,2024,1046.7
-Melaka,female,2024,492.6
+Melaka,Female,2024,492.6
 Melaka,Male,2024,554.1
 Melaka,Both,2025,1052.5
-Melaka,female,2025,495.8
+Melaka,Female,2025,495.8
 Melaka,Male,2025,556.7
 "Negeri Sembilan",Both,2016,1099.3
-"Negeri Sembilan",female,2016,530.2
+"Negeri Sembilan",Female,2016,530.2
 "Negeri Sembilan",Male,2016,569.1
 "Negeri Sembilan",Both,2017,1114
-"Negeri Sembilan",female,2017,537.1
+"Negeri Sembilan",Female,2017,537.1
 "Negeri Sembilan",Male,2017,576.8
 "Negeri Sembilan",Both,2018,1122.9
-"Negeri Sembilan",female,2018,542.1
+"Negeri Sembilan",Female,2018,542.1
 "Negeri Sembilan",Male,2018,580.8
 "Negeri Sembilan",Both,2019,1126.2
-"Negeri Sembilan",female,2019,545.6
+"Negeri Sembilan",Female,2019,545.6
 "Negeri Sembilan",Male,2019,580.6
 "Negeri Sembilan",Both,2020,1200
-"Negeri Sembilan",female,2020,576
+"Negeri Sembilan",Female,2020,576
 "Negeri Sembilan",Male,2020,624
 "Negeri Sembilan",Both,2021,1204.2
-"Negeri Sembilan",female,2021,579.9
+"Negeri Sembilan",Female,2021,579.9
 "Negeri Sembilan",Male,2021,624.2
 "Negeri Sembilan",Both,2022,1207.9
-"Negeri Sembilan",female,2022,582.7
+"Negeri Sembilan",Female,2022,582.7
 "Negeri Sembilan",Male,2022,625.1
 "Negeri Sembilan",Both,2023,1224.9
-"Negeri Sembilan",female,2023,589.5
+"Negeri Sembilan",Female,2023,589.5
 "Negeri Sembilan",Male,2023,635.4
 "Negeri Sembilan",Both,2024,1239.5
-"Negeri Sembilan",female,2024,595.3
+"Negeri Sembilan",Female,2024,595.3
 "Negeri Sembilan",Male,2024,644.1
 "Negeri Sembilan",Both,2025,1244.6
-"Negeri Sembilan",female,2025,598.6
+"Negeri Sembilan",Female,2025,598.6
 "Negeri Sembilan",Male,2025,646
 Pahang,Both,2016,1626.7
-Pahang,female,2016,759.4
+Pahang,Female,2016,759.4
 Pahang,Male,2016,867.3
 Pahang,Both,2017,1647
-Pahang,female,2017,768.9
+Pahang,Female,2017,768.9
 Pahang,Male,2017,878.2
 Pahang,Both,2018,1664.7
-Pahang,female,2018,778
+Pahang,Female,2018,778
 Pahang,Male,2018,886.8
 Pahang,Both,2019,1671.4
-Pahang,female,2019,784.6
+Pahang,Female,2019,784.6
 Pahang,Male,2019,886.9
 Pahang,Both,2020,1591.3
-Pahang,female,2020,747.1
+Pahang,Female,2020,747.1
 Pahang,Male,2020,844.2
 Pahang,Both,2021,1601.5
-Pahang,female,2021,754.4
+Pahang,Female,2021,754.4
 Pahang,Male,2021,847
 Pahang,Both,2022,1614.3
-Pahang,female,2022,761.2
+Pahang,Female,2022,761.2
 Pahang,Male,2022,853
 Pahang,Both,2023,1643.2
-Pahang,female,2023,770.3
+Pahang,Female,2023,770.3
 Pahang,Male,2023,872.9
 Pahang,Both,2024,1667.7
-Pahang,female,2024,778.1
+Pahang,Female,2024,778.1
 Pahang,Male,2024,889.7
 Pahang,Both,2025,1678.2
-Pahang,female,2025,783.9
+Pahang,Female,2025,783.9
 Pahang,Male,2025,894.3
 Perak,Both,2016,2482.1
-Perak,female,2016,1225.2
+Perak,Female,2016,1225.2
 Perak,Male,2016,1257
 Perak,Both,2017,2493.2
-Perak,female,2017,1230.3
+Perak,Female,2017,1230.3
 Perak,Male,2017,1262.9
 Perak,Both,2018,2503.5
-Perak,female,2018,1236.7
+Perak,Female,2018,1236.7
 Perak,Male,2018,1266.7
 Perak,Both,2019,2508.8
-Perak,female,2019,1240.6
+Perak,Female,2019,1240.6
 Perak,Male,2019,1268.2
 Perak,Both,2020,2496
-Perak,female,2020,1195.8
+Perak,Female,2020,1195.8
 Perak,Male,2020,1300.2
 Perak,Both,2021,2515.8
-Perak,female,2021,1206.8
+Perak,Female,2021,1206.8
 Perak,Male,2021,1309
 Perak,Both,2022,2514.4
-Perak,female,2022,1209.9
+Perak,Female,2022,1209.9
 Perak,Male,2022,1304.6
 Perak,Both,2023,2541.2
-Perak,female,2023,1217.9
+Perak,Female,2023,1217.9
 Perak,Male,2023,1323.4
 Perak,Both,2024,2569.4
-Perak,female,2024,1225.7
+Perak,Female,2024,1225.7
 Perak,Male,2024,1343.7
 Perak,Both,2025,2574.9
-Perak,female,2025,1229.8
+Perak,Female,2025,1229.8
 Perak,Male,2025,1345.1
 Perlis,Both,2016,251
-Perlis,female,2016,125.7
+Perlis,Female,2016,125.7
 Perlis,Male,2016,125.3
 Perlis,Both,2017,252
-Perlis,female,2017,126.3
+Perlis,Female,2017,126.3
 Perlis,Male,2017,125.7
 Perlis,Both,2018,253.5
-Perlis,female,2018,127.2
+Perlis,Female,2018,127.2
 Perlis,Male,2018,126.3
 Perlis,Both,2019,254
-Perlis,female,2019,127.6
+Perlis,Female,2019,127.6
 Perlis,Male,2019,126.5
 Perlis,Both,2020,284.9
-Perlis,female,2020,142.5
+Perlis,Female,2020,142.5
 Perlis,Male,2020,142.3
 Perlis,Both,2021,287.6
-Perlis,female,2021,144
+Perlis,Female,2021,144
 Perlis,Male,2021,143.6
 Perlis,Both,2022,289.8
-Perlis,female,2022,145.2
+Perlis,Female,2022,145.2
 Perlis,Male,2022,144.6
 Perlis,Both,2023,293.1
-Perlis,female,2023,146.9
+Perlis,Female,2023,146.9
 Perlis,Male,2023,146.2
 Perlis,Both,2024,296.8
-Perlis,female,2024,148.8
+Perlis,Female,2024,148.8
 Perlis,Male,2024,147.9
 Perlis,Both,2025,297.8
-Perlis,female,2025,149.4
+Perlis,Female,2025,149.4
 Perlis,Male,2025,148.3
 "Pulau Pinang",Both,2016,1717.7
-"Pulau Pinang",female,2016,853
+"Pulau Pinang",Female,2016,853
 "Pulau Pinang",Male,2016,864.6
 "Pulau Pinang",Both,2017,1744.1
-"Pulau Pinang",female,2017,867
+"Pulau Pinang",Female,2017,867
 "Pulau Pinang",Male,2017,877.1
 "Pulau Pinang",Both,2018,1762.8
-"Pulau Pinang",female,2018,876.3
+"Pulau Pinang",Female,2018,876.3
 "Pulau Pinang",Male,2018,886.5
 "Pulau Pinang",Both,2019,1768.8
-"Pulau Pinang",female,2019,879.7
+"Pulau Pinang",Female,2019,879.7
 "Pulau Pinang",Male,2019,889.1
 "Pulau Pinang",Both,2020,1740.4
-"Pulau Pinang",female,2020,847.9
+"Pulau Pinang",Female,2020,847.9
 "Pulau Pinang",Male,2020,892.6
 "Pulau Pinang",Both,2021,1740
-"Pulau Pinang",female,2021,848.6
+"Pulau Pinang",Female,2021,848.6
 "Pulau Pinang",Male,2021,891.4
 "Pulau Pinang",Both,2022,1740.9
-"Pulau Pinang",female,2022,849.9
+"Pulau Pinang",Female,2022,849.9
 "Pulau Pinang",Male,2022,891
 "Pulau Pinang",Both,2023,1772.6
-"Pulau Pinang",female,2023,864.2
+"Pulau Pinang",Female,2023,864.2
 "Pulau Pinang",Male,2023,908.4
 "Pulau Pinang",Both,2024,1800.5
-"Pulau Pinang",female,2024,876.7
+"Pulau Pinang",Female,2024,876.7
 "Pulau Pinang",Male,2024,923.8
 "Pulau Pinang",Both,2025,1803.3
-"Pulau Pinang",female,2025,878.6
+"Pulau Pinang",Female,2025,878.6
 "Pulau Pinang",Male,2025,924.7
 Sabah,Both,2016,3802.8
-Sabah,female,2016,1816.2
+Sabah,Female,2016,1816.2
 Sabah,Male,2016,1986.6
 Sabah,Both,2017,3855.9
-Sabah,female,2017,1842.1
+Sabah,Female,2017,1842.1
 Sabah,Male,2017,2013.8
 Sabah,Both,2018,3898.4
-Sabah,female,2018,1862.8
+Sabah,Female,2018,1862.8
 Sabah,Male,2018,2035.6
 Sabah,Both,2019,3904.4
-Sabah,female,2019,1867.2
+Sabah,Female,2019,1867.2
 Sabah,Male,2019,2037.2
 Sabah,Both,2020,3418.8
-Sabah,female,2020,1639
+Sabah,Female,2020,1639
 Sabah,Male,2020,1779.8
 Sabah,Both,2021,3412.6
-Sabah,female,2021,1633.1
+Sabah,Female,2021,1633.1
 Sabah,Male,2021,1779.5
 Sabah,Both,2022,3414.9
-Sabah,female,2022,1635.9
+Sabah,Female,2022,1635.9
 Sabah,Male,2022,1779.1
 Sabah,Both,2023,3596.7
-Sabah,female,2023,1719.9
+Sabah,Female,2023,1719.9
 Sabah,Male,2023,1876.9
 Sabah,Both,2024,3742
-Sabah,female,2024,1786.9
+Sabah,Female,2024,1786.9
 Sabah,Male,2024,1955
 Sabah,Both,2025,3759.6
-Sabah,female,2025,1796.7
+Sabah,Female,2025,1796.7
 Sabah,Male,2025,1962.9
 Sarawak,Both,2016,2738.7
-Sarawak,female,2016,1310.8
+Sarawak,Female,2016,1310.8
 Sarawak,Male,2016,1427.9
 Sarawak,Both,2017,2766.3
-Sarawak,female,2017,1324
+Sarawak,Female,2017,1324
 Sarawak,Male,2017,1442.3
 Sarawak,Both,2018,2791.7
-Sarawak,female,2018,1336.5
+Sarawak,Female,2018,1336.5
 Sarawak,Male,2018,1455.1
 Sarawak,Both,2019,2806
-Sarawak,female,2019,1345.7
+Sarawak,Female,2019,1345.7
 Sarawak,Male,2019,1460.3
 Sarawak,Both,2020,2453.7
-Sarawak,female,2020,1184.1
+Sarawak,Female,2020,1184.1
 Sarawak,Male,2020,1269.6
 Sarawak,Both,2021,2465.6
-Sarawak,female,2021,1192
+Sarawak,Female,2021,1192
 Sarawak,Male,2021,1273.6
 Sarawak,Both,2022,2473.5
-Sarawak,female,2022,1197.4
+Sarawak,Female,2022,1197.4
 Sarawak,Male,2022,1276.1
 Sarawak,Both,2023,2502.3
-Sarawak,female,2023,1210.4
+Sarawak,Female,2023,1210.4
 Sarawak,Male,2023,1292
 Sarawak,Both,2024,2517.5
-Sarawak,female,2024,1218.3
+Sarawak,Female,2024,1218.3
 Sarawak,Male,2024,1299.2
 Sarawak,Both,2025,2529.8
-Sarawak,female,2025,1225.4
+Sarawak,Female,2025,1225.4
 Sarawak,Male,2025,1304.4
 Selangor,Both,2016,6291.5
-Selangor,female,2016,3019.9
+Selangor,Female,2016,3019.9
 Selangor,Male,2016,3271.6
 Selangor,Both,2017,6380.7
-Selangor,female,2017,3064.5
+Selangor,Female,2017,3064.5
 Selangor,Male,2017,3316.2
 Selangor,Both,2018,6475
-Selangor,female,2018,3110.1
+Selangor,Female,2018,3110.1
 Selangor,Male,2018,3365
 Selangor,Both,2019,6506.1
-Selangor,female,2019,3131
+Selangor,Female,2019,3131
 Selangor,Male,2019,3375.1
 Selangor,Both,2020,6994.4
-Selangor,female,2020,3283.7
+Selangor,Female,2020,3283.7
 Selangor,Male,2020,3710.8
 Selangor,Both,2021,7014.7
-Selangor,female,2021,3304.7
+Selangor,Female,2021,3304.7
 Selangor,Male,2021,3710
 Selangor,Both,2022,7050.3
-Selangor,female,2022,3326
+Selangor,Female,2022,3326
 Selangor,Male,2022,3724.3
 Selangor,Both,2023,7209.7
-Selangor,female,2023,3379
+Selangor,Female,2023,3379
 Selangor,Male,2023,3830.7
 Selangor,Both,2024,7362.7
-Selangor,female,2024,3429.2
+Selangor,Female,2024,3429.2
 Selangor,Male,2024,3933.5
 Selangor,Both,2025,7406.8
-Selangor,female,2025,3453.2
+Selangor,Female,2025,3453.2
 Selangor,Male,2025,3953.6
 Terengganu,Both,2016,1183.4
-Terengganu,female,2016,580
+Terengganu,Female,2016,580
 Terengganu,Male,2016,603.4
 Terengganu,Both,2017,1208
-Terengganu,female,2017,591.6
+Terengganu,Female,2017,591.6
 Terengganu,Male,2017,616.4
 Terengganu,Both,2018,1228.3
-Terengganu,female,2018,602.2
+Terengganu,Female,2018,602.2
 Terengganu,Male,2018,626.1
 Terengganu,Both,2019,1244.5
-Terengganu,female,2019,611.3
+Terengganu,Female,2019,611.3
 Terengganu,Male,2019,633.2
 Terengganu,Both,2020,1149.4
-Terengganu,female,2020,561.6
+Terengganu,Female,2020,561.6
 Terengganu,Male,2020,587.9
 Terengganu,Both,2021,1170.7
-Terengganu,female,2021,571.5
+Terengganu,Female,2021,571.5
 Terengganu,Male,2021,599.1
 Terengganu,Both,2022,1186.6
-Terengganu,female,2022,579.5
+Terengganu,Female,2022,579.5
 Terengganu,Male,2022,607.1
 Terengganu,Both,2023,1210
-Terengganu,female,2023,589.5
+Terengganu,Female,2023,589.5
 Terengganu,Male,2023,620.6
 Terengganu,Both,2024,1231.5
-Terengganu,female,2024,598.8
+Terengganu,Female,2024,598.8
 Terengganu,Male,2024,632.8
 Terengganu,Both,2025,1246.9
-Terengganu,female,2025,606.6
+Terengganu,Female,2025,606.6
 Terengganu,Male,2025,640.3
 "W.P. Kuala Lumpur",Both,2016,1789.7
-"W.P. Kuala Lumpur",female,2016,871.4
+"W.P. Kuala Lumpur",Female,2016,871.4
 "W.P. Kuala Lumpur",Male,2016,918.3
 "W.P. Kuala Lumpur",Both,2017,1793.2
-"W.P. Kuala Lumpur",female,2017,873.8
+"W.P. Kuala Lumpur",Female,2017,873.8
 "W.P. Kuala Lumpur",Male,2017,919.4
 "W.P. Kuala Lumpur",Both,2018,1790
-"W.P. Kuala Lumpur",female,2018,870.7
+"W.P. Kuala Lumpur",Female,2018,870.7
 "W.P. Kuala Lumpur",Male,2018,919.4
 "W.P. Kuala Lumpur",Both,2019,1782.5
-"W.P. Kuala Lumpur",female,2019,867.3
+"W.P. Kuala Lumpur",Female,2019,867.3
 "W.P. Kuala Lumpur",Male,2019,915.2
 "W.P. Kuala Lumpur",Both,2020,1982.1
-"W.P. Kuala Lumpur",female,2020,923.2
+"W.P. Kuala Lumpur",Female,2020,923.2
 "W.P. Kuala Lumpur",Male,2020,1058.9
 "W.P. Kuala Lumpur",Both,2021,1964
-"W.P. Kuala Lumpur",female,2021,918.8
+"W.P. Kuala Lumpur",Female,2021,918.8
 "W.P. Kuala Lumpur",Male,2021,1045.2
 "W.P. Kuala Lumpur",Both,2022,1961.2
-"W.P. Kuala Lumpur",female,2022,920.3
+"W.P. Kuala Lumpur",Female,2022,920.3
 "W.P. Kuala Lumpur",Male,2022,1040.8
 "W.P. Kuala Lumpur",Both,2023,2005.7
-"W.P. Kuala Lumpur",female,2023,933.6
+"W.P. Kuala Lumpur",Female,2023,933.6
 "W.P. Kuala Lumpur",Male,2023,1072.1
 "W.P. Kuala Lumpur",Both,2024,2067.5
-"W.P. Kuala Lumpur",female,2024,950.6
+"W.P. Kuala Lumpur",Female,2024,950.6
 "W.P. Kuala Lumpur",Male,2024,1116.9
 "W.P. Kuala Lumpur",Both,2025,2074.1
-"W.P. Kuala Lumpur",female,2025,954.5
+"W.P. Kuala Lumpur",Female,2025,954.5
 "W.P. Kuala Lumpur",Male,2025,1119.6
 "W.P. Labuan",Both,2016,96.8
-"W.P. Labuan",female,2016,47.9
+"W.P. Labuan",Female,2016,47.9
 "W.P. Labuan",Male,2016,48.9
 "W.P. Labuan",Both,2017,97.6
-"W.P. Labuan",female,2017,48.3
+"W.P. Labuan",Female,2017,48.3
 "W.P. Labuan",Male,2017,49.2
 "W.P. Labuan",Both,2018,99
-"W.P. Labuan",female,2018,49.1
+"W.P. Labuan",Female,2018,49.1
 "W.P. Labuan",Male,2018,49.9
 "W.P. Labuan",Both,2019,99.3
-"W.P. Labuan",female,2019,49.3
+"W.P. Labuan",Female,2019,49.3
 "W.P. Labuan",Male,2019,50
 "W.P. Labuan",Both,2020,95.1
-"W.P. Labuan",female,2020,46.2
+"W.P. Labuan",Female,2020,46.2
 "W.P. Labuan",Male,2020,48.9
 "W.P. Labuan",Both,2021,96
-"W.P. Labuan",female,2021,46.6
+"W.P. Labuan",Female,2021,46.6
 "W.P. Labuan",Male,2021,49.4
 "W.P. Labuan",Both,2022,96.9
-"W.P. Labuan",female,2022,47
+"W.P. Labuan",Female,2022,47
 "W.P. Labuan",Male,2022,49.8
 "W.P. Labuan",Both,2023,99
-"W.P. Labuan",female,2023,48.2
+"W.P. Labuan",Female,2023,48.2
 "W.P. Labuan",Male,2023,50.8
 "W.P. Labuan",Both,2024,100.8
-"W.P. Labuan",female,2024,49
+"W.P. Labuan",Female,2024,49
 "W.P. Labuan",Male,2024,51.8
 "W.P. Labuan",Both,2025,100.9
-"W.P. Labuan",female,2025,49.1
+"W.P. Labuan",Female,2025,49.1
 "W.P. Labuan",Male,2025,51.9
 "W.P. Putrajaya",Both,2016,84.4
-"W.P. Putrajaya",female,2016,45
+"W.P. Putrajaya",Female,2016,45
 "W.P. Putrajaya",Male,2016,39.5
 "W.P. Putrajaya",Both,2017,87.5
-"W.P. Putrajaya",female,2017,46.5
+"W.P. Putrajaya",Female,2017,46.5
 "W.P. Putrajaya",Male,2017,41
 "W.P. Putrajaya",Both,2018,97.2
-"W.P. Putrajaya",female,2018,51.5
+"W.P. Putrajaya",Female,2018,51.5
 "W.P. Putrajaya",Male,2018,45.6
 "W.P. Putrajaya",Both,2019,103.7
-"W.P. Putrajaya",female,2019,55.1
+"W.P. Putrajaya",Female,2019,55.1
 "W.P. Putrajaya",Male,2019,48.6
 "W.P. Putrajaya",Both,2020,109.2
-"W.P. Putrajaya",female,2020,55.6
+"W.P. Putrajaya",Female,2020,55.6
 "W.P. Putrajaya",Male,2020,53.6
 "W.P. Putrajaya",Both,2021,115.2
-"W.P. Putrajaya",female,2021,58.5
+"W.P. Putrajaya",Female,2021,58.5
 "W.P. Putrajaya",Male,2021,56.7
 "W.P. Putrajaya",Both,2022,117
-"W.P. Putrajaya",female,2022,59.4
+"W.P. Putrajaya",Female,2022,59.4
 "W.P. Putrajaya",Male,2022,57.6
 "W.P. Putrajaya",Both,2023,118.8
-"W.P. Putrajaya",female,2023,60.2
+"W.P. Putrajaya",Female,2023,60.2
 "W.P. Putrajaya",Male,2023,58.6
 "W.P. Putrajaya",Both,2024,120.3
-"W.P. Putrajaya",female,2024,60.8
+"W.P. Putrajaya",Female,2024,60.8
 "W.P. Putrajaya",Male,2024,59.4
 "W.P. Putrajaya",Both,2025,120.8
-"W.P. Putrajaya",female,2025,61.2
+"W.P. Putrajaya",Female,2025,61.2
 "W.P. Putrajaya",Male,2025,59.5
