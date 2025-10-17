@@ -1,12 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-  "text": "Total Immigration towards Malaysia in 2025",
-  "subtitle": ["Author: Terrence Siau"],
-  "subtitleColor": "gray",
-  "fontSize": 20,
-  "fontWeight":"bold",
-  "dy": -50},
   "spacing": 100,
   "padding": {"top": 50, "bottom": 40, "left": 0, "right": 0},
   "params": [
@@ -34,17 +27,6 @@
           "W.P. Putrajaya"
         ],
         "name": "Select State: "
-      }
-    },
-    {
-      "name": "Year_selection",
-      "value": 2025,
-      "bind": {
-        "input": "range",
-        "min": 2016,
-        "max": 2025,
-        "step": 1,
-        "name": "Select Year: "
       }
     }
   ],
@@ -86,7 +68,9 @@
             "color": {
               "field": "total",
               "type": "quantitative",
-              "scale": {"type": "linear"}
+              "scale": {"type": "threshold",
+      "domain": [1000, 10000, 500000, 1000000],
+      "range": ["#f0f9e8", "#bae4bc", "#7bccc4", "#2b8cbe", "#08589e"]}
             },
             "tooltip": [
               {
@@ -145,7 +129,7 @@
       "projection": {
       "type": "mercator",
       "center": [98, 9],
-      "scale": 2000
+      "scale": 2100
   },
       "layer": [
     {
@@ -306,34 +290,7 @@
       ]}
     ],
     "resolve": {"legend": {"color": "independent"}, "scale": {"color": "independent"}}
-    },
-    {
-  "width": 800,
-  "height": 400,
-  "title": {"text":"Age Distribution",  "fontSize": 15 },
-  "data": {
-    "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_age_10years.csv"
-  },
-  "transform": [
-    {"calculate": "toNumber(datum.population)", "as": "pop"},
-    {"filter": "datum.pop > 0"},
-    {"filter": "datum.age != 'overall'"},
-    {"filter": "datum.year == Year_selection"},
-    {"calculate": "toNumber(replace(split(datum.age, '-')[0], '+', ''))", "as": "age_start"}
-
-
-  ],
-  "mark": "bar",
-  "encoding": {
-    "x": {"field": "age", "type": "ordinal", "title": "Age","sort": {"field":"age_start"}},
-    "y": {"field": "pop", "type": "quantitative", "title": "Population (thousands)"},
-    "tooltip": [
-      {"field": "year", "title": "Year"},
-      {"field": "pop", "title": "Population (thousands)"},
-      {"field": "year", "title": "Year"}
-    ]
-  }
-}
+    }
   ],
   "center": true
 }

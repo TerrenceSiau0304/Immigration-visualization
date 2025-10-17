@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "spacing": 100,
+  "padding": {"top": 50, "bottom": 40, "left": 0, "right": 0},
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2025,
+      "bind": {
+        "input": "range",
+        "min": 2016,
+        "max": 2025,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "vconcat": [
+    {
+      "width": 800,
+      "height": 400,
+      "title": {"text": "Age Distribution", "fontSize": 15},
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_age_10years.csv"
+      },
+      "transform": [
+        {"calculate": "toNumber(datum.population)", "as": "pop"},
+        {"filter": "datum.pop > 0"},
+        {"filter": "datum.age != 'overall'"},
+        {"filter": "datum.year == Year_selection"},
+        {
+          "calculate": "toNumber(replace(split(datum.age, '-')[0], '+', ''))",
+          "as": "age_start"
+        },
+        {
+      "aggregate": [{"op": "sum", "field": "pop", "as": "total_pop"}],
+      "groupby": ["age"]
+      }
+      ],
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "age",
+          "type": "ordinal",
+          "title": "Age",
+          "sort": {"field": "age_start"}
+        },
+        "y": {
+          "field": "total_pop",
+          "type": "quantitative",
+          "title": "Population (thousands)"
+        },
+        "tooltip": [
+          {"field": "age", "title": "Age Group"},
+          {"field": "total_pop", "title": "Population (thousands)"}
+        ]
+      }
+    }
+  ],
+  "center": true
+}
