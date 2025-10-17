@@ -1,1001 +1,1001 @@
-state,year,ethnicity,population
-Johor,2016,overall,3651.8
-Johor,2016,bumi_malay,1908.6
-Johor,2016,bumi_other,59
-Johor,2016,chinese,1085.4
-Johor,2016,indian,232.5
-Johor,2016,other_citizen,18.4
-Johor,2016,other_noncitizen,347.4
-Johor,2017,overall,3697
-Johor,2017,bumi_malay,1937
-Johor,2017,bumi_other,60.9
-Johor,2017,chinese,1092.8
-Johor,2017,indian,235.6
-Johor,2017,other_citizen,18.6
-Johor,2017,other_noncitizen,352.5
-Johor,2018,overall,3749.4
-Johor,2018,bumi_malay,1971.3
-Johor,2018,bumi_other,64.5
-Johor,2018,chinese,1098.6
-Johor,2018,indian,239.1
-Johor,2018,other_citizen,18.6
-Johor,2018,other_noncitizen,357.2
-Johor,2019,overall,3761.2
-Johor,2019,bumi_malay,2005.5
-Johor,2019,bumi_other,68
-Johor,2019,chinese,1103.9
-Johor,2019,indian,241.8
-Johor,2019,other_citizen,18.5
-Johor,2019,other_noncitizen,323.8
-Johor,2020,overall,4009.7
-Johor,2020,bumi_malay,2158.4
-Johor,2020,bumi_other,60.8
-Johor,2020,chinese,1208.7
-Johor,2020,indian,244.3
-Johor,2020,other_citizen,18.4
-Johor,2020,other_noncitizen,319.2
-Johor,2021,overall,4020
-Johor,2021,bumi_malay,2188.7
-Johor,2021,bumi_other,57.5
-Johor,2021,chinese,1211.5
-Johor,2021,indian,244.9
-Johor,2021,other_citizen,18.8
-Johor,2021,other_noncitizen,298.7
-Johor,2022,overall,4028.3
-Johor,2022,bumi_malay,2208.6
-Johor,2022,bumi_other,58.3
-Johor,2022,chinese,1210.1
-Johor,2022,indian,244.7
-Johor,2022,other_citizen,19
-Johor,2022,other_noncitizen,287.6
-Johor,2023,overall,4107.2
-Johor,2023,bumi_malay,2233.8
-Johor,2023,bumi_other,59.3
-Johor,2023,chinese,1211.1
-Johor,2023,indian,245.8
-Johor,2023,other_citizen,19.3
-Johor,2023,other_noncitizen,337.9
-Johor,2024,overall,4184.4
-Johor,2024,bumi_malay,2257.2
-Johor,2024,bumi_other,60.4
-Johor,2024,chinese,1212.2
-Johor,2024,indian,247.1
-Johor,2024,other_citizen,19.6
-Johor,2024,other_noncitizen,387.9
-Johor,2025,overall,4205.9
-Johor,2025,bumi_malay,2277.7
-Johor,2025,bumi_other,61.3
-Johor,2025,chinese,1213.7
-Johor,2025,indian,248.1
-Johor,2025,other_citizen,19.9
-Johor,2025,other_noncitizen,385.1
-Kedah,2016,overall,2119.7
-Kedah,2016,bumi_malay,1603
-Kedah,2016,bumi_other,3.6
-Kedah,2016,chinese,257.3
-Kedah,2016,indian,140.5
-Kedah,2016,other_citizen,20.4
-Kedah,2016,other_noncitizen,94.4
-Kedah,2017,overall,2143.9
-Kedah,2017,bumi_malay,1625.4
-Kedah,2017,bumi_other,3.8
-Kedah,2017,chinese,256.5
-Kedah,2017,indian,141
-Kedah,2017,other_citizen,21.3
-Kedah,2017,other_noncitizen,95.9
-Kedah,2018,overall,2163
-Kedah,2018,bumi_malay,1643
-Kedah,2018,bumi_other,3.3
-Kedah,2018,chinese,257.8
-Kedah,2018,indian,140.9
-Kedah,2018,other_citizen,21.6
-Kedah,2018,other_noncitizen,96.4
-Kedah,2019,overall,2173.7
-Kedah,2019,bumi_malay,1661
-Kedah,2019,bumi_other,2.4
-Kedah,2019,chinese,259.1
-Kedah,2019,indian,140.8
-Kedah,2019,other_citizen,22
-Kedah,2019,other_noncitizen,88.2
-Kedah,2020,overall,2131.4
-Kedah,2020,bumi_malay,1624.8
-Kedah,2020,bumi_other,8
-Kedah,2020,chinese,250.6
-Kedah,2020,indian,129.1
-Kedah,2020,other_citizen,25.7
-Kedah,2020,other_noncitizen,93.3
-Kedah,2021,overall,2151.7
-Kedah,2021,bumi_malay,1653
-Kedah,2021,bumi_other,4.6
-Kedah,2021,chinese,250.6
-Kedah,2021,indian,129.1
-Kedah,2021,other_citizen,25.7
-Kedah,2021,other_noncitizen,88.8
-Kedah,2022,overall,2163.1
-Kedah,2022,bumi_malay,1665.5
-Kedah,2022,bumi_other,4.7
-Kedah,2022,chinese,249.5
-Kedah,2022,indian,128.6
-Kedah,2022,other_citizen,25.7
-Kedah,2022,other_noncitizen,89.1
-Kedah,2023,overall,2189.3
-Kedah,2023,bumi_malay,1682
-Kedah,2023,bumi_other,4.7
-Kedah,2023,chinese,248.6
-Kedah,2023,indian,128.6
-Kedah,2023,other_citizen,25.8
-Kedah,2023,other_noncitizen,99.6
-Kedah,2024,overall,2217.1
-Kedah,2024,bumi_malay,1697.5
-Kedah,2024,bumi_other,4.8
-Kedah,2024,chinese,247.6
-Kedah,2024,indian,128.5
-Kedah,2024,other_citizen,25.8
-Kedah,2024,other_noncitizen,112.8
-Kedah,2025,overall,2228
-Kedah,2025,bumi_malay,1711.3
-Kedah,2025,bumi_other,4.9
-Kedah,2025,chinese,246.7
-Kedah,2025,indian,128.4
-Kedah,2025,other_citizen,25.9
-Kedah,2025,other_noncitizen,111
-Kelantan,2016,overall,1796.7
-Kelantan,2016,bumi_malay,1653.6
-Kelantan,2016,bumi_other,19.4
-Kelantan,2016,chinese,55.4
-Kelantan,2016,indian,4.8
-Kelantan,2016,other_citizen,11
-Kelantan,2016,other_noncitizen,52.4
-Kelantan,2017,overall,1829
-Kelantan,2017,bumi_malay,1683.4
-Kelantan,2017,bumi_other,20.6
-Kelantan,2017,chinese,55.8
-Kelantan,2017,indian,4.8
-Kelantan,2017,other_citizen,11.3
-Kelantan,2017,other_noncitizen,53.5
-Kelantan,2018,overall,1860.5
-Kelantan,2018,bumi_malay,1713.1
-Kelantan,2018,bumi_other,20.6
-Kelantan,2018,chinese,56.3
-Kelantan,2018,indian,4.8
-Kelantan,2018,other_citizen,11.4
-Kelantan,2018,other_noncitizen,54.2
-Kelantan,2019,overall,1883.8
-Kelantan,2019,bumi_malay,1740.4
-Kelantan,2019,bumi_other,20.9
-Kelantan,2019,chinese,56.8
-Kelantan,2019,indian,4.8
-Kelantan,2019,other_citizen,11.5
-Kelantan,2019,other_noncitizen,49.2
-Kelantan,2020,overall,1792.5
-Kelantan,2020,bumi_malay,1671.4
-Kelantan,2020,bumi_other,25.4
-Kelantan,2020,chinese,44.7
-Kelantan,2020,indian,4.7
-Kelantan,2020,other_citizen,11
-Kelantan,2020,other_noncitizen,35.3
-Kelantan,2021,overall,1812.3
-Kelantan,2021,bumi_malay,1695
-Kelantan,2021,bumi_other,21.9
-Kelantan,2021,chinese,44.7
-Kelantan,2021,indian,4.8
-Kelantan,2021,other_citizen,11
-Kelantan,2021,other_noncitizen,35
-Kelantan,2022,overall,1830.6
-Kelantan,2022,bumi_malay,1714.1
-Kelantan,2022,bumi_other,22.2
-Kelantan,2022,chinese,44.5
-Kelantan,2022,indian,4.8
-Kelantan,2022,other_citizen,11
-Kelantan,2022,other_noncitizen,34.1
-Kelantan,2023,overall,1859.8
-Kelantan,2023,bumi_malay,1736.8
-Kelantan,2023,bumi_other,22.5
-Kelantan,2023,chinese,44.3
-Kelantan,2023,indian,4.8
-Kelantan,2023,other_citizen,11
-Kelantan,2023,other_noncitizen,40.3
-Kelantan,2024,overall,1887.9
-Kelantan,2024,bumi_malay,1758
-Kelantan,2024,bumi_other,22.8
-Kelantan,2024,chinese,44.2
-Kelantan,2024,indian,4.8
-Kelantan,2024,other_citizen,11
-Kelantan,2024,other_noncitizen,47.2
-Kelantan,2025,overall,1907.7
-Kelantan,2025,bumi_malay,1777.6
-Kelantan,2025,bumi_other,23.1
-Kelantan,2025,chinese,44.1
-Kelantan,2025,indian,4.8
-Kelantan,2025,other_citizen,11
-Kelantan,2025,other_noncitizen,47.1
-Melaka,2016,overall,901.1
-Melaka,2016,bumi_malay,568.9
-Melaka,2016,bumi_other,13.5
-Melaka,2016,chinese,216.9
-Melaka,2016,indian,50.6
-Melaka,2016,other_citizen,4.6
-Melaka,2016,other_noncitizen,47
-Melaka,2017,overall,913.1
-Melaka,2017,bumi_malay,578.8
-Melaka,2017,bumi_other,14
-Melaka,2017,chinese,216.8
-Melaka,2017,indian,50.8
-Melaka,2017,other_citizen,4.7
-Melaka,2017,other_noncitizen,47.7
-Melaka,2018,overall,922.4
-Melaka,2018,bumi_malay,586.7
-Melaka,2018,bumi_other,14.6
-Melaka,2018,chinese,217.2
-Melaka,2018,indian,51.1
-Melaka,2018,other_citizen,5.1
-Melaka,2018,other_noncitizen,47.7
-Melaka,2019,overall,928.4
-Melaka,2019,bumi_malay,594.5
-Melaka,2019,bumi_other,14.9
-Melaka,2019,chinese,217.4
-Melaka,2019,indian,51.4
-Melaka,2019,other_citizen,5.6
-Melaka,2019,other_noncitizen,44.6
-Melaka,2020,overall,998.4
-Melaka,2020,bumi_malay,653.9
-Melaka,2020,bumi_other,10.8
-Melaka,2020,chinese,205.2
-Melaka,2020,indian,52.4
-Melaka,2020,other_citizen,5.1
-Melaka,2020,other_noncitizen,71.1
-Melaka,2021,overall,1004.5
-Melaka,2021,bumi_malay,663.1
-Melaka,2021,bumi_other,9.5
-Melaka,2021,chinese,204.9
-Melaka,2021,indian,52.4
-Melaka,2021,other_citizen,5.2
-Melaka,2021,other_noncitizen,69.3
-Melaka,2022,overall,1008.6
-Melaka,2022,bumi_malay,669.6
-Melaka,2022,bumi_other,9.6
-Melaka,2022,chinese,204.3
-Melaka,2022,indian,52.4
-Melaka,2022,other_citizen,5.2
-Melaka,2022,other_noncitizen,67.5
-Melaka,2023,overall,1028.3
-Melaka,2023,bumi_malay,677
-Melaka,2023,bumi_other,9.8
-Melaka,2023,chinese,203.8
-Melaka,2023,indian,52.4
-Melaka,2023,other_citizen,5.2
-Melaka,2023,other_noncitizen,80
-Melaka,2024,overall,1046.7
-Melaka,2024,bumi_malay,683.8
-Melaka,2024,bumi_other,9.9
-Melaka,2024,chinese,203.4
-Melaka,2024,indian,52.4
-Melaka,2024,other_citizen,5.3
-Melaka,2024,other_noncitizen,91.8
-Melaka,2025,overall,1052.5
-Melaka,2025,bumi_malay,690.2
-Melaka,2025,bumi_other,10
-Melaka,2025,chinese,203
-Melaka,2025,indian,52.4
-Melaka,2025,other_citizen,5.3
-Melaka,2025,other_noncitizen,91.5
-"Negeri Sembilan",2016,overall,1099.3
-"Negeri Sembilan",2016,bumi_malay,611.5
-"Negeri Sembilan",2016,bumi_other,21.2
-"Negeri Sembilan",2016,chinese,229.8
-"Negeri Sembilan",2016,indian,153.7
-"Negeri Sembilan",2016,other_citizen,4
-"Negeri Sembilan",2016,other_noncitizen,79.2
-"Negeri Sembilan",2017,overall,1114
-"Negeri Sembilan",2017,bumi_malay,623.6
-"Negeri Sembilan",2017,bumi_other,21.6
-"Negeri Sembilan",2017,chinese,229.3
-"Negeri Sembilan",2017,indian,154.3
-"Negeri Sembilan",2017,other_citizen,3.7
-"Negeri Sembilan",2017,other_noncitizen,81.6
-"Negeri Sembilan",2018,overall,1122.9
-"Negeri Sembilan",2018,bumi_malay,631.7
-"Negeri Sembilan",2018,bumi_other,21.2
-"Negeri Sembilan",2018,chinese,229.4
-"Negeri Sembilan",2018,indian,154.1
-"Negeri Sembilan",2018,other_citizen,3.8
-"Negeri Sembilan",2018,other_noncitizen,83
-"Negeri Sembilan",2019,overall,1126.2
-"Negeri Sembilan",2019,bumi_malay,639.6
-"Negeri Sembilan",2019,bumi_other,20.9
-"Negeri Sembilan",2019,chinese,229.6
-"Negeri Sembilan",2019,indian,154
-"Negeri Sembilan",2019,other_citizen,3.9
-"Negeri Sembilan",2019,other_noncitizen,78.2
-"Negeri Sembilan",2020,overall,1200
-"Negeri Sembilan",2020,bumi_malay,693.3
-"Negeri Sembilan",2020,bumi_other,23.2
-"Negeri Sembilan",2020,chinese,248.5
-"Negeri Sembilan",2020,indian,161.6
-"Negeri Sembilan",2020,other_citizen,5.7
-"Negeri Sembilan",2020,other_noncitizen,67.7
-"Negeri Sembilan",2021,overall,1204.2
-"Negeri Sembilan",2021,bumi_malay,704.4
-"Negeri Sembilan",2021,bumi_other,22
-"Negeri Sembilan",2021,chinese,248.3
-"Negeri Sembilan",2021,indian,162.4
-"Negeri Sembilan",2021,other_citizen,5.8
-"Negeri Sembilan",2021,other_noncitizen,61.3
-"Negeri Sembilan",2022,overall,1207.9
-"Negeri Sembilan",2022,bumi_malay,711.9
-"Negeri Sembilan",2022,bumi_other,22.2
-"Negeri Sembilan",2022,chinese,247.4
-"Negeri Sembilan",2022,indian,162.4
-"Negeri Sembilan",2022,other_citizen,5.8
-"Negeri Sembilan",2022,other_noncitizen,58.1
-"Negeri Sembilan",2023,overall,1224.9
-"Negeri Sembilan",2023,bumi_malay,720
-"Negeri Sembilan",2023,bumi_other,22.5
-"Negeri Sembilan",2023,chinese,246.7
-"Negeri Sembilan",2023,indian,162.9
-"Negeri Sembilan",2023,other_citizen,5.9
-"Negeri Sembilan",2023,other_noncitizen,66.8
-"Negeri Sembilan",2024,overall,1239.5
-"Negeri Sembilan",2024,bumi_malay,727
-"Negeri Sembilan",2024,bumi_other,22.9
-"Negeri Sembilan",2024,chinese,245.9
-"Negeri Sembilan",2024,indian,163.1
-"Negeri Sembilan",2024,other_citizen,6
-"Negeri Sembilan",2024,other_noncitizen,74.5
-"Negeri Sembilan",2025,overall,1244.6
-"Negeri Sembilan",2025,bumi_malay,733.5
-"Negeri Sembilan",2025,bumi_other,23.2
-"Negeri Sembilan",2025,chinese,245.2
-"Negeri Sembilan",2025,indian,163.2
-"Negeri Sembilan",2025,other_citizen,6.1
-"Negeri Sembilan",2025,other_noncitizen,73.5
-Pahang,2016,overall,1626.7
-Pahang,2016,bumi_malay,1141.6
-Pahang,2016,bumi_other,77.9
-Pahang,2016,chinese,232.6
-Pahang,2016,indian,64.9
-Pahang,2016,other_citizen,5.6
-Pahang,2016,other_noncitizen,104.4
-Pahang,2017,overall,1647
-Pahang,2017,bumi_malay,1156.8
-Pahang,2017,bumi_other,79.5
-Pahang,2017,chinese,232.7
-Pahang,2017,indian,65.3
-Pahang,2017,other_citizen,5.8
-Pahang,2017,other_noncitizen,106.9
-Pahang,2018,overall,1664.7
-Pahang,2018,bumi_malay,1170.4
-Pahang,2018,bumi_other,80.7
-Pahang,2018,chinese,232.7
-Pahang,2018,indian,66.5
-Pahang,2018,other_citizen,6.1
-Pahang,2018,other_noncitizen,108.2
-Pahang,2019,overall,1671.4
-Pahang,2019,bumi_malay,1183.9
-Pahang,2019,bumi_other,82.5
-Pahang,2019,chinese,232.6
-Pahang,2019,indian,67.7
-Pahang,2019,other_citizen,6.3
-Pahang,2019,other_noncitizen,98.9
-Pahang,2020,overall,1591.3
-Pahang,2020,bumi_malay,1134.2
-Pahang,2020,bumi_other,92.2
-Pahang,2020,chinese,221.7
-Pahang,2020,indian,55.9
-Pahang,2020,other_citizen,9.2
-Pahang,2020,other_noncitizen,78.1
-Pahang,2021,overall,1601.5
-Pahang,2021,bumi_malay,1149.7
-Pahang,2021,bumi_other,91.6
-Pahang,2021,chinese,221.3
-Pahang,2021,indian,55.8
-Pahang,2021,other_citizen,9.3
-Pahang,2021,other_noncitizen,73.8
-Pahang,2022,overall,1614.3
-Pahang,2022,bumi_malay,1161.4
-Pahang,2022,bumi_other,92.9
-Pahang,2022,chinese,220.6
-Pahang,2022,indian,55.8
-Pahang,2022,other_citizen,9.4
-Pahang,2022,other_noncitizen,74.2
-Pahang,2023,overall,1643.2
-Pahang,2023,bumi_malay,1173.9
-Pahang,2023,bumi_other,94.4
-Pahang,2023,chinese,220
-Pahang,2023,indian,55.8
-Pahang,2023,other_citizen,9.5
-Pahang,2023,other_noncitizen,89.6
-Pahang,2024,overall,1667.7
-Pahang,2024,bumi_malay,1184.9
-Pahang,2024,bumi_other,95.8
-Pahang,2024,chinese,219.2
-Pahang,2024,indian,55.9
-Pahang,2024,other_citizen,9.6
-Pahang,2024,other_noncitizen,102.3
-Pahang,2025,overall,1678.2
-Pahang,2025,bumi_malay,1195
-Pahang,2025,bumi_other,97.2
-Pahang,2025,chinese,218.6
-Pahang,2025,indian,55.9
-Pahang,2025,other_citizen,9.7
-Pahang,2025,other_noncitizen,101.9
-Perak,2016,overall,2482.1
-Perak,2016,bumi_malay,1315.8
-Perak,2016,bumi_other,77.9
-Perak,2016,chinese,700.1
-Perak,2016,indian,280.4
-Perak,2016,other_citizen,9.5
-Perak,2016,other_noncitizen,98.6
-Perak,2017,overall,2493.2
-Perak,2017,bumi_malay,1327.9
-Perak,2017,bumi_other,79
-Perak,2017,chinese,695.9
-Perak,2017,indian,279.5
-Perak,2017,other_citizen,9.8
-Perak,2017,other_noncitizen,100.9
-Perak,2018,overall,2503.5
-Perak,2018,bumi_malay,1338.5
-Perak,2018,bumi_other,81.3
-Perak,2018,chinese,694.1
-Perak,2018,indian,277.4
-Perak,2018,other_citizen,9.9
-Perak,2018,other_noncitizen,102.1
-Perak,2019,overall,2508.8
-Perak,2019,bumi_malay,1350.3
-Perak,2019,bumi_other,83
-Perak,2019,chinese,692.2
-Perak,2019,indian,275.7
-Perak,2019,other_citizen,10
-Perak,2019,other_noncitizen,97.7
-Perak,2020,overall,2496
-Perak,2020,bumi_malay,1364.8
-Perak,2020,bumi_other,74.9
-Perak,2020,chinese,643.6
-Perak,2020,indian,270.8
-Perak,2020,other_citizen,10.7
-Perak,2020,other_noncitizen,131.2
-Perak,2021,overall,2515.8
-Perak,2021,bumi_malay,1385.7
-Perak,2021,bumi_other,73.9
-Perak,2021,chinese,642.9
-Perak,2021,indian,271.7
-Perak,2021,other_citizen,10.8
-Perak,2021,other_noncitizen,130.8
-Perak,2022,overall,2514.4
-Perak,2022,bumi_malay,1396.8
-Perak,2022,bumi_other,74.4
-Perak,2022,chinese,638.3
-Perak,2022,indian,271.2
-Perak,2022,other_citizen,10.8
-Perak,2022,other_noncitizen,122.9
-Perak,2023,overall,2541.2
-Perak,2023,bumi_malay,1409.1
-Perak,2023,bumi_other,75.2
-Perak,2023,chinese,634.5
-Perak,2023,indian,270.9
-Perak,2023,other_citizen,10.9
-Perak,2023,other_noncitizen,140.6
-Perak,2024,overall,2569.4
-Perak,2024,bumi_malay,1420.5
-Perak,2024,bumi_other,76.1
-Perak,2024,chinese,630.8
-Perak,2024,indian,270.7
-Perak,2024,other_citizen,11
-Perak,2024,other_noncitizen,160.4
-Perak,2025,overall,2574.9
-Perak,2025,bumi_malay,1430.1
-Perak,2025,bumi_other,76.8
-Perak,2025,chinese,627.2
-Perak,2025,indian,270.2
-Perak,2025,other_citizen,11
-Perak,2025,other_noncitizen,159.5
-Perlis,2016,overall,251
-Perlis,2016,bumi_malay,214.3
-Perlis,2016,bumi_other,0.9
-Perlis,2016,chinese,19.2
-Perlis,2016,indian,3.1
-Perlis,2016,other_citizen,4.9
-Perlis,2016,other_noncitizen,8.7
-Perlis,2017,overall,252
-Perlis,2017,bumi_malay,215.4
-Perlis,2017,bumi_other,1
-Perlis,2017,chinese,18.9
-Perlis,2017,indian,3.1
-Perlis,2017,other_citizen,4.8
-Perlis,2017,other_noncitizen,8.9
-Perlis,2018,overall,253.5
-Perlis,2018,bumi_malay,217
-Perlis,2018,bumi_other,1.1
-Perlis,2018,chinese,18.9
-Perlis,2018,indian,3.1
-Perlis,2018,other_citizen,4.8
-Perlis,2018,other_noncitizen,8.9
-Perlis,2019,overall,254
-Perlis,2019,bumi_malay,217.7
-Perlis,2019,bumi_other,1.1
-Perlis,2019,chinese,18.9
-Perlis,2019,indian,3.1
-Perlis,2019,other_citizen,4.9
-Perlis,2019,other_noncitizen,8.1
-Perlis,2020,overall,284.9
-Perlis,2020,bumi_malay,245.4
-Perlis,2020,bumi_other,1.9
-Perlis,2020,chinese,20.5
-Perlis,2020,indian,5.1
-Perlis,2020,other_citizen,5.6
-Perlis,2020,other_noncitizen,6.4
-Perlis,2021,overall,287.6
-Perlis,2021,bumi_malay,247.8
-Perlis,2021,bumi_other,1.5
-Perlis,2021,chinese,20.4
-Perlis,2021,indian,5.1
-Perlis,2021,other_citizen,5.7
-Perlis,2021,other_noncitizen,7.3
-Perlis,2022,overall,289.8
-Perlis,2022,bumi_malay,249.4
-Perlis,2022,bumi_other,1.5
-Perlis,2022,chinese,20.2
-Perlis,2022,indian,5.1
-Perlis,2022,other_citizen,5.7
-Perlis,2022,other_noncitizen,7.9
-Perlis,2023,overall,293.1
-Perlis,2023,bumi_malay,250.9
-Perlis,2023,bumi_other,1.5
-Perlis,2023,chinese,20.1
-Perlis,2023,indian,5.1
-Perlis,2023,other_citizen,5.7
-Perlis,2023,other_noncitizen,9.8
-Perlis,2024,overall,296.8
-Perlis,2024,bumi_malay,252.5
-Perlis,2024,bumi_other,1.5
-Perlis,2024,chinese,20
-Perlis,2024,indian,5.1
-Perlis,2024,other_citizen,5.7
-Perlis,2024,other_noncitizen,11.9
-Perlis,2025,overall,297.8
-Perlis,2025,bumi_malay,253.8
-Perlis,2025,bumi_other,1.5
-Perlis,2025,chinese,19.9
-Perlis,2025,indian,5.1
-Perlis,2025,other_citizen,5.8
-Perlis,2025,other_noncitizen,11.7
-"Pulau Pinang",2016,overall,1717.7
-"Pulau Pinang",2016,bumi_malay,707.1
-"Pulau Pinang",2016,bumi_other,4.6
-"Pulau Pinang",2016,chinese,688.9
-"Pulau Pinang",2016,indian,165.7
-"Pulau Pinang",2016,other_citizen,5
-"Pulau Pinang",2016,other_noncitizen,146.3
-"Pulau Pinang",2017,overall,1744.1
-"Pulau Pinang",2017,bumi_malay,723.3
-"Pulau Pinang",2017,bumi_other,5
-"Pulau Pinang",2017,chinese,694.2
-"Pulau Pinang",2017,indian,166.1
-"Pulau Pinang",2017,other_citizen,5
-"Pulau Pinang",2017,other_noncitizen,150.3
-"Pulau Pinang",2018,overall,1762.8
-"Pulau Pinang",2018,bumi_malay,739.4
-"Pulau Pinang",2018,bumi_other,5.3
-"Pulau Pinang",2018,chinese,694.2
-"Pulau Pinang",2018,indian,166.5
-"Pulau Pinang",2018,other_citizen,5
-"Pulau Pinang",2018,other_noncitizen,152.3
-"Pulau Pinang",2019,overall,1768.8
-"Pulau Pinang",2019,bumi_malay,753.9
-"Pulau Pinang",2019,bumi_other,5.5
-"Pulau Pinang",2019,chinese,694
-"Pulau Pinang",2019,indian,166.8
-"Pulau Pinang",2019,other_citizen,5.1
-"Pulau Pinang",2019,other_noncitizen,143.4
-"Pulau Pinang",2020,overall,1740.4
-"Pulau Pinang",2020,bumi_malay,707.9
-"Pulau Pinang",2020,bumi_other,8
-"Pulau Pinang",2020,chinese,718.4
-"Pulau Pinang",2020,indian,155.5
-"Pulau Pinang",2020,other_citizen,10.1
-"Pulau Pinang",2020,other_noncitizen,140.5
-"Pulau Pinang",2021,overall,1740
-"Pulau Pinang",2021,bumi_malay,715.3
-"Pulau Pinang",2021,bumi_other,6.9
-"Pulau Pinang",2021,chinese,718.2
-"Pulau Pinang",2021,indian,155.5
-"Pulau Pinang",2021,other_citizen,10.2
-"Pulau Pinang",2021,other_noncitizen,133.8
-"Pulau Pinang",2022,overall,1740.9
-"Pulau Pinang",2022,bumi_malay,721.4
-"Pulau Pinang",2022,bumi_other,7
-"Pulau Pinang",2022,chinese,715.2
-"Pulau Pinang",2022,indian,155.1
-"Pulau Pinang",2022,other_citizen,10.2
-"Pulau Pinang",2022,other_noncitizen,132
-"Pulau Pinang",2023,overall,1772.6
-"Pulau Pinang",2023,bumi_malay,728.8
-"Pulau Pinang",2023,bumi_other,7.1
-"Pulau Pinang",2023,chinese,713.2
-"Pulau Pinang",2023,indian,155.1
-"Pulau Pinang",2023,other_citizen,10.2
-"Pulau Pinang",2023,other_noncitizen,158.2
-"Pulau Pinang",2024,overall,1800.5
-"Pulau Pinang",2024,bumi_malay,735.8
-"Pulau Pinang",2024,bumi_other,7.2
-"Pulau Pinang",2024,chinese,711.2
-"Pulau Pinang",2024,indian,155
-"Pulau Pinang",2024,other_citizen,10.3
-"Pulau Pinang",2024,other_noncitizen,181
-"Pulau Pinang",2025,overall,1803.3
-"Pulau Pinang",2025,bumi_malay,741.6
-"Pulau Pinang",2025,bumi_other,7.3
-"Pulau Pinang",2025,chinese,709.2
-"Pulau Pinang",2025,indian,154.9
-"Pulau Pinang",2025,other_citizen,10.3
-"Pulau Pinang",2025,other_noncitizen,179.9
-Sabah,2016,overall,3802.8
-Sabah,2016,bumi_malay,281.5
-Sabah,2016,bumi_other,1951.3
-Sabah,2016,chinese,307
-Sabah,2016,indian,12.3
-Sabah,2016,other_citizen,121.4
-Sabah,2016,other_noncitizen,1129.2
-Sabah,2017,overall,3855.9
-Sabah,2017,bumi_malay,288.3
-Sabah,2017,bumi_other,1976.7
-Sabah,2017,chinese,307
-Sabah,2017,indian,13.1
-Sabah,2017,other_citizen,123
-Sabah,2017,other_noncitizen,1148
-Sabah,2018,overall,3898.4
-Sabah,2018,bumi_malay,295.3
-Sabah,2018,bumi_other,1999.3
-Sabah,2018,chinese,306.9
-Sabah,2018,indian,13.2
-Sabah,2018,other_citizen,125.1
-Sabah,2018,other_noncitizen,1158.7
-Sabah,2019,overall,3904.4
-Sabah,2019,bumi_malay,302.7
-Sabah,2019,bumi_other,2026.6
-Sabah,2019,chinese,307.2
-Sabah,2019,indian,13.3
-Sabah,2019,other_citizen,127.2
-Sabah,2019,other_noncitizen,1127.1
-Sabah,2020,overall,3418.8
-Sabah,2020,bumi_malay,236.9
-Sabah,2020,bumi_other,2076.5
-Sabah,2020,chinese,248.9
-Sabah,2020,indian,6
-Sabah,2020,other_citizen,40
-Sabah,2020,other_noncitizen,810.4
-Sabah,2021,overall,3412.6
-Sabah,2021,bumi_malay,312.2
-Sabah,2021,bumi_other,2025.7
-Sabah,2021,chinese,248
-Sabah,2021,indian,5.9
-Sabah,2021,other_citizen,41.4
-Sabah,2021,other_noncitizen,779.5
-Sabah,2022,overall,3414.9
-Sabah,2022,bumi_malay,316.1
-Sabah,2022,bumi_other,2040.4
-Sabah,2022,chinese,246.1
-Sabah,2022,indian,5.9
-Sabah,2022,other_citizen,42.3
-Sabah,2022,other_noncitizen,764.2
-Sabah,2023,overall,3596.7
-Sabah,2023,bumi_malay,321.7
-Sabah,2023,bumi_other,2059.7
-Sabah,2023,chinese,244.8
-Sabah,2023,indian,5.9
-Sabah,2023,other_citizen,43.6
-Sabah,2023,other_noncitizen,921.1
-Sabah,2024,overall,3742
-Sabah,2024,bumi_malay,326.6
-Sabah,2024,bumi_other,2077.6
-Sabah,2024,chinese,243.5
-Sabah,2024,indian,5.9
-Sabah,2024,other_citizen,44.8
-Sabah,2024,other_noncitizen,1043.6
-Sabah,2025,overall,3759.6
-Sabah,2025,bumi_malay,331.1
-Sabah,2025,bumi_other,2094.3
-Sabah,2025,chinese,242.1
-Sabah,2025,indian,5.9
-Sabah,2025,other_citizen,46
-Sabah,2025,other_noncitizen,1040.2
-Sarawak,2016,overall,2738.7
-Sarawak,2016,bumi_malay,624.7
-Sarawak,2016,bumi_other,1307.5
-Sarawak,2016,chinese,615.8
-Sarawak,2016,indian,7.5
-Sarawak,2016,other_citizen,7.9
-Sarawak,2016,other_noncitizen,175.3
-Sarawak,2017,overall,2766.3
-Sarawak,2017,bumi_malay,633
-Sarawak,2017,bumi_other,1320.1
-Sarawak,2017,chinese,619.2
-Sarawak,2017,indian,7.6
-Sarawak,2017,other_citizen,7.9
-Sarawak,2017,other_noncitizen,178.8
-Sarawak,2018,overall,2791.7
-Sarawak,2018,bumi_malay,640.3
-Sarawak,2018,bumi_other,1332.8
-Sarawak,2018,chinese,622
-Sarawak,2018,indian,7.7
-Sarawak,2018,other_citizen,8.1
-Sarawak,2018,other_noncitizen,180.7
-Sarawak,2019,overall,2806
-Sarawak,2019,bumi_malay,647.7
-Sarawak,2019,bumi_other,1345.7
-Sarawak,2019,chinese,625
-Sarawak,2019,indian,7.7
-Sarawak,2019,other_citizen,8.2
-Sarawak,2019,other_noncitizen,171.4
-Sarawak,2020,overall,2453.7
-Sarawak,2020,bumi_malay,575.4
-Sarawak,2020,bumi_other,1187
-Sarawak,2020,chinese,554.6
-Sarawak,2020,indian,5.1
-Sarawak,2020,other_citizen,6.3
-Sarawak,2020,other_noncitizen,125.3
-Sarawak,2021,overall,2465.6
-Sarawak,2021,bumi_malay,585.3
-Sarawak,2021,bumi_other,1193.5
-Sarawak,2021,chinese,556.2
-Sarawak,2021,indian,5
-Sarawak,2021,other_citizen,6.4
-Sarawak,2021,other_noncitizen,119.1
-Sarawak,2022,overall,2473.5
-Sarawak,2022,bumi_malay,591
-Sarawak,2022,bumi_other,1199.1
-Sarawak,2022,chinese,555.8
-Sarawak,2022,indian,5
-Sarawak,2022,other_citizen,6.5
-Sarawak,2022,other_noncitizen,116.2
-Sarawak,2023,overall,2502.3
-Sarawak,2023,bumi_malay,597.6
-Sarawak,2023,bumi_other,1209
-Sarawak,2023,chinese,556.6
-Sarawak,2023,indian,5
-Sarawak,2023,other_citizen,6.5
-Sarawak,2023,other_noncitizen,127.6
-Sarawak,2024,overall,2517.5
-Sarawak,2024,bumi_malay,603.2
-Sarawak,2024,bumi_other,1217.6
-Sarawak,2024,chinese,557.4
-Sarawak,2024,indian,5
-Sarawak,2024,other_citizen,6.6
-Sarawak,2024,other_noncitizen,127.7
-Sarawak,2025,overall,2529.8
-Sarawak,2025,bumi_malay,608.3
-Sarawak,2025,bumi_other,1225.1
-Sarawak,2025,chinese,558
-Sarawak,2025,indian,5
-Sarawak,2025,other_citizen,6.6
-Sarawak,2025,other_noncitizen,126.8
-Selangor,2016,overall,6291.5
-Selangor,2016,bumi_malay,3240.5
-Selangor,2016,bumi_other,85.1
-Selangor,2016,chinese,1544
-Selangor,2016,indian,719.6
-Selangor,2016,other_citizen,45.2
-Selangor,2016,other_noncitizen,656.9
-Selangor,2017,overall,6380.7
-Selangor,2017,bumi_malay,3301.5
-Selangor,2017,bumi_other,86.4
-Selangor,2017,chinese,1553.4
-Selangor,2017,indian,724
-Selangor,2017,other_citizen,47.4
-Selangor,2017,other_noncitizen,668.4
-Selangor,2018,overall,6475
-Selangor,2018,bumi_malay,3369.9
-Selangor,2018,bumi_other,90.4
-Selangor,2018,chinese,1560.3
-Selangor,2018,indian,727.8
-Selangor,2018,other_citizen,49.1
-Selangor,2018,other_noncitizen,677.5
-Selangor,2019,overall,6506.1
-Selangor,2019,bumi_malay,3436.3
-Selangor,2019,bumi_other,94.8
-Selangor,2019,chinese,1567.1
-Selangor,2019,indian,731
-Selangor,2019,other_citizen,50.6
-Selangor,2019,other_noncitizen,626.7
-Selangor,2020,overall,6994.4
-Selangor,2020,bumi_malay,3806.2
-Selangor,2020,bumi_other,89.7
-Selangor,2020,chinese,1756.2
-Selangor,2020,indian,726
-Selangor,2020,other_citizen,52.4
-Selangor,2020,other_noncitizen,564
-Selangor,2021,overall,7014.7
-Selangor,2021,bumi_malay,3865.7
-Selangor,2021,bumi_other,81
-Selangor,2021,chinese,1759
-Selangor,2021,indian,728.2
-Selangor,2021,other_citizen,53.9
-Selangor,2021,other_noncitizen,526.9
-Selangor,2022,overall,7050.3
-Selangor,2022,bumi_malay,3907.9
-Selangor,2022,bumi_other,82.2
-Selangor,2022,chinese,1757.8
-Selangor,2022,indian,727.6
-Selangor,2022,other_citizen,54.9
-Selangor,2022,other_noncitizen,519.9
-Selangor,2023,overall,7209.7
-Selangor,2023,bumi_malay,3956.8
-Selangor,2023,bumi_other,83.7
-Selangor,2023,chinese,1758.7
-Selangor,2023,indian,729.1
-Selangor,2023,other_citizen,56.4
-Selangor,2023,other_noncitizen,624.9
-Selangor,2024,overall,7362.7
-Selangor,2024,bumi_malay,4001.7
-Selangor,2024,bumi_other,85.3
-Selangor,2024,chinese,1758.9
-Selangor,2024,indian,730.4
-Selangor,2024,other_citizen,57.7
-Selangor,2024,other_noncitizen,728.7
-Selangor,2025,overall,7406.8
-Selangor,2025,bumi_malay,4042.5
-Selangor,2025,bumi_other,86.9
-Selangor,2025,chinese,1759.6
-Selangor,2025,indian,731.1
-Selangor,2025,other_citizen,58.9
-Selangor,2025,other_noncitizen,727.9
-Terengganu,2016,overall,1183.4
-Terengganu,2016,bumi_malay,1113.1
-Terengganu,2016,bumi_other,3.8
-Terengganu,2016,chinese,28.3
-Terengganu,2016,indian,2.4
-Terengganu,2016,other_citizen,2.4
-Terengganu,2016,other_noncitizen,33.6
-Terengganu,2017,overall,1208
-Terengganu,2017,bumi_malay,1135.6
-Terengganu,2017,bumi_other,3.8
-Terengganu,2017,chinese,28.4
-Terengganu,2017,indian,2.5
-Terengganu,2017,other_citizen,3.2
-Terengganu,2017,other_noncitizen,34.7
-Terengganu,2018,overall,1228.3
-Terengganu,2018,bumi_malay,1154.6
-Terengganu,2018,bumi_other,3.8
-Terengganu,2018,chinese,28.5
-Terengganu,2018,indian,2.5
-Terengganu,2018,other_citizen,3.3
-Terengganu,2018,other_noncitizen,35.4
-Terengganu,2019,overall,1244.5
-Terengganu,2019,bumi_malay,1174.3
-Terengganu,2019,bumi_other,4
-Terengganu,2019,chinese,28.5
-Terengganu,2019,indian,2.5
-Terengganu,2019,other_citizen,3.3
-Terengganu,2019,other_noncitizen,32.2
-Terengganu,2020,overall,1149.4
-Terengganu,2020,bumi_malay,1090.4
-Terengganu,2020,bumi_other,5.2
-Terengganu,2020,chinese,23.2
-Terengganu,2020,indian,2.1
-Terengganu,2020,other_citizen,2.2
-Terengganu,2020,other_noncitizen,26.4
-Terengganu,2021,overall,1170.7
-Terengganu,2021,bumi_malay,1111.2
-Terengganu,2021,bumi_other,3.3
-Terengganu,2021,chinese,23
-Terengganu,2021,indian,2.1
-Terengganu,2021,other_citizen,2.2
-Terengganu,2021,other_noncitizen,28.8
-Terengganu,2022,overall,1186.6
-Terengganu,2022,bumi_malay,1127.4
-Terengganu,2022,bumi_other,3.3
-Terengganu,2022,chinese,22.9
-Terengganu,2022,indian,2.1
-Terengganu,2022,other_citizen,2.3
-Terengganu,2022,other_noncitizen,28.6
-Terengganu,2023,overall,1210
-Terengganu,2023,bumi_malay,1145.1
-Terengganu,2023,bumi_other,3.3
-Terengganu,2023,chinese,22.8
-Terengganu,2023,indian,2.1
-Terengganu,2023,other_citizen,2.3
-Terengganu,2023,other_noncitizen,34.4
-Terengganu,2024,overall,1231.5
-Terengganu,2024,bumi_malay,1161.8
-Terengganu,2024,bumi_other,3.4
-Terengganu,2024,chinese,22.7
-Terengganu,2024,indian,2.1
-Terengganu,2024,other_citizen,2.3
-Terengganu,2024,other_noncitizen,39.3
-Terengganu,2025,overall,1246.9
-Terengganu,2025,bumi_malay,1177.5
-Terengganu,2025,bumi_other,3.4
-Terengganu,2025,chinese,22.6
-Terengganu,2025,indian,2
-Terengganu,2025,other_citizen,2.3
-Terengganu,2025,other_noncitizen,39
-"W.P. Kuala Lumpur",2016,overall,1789.7
-"W.P. Kuala Lumpur",2016,bumi_malay,700.8
-"W.P. Kuala Lumpur",2016,bumi_other,21.6
-"W.P. Kuala Lumpur",2016,chinese,654.9
-"W.P. Kuala Lumpur",2016,indian,151.7
-"W.P. Kuala Lumpur",2016,other_citizen,17.9
-"W.P. Kuala Lumpur",2016,other_noncitizen,242.7
-"W.P. Kuala Lumpur",2017,overall,1793.2
-"W.P. Kuala Lumpur",2017,bumi_malay,702.2
-"W.P. Kuala Lumpur",2017,bumi_other,21.8
-"W.P. Kuala Lumpur",2017,chinese,654.5
-"W.P. Kuala Lumpur",2017,indian,151.3
-"W.P. Kuala Lumpur",2017,other_citizen,18.4
-"W.P. Kuala Lumpur",2017,other_noncitizen,245.1
-"W.P. Kuala Lumpur",2018,overall,1790
-"W.P. Kuala Lumpur",2018,bumi_malay,698.8
-"W.P. Kuala Lumpur",2018,bumi_other,21.1
-"W.P. Kuala Lumpur",2018,chinese,654.2
-"W.P. Kuala Lumpur",2018,indian,151.4
-"W.P. Kuala Lumpur",2018,other_citizen,18.9
-"W.P. Kuala Lumpur",2018,other_noncitizen,246
-"W.P. Kuala Lumpur",2019,overall,1782.5
-"W.P. Kuala Lumpur",2019,bumi_malay,698.5
-"W.P. Kuala Lumpur",2019,bumi_other,20.2
-"W.P. Kuala Lumpur",2019,chinese,654.9
-"W.P. Kuala Lumpur",2019,indian,151.8
-"W.P. Kuala Lumpur",2019,other_citizen,19.5
-"W.P. Kuala Lumpur",2019,other_noncitizen,237.6
-"W.P. Kuala Lumpur",2020,overall,1982.1
-"W.P. Kuala Lumpur",2020,bumi_malay,824.6
-"W.P. Kuala Lumpur",2020,bumi_other,21.7
-"W.P. Kuala Lumpur",2020,chinese,737.2
-"W.P. Kuala Lumpur",2020,indian,178.1
-"W.P. Kuala Lumpur",2020,other_citizen,12.1
-"W.P. Kuala Lumpur",2020,other_noncitizen,208.4
-"W.P. Kuala Lumpur",2021,overall,1964
-"W.P. Kuala Lumpur",2021,bumi_malay,829.7
-"W.P. Kuala Lumpur",2021,bumi_other,19.6
-"W.P. Kuala Lumpur",2021,chinese,732.4
-"W.P. Kuala Lumpur",2021,indian,177.5
-"W.P. Kuala Lumpur",2021,other_citizen,12.4
-"W.P. Kuala Lumpur",2021,other_noncitizen,192.4
-"W.P. Kuala Lumpur",2022,overall,1961.2
-"W.P. Kuala Lumpur",2022,bumi_malay,837.2
-"W.P. Kuala Lumpur",2022,bumi_other,19.9
-"W.P. Kuala Lumpur",2022,chinese,730.7
-"W.P. Kuala Lumpur",2022,indian,177
-"W.P. Kuala Lumpur",2022,other_citizen,12.7
-"W.P. Kuala Lumpur",2022,other_noncitizen,183.6
-"W.P. Kuala Lumpur",2023,overall,2005.7
-"W.P. Kuala Lumpur",2023,bumi_malay,846.4
-"W.P. Kuala Lumpur",2023,bumi_other,20.3
-"W.P. Kuala Lumpur",2023,chinese,730.5
-"W.P. Kuala Lumpur",2023,indian,177
-"W.P. Kuala Lumpur",2023,other_citizen,13.1
-"W.P. Kuala Lumpur",2023,other_noncitizen,218.6
-"W.P. Kuala Lumpur",2024,overall,2067.5
-"W.P. Kuala Lumpur",2024,bumi_malay,855
-"W.P. Kuala Lumpur",2024,bumi_other,20.6
-"W.P. Kuala Lumpur",2024,chinese,730
-"W.P. Kuala Lumpur",2024,indian,177
-"W.P. Kuala Lumpur",2024,other_citizen,13.5
-"W.P. Kuala Lumpur",2024,other_noncitizen,271.5
-"W.P. Kuala Lumpur",2025,overall,2074.1
-"W.P. Kuala Lumpur",2025,bumi_malay,862.3
-"W.P. Kuala Lumpur",2025,bumi_other,21
-"W.P. Kuala Lumpur",2025,chinese,729.5
-"W.P. Kuala Lumpur",2025,indian,176.9
-"W.P. Kuala Lumpur",2025,other_citizen,13.8
-"W.P. Kuala Lumpur",2025,other_noncitizen,270.7
-"W.P. Labuan",2016,overall,96.8
-"W.P. Labuan",2016,bumi_malay,33.2
-"W.P. Labuan",2016,bumi_other,39.7
-"W.P. Labuan",2016,chinese,9.5
-"W.P. Labuan",2016,indian,0.7
-"W.P. Labuan",2016,other_citizen,2.5
-"W.P. Labuan",2016,other_noncitizen,10.7
-"W.P. Labuan",2017,overall,97.6
-"W.P. Labuan",2017,bumi_malay,32.9
-"W.P. Labuan",2017,bumi_other,40.8
-"W.P. Labuan",2017,chinese,9.5
-"W.P. Labuan",2017,indian,0.8
-"W.P. Labuan",2017,other_citizen,2.7
-"W.P. Labuan",2017,other_noncitizen,11
-"W.P. Labuan",2018,overall,99
-"W.P. Labuan",2018,bumi_malay,33.6
-"W.P. Labuan",2018,bumi_other,41.2
-"W.P. Labuan",2018,chinese,9.6
-"W.P. Labuan",2018,indian,0.8
-"W.P. Labuan",2018,other_citizen,2.8
+state,ethnicity,year,population
+Johor,overall,2016,3651.8
+Johor,"Bumi Malay",2016,1908.6
+Johor,"Bumi Other",2016,59
+Johor,Chinese,2016,1085.4
+Johor,Indian,2016,232.5
+Johor,"Other Citizen",2016,18.4
+Johor,"Other Non Citizen",2016,347.4
+Johor,overall,2017,3697
+Johor,"Bumi Malay",2017,1937
+Johor,"Bumi Other",2017,60.9
+Johor,Chinese,2017,1092.8
+Johor,Indian,2017,235.6
+Johor,"Other Citizen",2017,18.6
+Johor,"Other Non Citizen",2017,352.5
+Johor,overall,2018,3749.4
+Johor,"Bumi Malay",2018,1971.3
+Johor,"Bumi Other",2018,64.5
+Johor,Chinese,2018,1098.6
+Johor,Indian,2018,239.1
+Johor,"Other Citizen",2018,18.6
+Johor,"Other Non Citizen",2018,357.2
+Johor,overall,2019,3761.2
+Johor,"Bumi Malay",2019,2005.5
+Johor,"Bumi Other",2019,68
+Johor,Chinese,2019,1103.9
+Johor,Indian,2019,241.8
+Johor,"Other Citizen",2019,18.5
+Johor,"Other Non Citizen",2019,323.8
+Johor,overall,2020,4009.7
+Johor,"Bumi Malay",2020,2158.4
+Johor,"Bumi Other",2020,60.8
+Johor,Chinese,2020,1208.7
+Johor,Indian,2020,244.3
+Johor,"Other Citizen",2020,18.4
+Johor,"Other Non Citizen",2020,319.2
+Johor,overall,2021,4020
+Johor,"Bumi Malay",2021,2188.7
+Johor,"Bumi Other",2021,57.5
+Johor,Chinese,2021,1211.5
+Johor,Indian,2021,244.9
+Johor,"Other Citizen",2021,18.8
+Johor,"Other Non Citizen",2021,298.7
+Johor,overall,2022,4028.3
+Johor,"Bumi Malay",2022,2208.6
+Johor,"Bumi Other",2022,58.3
+Johor,Chinese,2022,1210.1
+Johor,Indian,2022,244.7
+Johor,"Other Citizen",2022,19
+Johor,"Other Non Citizen",2022,287.6
+Johor,overall,2023,4107.2
+Johor,"Bumi Malay",2023,2233.8
+Johor,"Bumi Other",2023,59.3
+Johor,Chinese,2023,1211.1
+Johor,Indian,2023,245.8
+Johor,"Other Citizen",2023,19.3
+Johor,"Other Non Citizen",2023,337.9
+Johor,overall,2024,4184.4
+Johor,"Bumi Malay",2024,2257.2
+Johor,"Bumi Other",2024,60.4
+Johor,Chinese,2024,1212.2
+Johor,Indian,2024,247.1
+Johor,"Other Citizen",2024,19.6
+Johor,"Other Non Citizen",2024,387.9
+Johor,overall,2025,4205.9
+Johor,"Bumi Malay",2025,2277.7
+Johor,"Bumi Other",2025,61.3
+Johor,Chinese,2025,1213.7
+Johor,Indian,2025,248.1
+Johor,"Other Citizen",2025,19.9
+Johor,"Other Non Citizen",2025,385.1
+Kedah,overall,2016,2119.7
+Kedah,"Bumi Malay",2016,1603
+Kedah,"Bumi Other",2016,3.6
+Kedah,Chinese,2016,257.3
+Kedah,Indian,2016,140.5
+Kedah,"Other Citizen",2016,20.4
+Kedah,"Other Non Citizen",2016,94.4
+Kedah,overall,2017,2143.9
+Kedah,"Bumi Malay",2017,1625.4
+Kedah,"Bumi Other",2017,3.8
+Kedah,Chinese,2017,256.5
+Kedah,Indian,2017,141
+Kedah,"Other Citizen",2017,21.3
+Kedah,"Other Non Citizen",2017,95.9
+Kedah,overall,2018,2163
+Kedah,"Bumi Malay",2018,1643
+Kedah,"Bumi Other",2018,3.3
+Kedah,Chinese,2018,257.8
+Kedah,Indian,2018,140.9
+Kedah,"Other Citizen",2018,21.6
+Kedah,"Other Non Citizen",2018,96.4
+Kedah,overall,2019,2173.7
+Kedah,"Bumi Malay",2019,1661
+Kedah,"Bumi Other",2019,2.4
+Kedah,Chinese,2019,259.1
+Kedah,Indian,2019,140.8
+Kedah,"Other Citizen",2019,22
+Kedah,"Other Non Citizen",2019,88.2
+Kedah,overall,2020,2131.4
+Kedah,"Bumi Malay",2020,1624.8
+Kedah,"Bumi Other",2020,8
+Kedah,Chinese,2020,250.6
+Kedah,Indian,2020,129.1
+Kedah,"Other Citizen",2020,25.7
+Kedah,"Other Non Citizen",2020,93.3
+Kedah,overall,2021,2151.7
+Kedah,"Bumi Malay",2021,1653
+Kedah,"Bumi Other",2021,4.6
+Kedah,Chinese,2021,250.6
+Kedah,Indian,2021,129.1
+Kedah,"Other Citizen",2021,25.7
+Kedah,"Other Non Citizen",2021,88.8
+Kedah,overall,2022,2163.1
+Kedah,"Bumi Malay",2022,1665.5
+Kedah,"Bumi Other",2022,4.7
+Kedah,Chinese,2022,249.5
+Kedah,Indian,2022,128.6
+Kedah,"Other Citizen",2022,25.7
+Kedah,"Other Non Citizen",2022,89.1
+Kedah,overall,2023,2189.3
+Kedah,"Bumi Malay",2023,1682
+Kedah,"Bumi Other",2023,4.7
+Kedah,Chinese,2023,248.6
+Kedah,Indian,2023,128.6
+Kedah,"Other Citizen",2023,25.8
+Kedah,"Other Non Citizen",2023,99.6
+Kedah,overall,2024,2217.1
+Kedah,"Bumi Malay",2024,1697.5
+Kedah,"Bumi Other",2024,4.8
+Kedah,Chinese,2024,247.6
+Kedah,Indian,2024,128.5
+Kedah,"Other Citizen",2024,25.8
+Kedah,"Other Non Citizen",2024,112.8
+Kedah,overall,2025,2228
+Kedah,"Bumi Malay",2025,1711.3
+Kedah,"Bumi Other",2025,4.9
+Kedah,Chinese,2025,246.7
+Kedah,Indian,2025,128.4
+Kedah,"Other Citizen",2025,25.9
+Kedah,"Other Non Citizen",2025,111
+Kelantan,overall,2016,1796.7
+Kelantan,"Bumi Malay",2016,1653.6
+Kelantan,"Bumi Other",2016,19.4
+Kelantan,Chinese,2016,55.4
+Kelantan,Indian,2016,4.8
+Kelantan,"Other Citizen",2016,11
+Kelantan,"Other Non Citizen",2016,52.4
+Kelantan,overall,2017,1829
+Kelantan,"Bumi Malay",2017,1683.4
+Kelantan,"Bumi Other",2017,20.6
+Kelantan,Chinese,2017,55.8
+Kelantan,Indian,2017,4.8
+Kelantan,"Other Citizen",2017,11.3
+Kelantan,"Other Non Citizen",2017,53.5
+Kelantan,overall,2018,1860.5
+Kelantan,"Bumi Malay",2018,1713.1
+Kelantan,"Bumi Other",2018,20.6
+Kelantan,Chinese,2018,56.3
+Kelantan,Indian,2018,4.8
+Kelantan,"Other Citizen",2018,11.4
+Kelantan,"Other Non Citizen",2018,54.2
+Kelantan,overall,2019,1883.8
+Kelantan,"Bumi Malay",2019,1740.4
+Kelantan,"Bumi Other",2019,20.9
+Kelantan,Chinese,2019,56.8
+Kelantan,Indian,2019,4.8
+Kelantan,"Other Citizen",2019,11.5
+Kelantan,"Other Non Citizen",2019,49.2
+Kelantan,overall,2020,1792.5
+Kelantan,"Bumi Malay",2020,1671.4
+Kelantan,"Bumi Other",2020,25.4
+Kelantan,Chinese,2020,44.7
+Kelantan,Indian,2020,4.7
+Kelantan,"Other Citizen",2020,11
+Kelantan,"Other Non Citizen",2020,35.3
+Kelantan,overall,2021,1812.3
+Kelantan,"Bumi Malay",2021,1695
+Kelantan,"Bumi Other",2021,21.9
+Kelantan,Chinese,2021,44.7
+Kelantan,Indian,2021,4.8
+Kelantan,"Other Citizen",2021,11
+Kelantan,"Other Non Citizen",2021,35
+Kelantan,overall,2022,1830.6
+Kelantan,"Bumi Malay",2022,1714.1
+Kelantan,"Bumi Other",2022,22.2
+Kelantan,Chinese,2022,44.5
+Kelantan,Indian,2022,4.8
+Kelantan,"Other Citizen",2022,11
+Kelantan,"Other Non Citizen",2022,34.1
+Kelantan,overall,2023,1859.8
+Kelantan,"Bumi Malay",2023,1736.8
+Kelantan,"Bumi Other",2023,22.5
+Kelantan,Chinese,2023,44.3
+Kelantan,Indian,2023,4.8
+Kelantan,"Other Citizen",2023,11
+Kelantan,"Other Non Citizen",2023,40.3
+Kelantan,overall,2024,1887.9
+Kelantan,"Bumi Malay",2024,1758
+Kelantan,"Bumi Other",2024,22.8
+Kelantan,Chinese,2024,44.2
+Kelantan,Indian,2024,4.8
+Kelantan,"Other Citizen",2024,11
+Kelantan,"Other Non Citizen",2024,47.2
+Kelantan,overall,2025,1907.7
+Kelantan,"Bumi Malay",2025,1777.6
+Kelantan,"Bumi Other",2025,23.1
+Kelantan,Chinese,2025,44.1
+Kelantan,Indian,2025,4.8
+Kelantan,"Other Citizen",2025,11
+Kelantan,"Other Non Citizen",2025,47.1
+Melaka,overall,2016,901.1
+Melaka,"Bumi Malay",2016,568.9
+Melaka,"Bumi Other",2016,13.5
+Melaka,Chinese,2016,216.9
+Melaka,Indian,2016,50.6
+Melaka,"Other Citizen",2016,4.6
+Melaka,"Other Non Citizen",2016,47
+Melaka,overall,2017,913.1
+Melaka,"Bumi Malay",2017,578.8
+Melaka,"Bumi Other",2017,14
+Melaka,Chinese,2017,216.8
+Melaka,Indian,2017,50.8
+Melaka,"Other Citizen",2017,4.7
+Melaka,"Other Non Citizen",2017,47.7
+Melaka,overall,2018,922.4
+Melaka,"Bumi Malay",2018,586.7
+Melaka,"Bumi Other",2018,14.6
+Melaka,Chinese,2018,217.2
+Melaka,Indian,2018,51.1
+Melaka,"Other Citizen",2018,5.1
+Melaka,"Other Non Citizen",2018,47.7
+Melaka,overall,2019,928.4
+Melaka,"Bumi Malay",2019,594.5
+Melaka,"Bumi Other",2019,14.9
+Melaka,Chinese,2019,217.4
+Melaka,Indian,2019,51.4
+Melaka,"Other Citizen",2019,5.6
+Melaka,"Other Non Citizen",2019,44.6
+Melaka,overall,2020,998.4
+Melaka,"Bumi Malay",2020,653.9
+Melaka,"Bumi Other",2020,10.8
+Melaka,Chinese,2020,205.2
+Melaka,Indian,2020,52.4
+Melaka,"Other Citizen",2020,5.1
+Melaka,"Other Non Citizen",2020,71.1
+Melaka,overall,2021,1004.5
+Melaka,"Bumi Malay",2021,663.1
+Melaka,"Bumi Other",2021,9.5
+Melaka,Chinese,2021,204.9
+Melaka,Indian,2021,52.4
+Melaka,"Other Citizen",2021,5.2
+Melaka,"Other Non Citizen",2021,69.3
+Melaka,overall,2022,1008.6
+Melaka,"Bumi Malay",2022,669.6
+Melaka,"Bumi Other",2022,9.6
+Melaka,Chinese,2022,204.3
+Melaka,Indian,2022,52.4
+Melaka,"Other Citizen",2022,5.2
+Melaka,"Other Non Citizen",2022,67.5
+Melaka,overall,2023,1028.3
+Melaka,"Bumi Malay",2023,677
+Melaka,"Bumi Other",2023,9.8
+Melaka,Chinese,2023,203.8
+Melaka,Indian,2023,52.4
+Melaka,"Other Citizen",2023,5.2
+Melaka,"Other Non Citizen",2023,80
+Melaka,overall,2024,1046.7
+Melaka,"Bumi Malay",2024,683.8
+Melaka,"Bumi Other",2024,9.9
+Melaka,Chinese,2024,203.4
+Melaka,Indian,2024,52.4
+Melaka,"Other Citizen",2024,5.3
+Melaka,"Other Non Citizen",2024,91.8
+Melaka,overall,2025,1052.5
+Melaka,"Bumi Malay",2025,690.2
+Melaka,"Bumi Other",2025,10
+Melaka,Chinese,2025,203
+Melaka,Indian,2025,52.4
+Melaka,"Other Citizen",2025,5.3
+Melaka,"Other Non Citizen",2025,91.5
+"Negeri Sembilan",overall,2016,1099.3
+"Negeri Sembilan","Bumi Malay",2016,611.5
+"Negeri Sembilan","Bumi Other",2016,21.2
+"Negeri Sembilan",Chinese,2016,229.8
+"Negeri Sembilan",Indian,2016,153.7
+"Negeri Sembilan","Other Citizen",2016,4
+"Negeri Sembilan","Other Non Citizen",2016,79.2
+"Negeri Sembilan",overall,2017,1114
+"Negeri Sembilan","Bumi Malay",2017,623.6
+"Negeri Sembilan","Bumi Other",2017,21.6
+"Negeri Sembilan",Chinese,2017,229.3
+"Negeri Sembilan",Indian,2017,154.3
+"Negeri Sembilan","Other Citizen",2017,3.7
+"Negeri Sembilan","Other Non Citizen",2017,81.6
+"Negeri Sembilan",overall,2018,1122.9
+"Negeri Sembilan","Bumi Malay",2018,631.7
+"Negeri Sembilan","Bumi Other",2018,21.2
+"Negeri Sembilan",Chinese,2018,229.4
+"Negeri Sembilan",Indian,2018,154.1
+"Negeri Sembilan","Other Citizen",2018,3.8
+"Negeri Sembilan","Other Non Citizen",2018,83
+"Negeri Sembilan",overall,2019,1126.2
+"Negeri Sembilan","Bumi Malay",2019,639.6
+"Negeri Sembilan","Bumi Other",2019,20.9
+"Negeri Sembilan",Chinese,2019,229.6
+"Negeri Sembilan",Indian,2019,154
+"Negeri Sembilan","Other Citizen",2019,3.9
+"Negeri Sembilan","Other Non Citizen",2019,78.2
+"Negeri Sembilan",overall,2020,1200
+"Negeri Sembilan","Bumi Malay",2020,693.3
+"Negeri Sembilan","Bumi Other",2020,23.2
+"Negeri Sembilan",Chinese,2020,248.5
+"Negeri Sembilan",Indian,2020,161.6
+"Negeri Sembilan","Other Citizen",2020,5.7
+"Negeri Sembilan","Other Non Citizen",2020,67.7
+"Negeri Sembilan",overall,2021,1204.2
+"Negeri Sembilan","Bumi Malay",2021,704.4
+"Negeri Sembilan","Bumi Other",2021,22
+"Negeri Sembilan",Chinese,2021,248.3
+"Negeri Sembilan",Indian,2021,162.4
+"Negeri Sembilan","Other Citizen",2021,5.8
+"Negeri Sembilan","Other Non Citizen",2021,61.3
+"Negeri Sembilan",overall,2022,1207.9
+"Negeri Sembilan","Bumi Malay",2022,711.9
+"Negeri Sembilan","Bumi Other",2022,22.2
+"Negeri Sembilan",Chinese,2022,247.4
+"Negeri Sembilan",Indian,2022,162.4
+"Negeri Sembilan","Other Citizen",2022,5.8
+"Negeri Sembilan","Other Non Citizen",2022,58.1
+"Negeri Sembilan",overall,2023,1224.9
+"Negeri Sembilan","Bumi Malay",2023,720
+"Negeri Sembilan","Bumi Other",2023,22.5
+"Negeri Sembilan",Chinese,2023,246.7
+"Negeri Sembilan",Indian,2023,162.9
+"Negeri Sembilan","Other Citizen",2023,5.9
+"Negeri Sembilan","Other Non Citizen",2023,66.8
+"Negeri Sembilan",overall,2024,1239.5
+"Negeri Sembilan","Bumi Malay",2024,727
+"Negeri Sembilan","Bumi Other",2024,22.9
+"Negeri Sembilan",Chinese,2024,245.9
+"Negeri Sembilan",Indian,2024,163.1
+"Negeri Sembilan","Other Citizen",2024,6
+"Negeri Sembilan","Other Non Citizen",2024,74.5
+"Negeri Sembilan",overall,2025,1244.6
+"Negeri Sembilan","Bumi Malay",2025,733.5
+"Negeri Sembilan","Bumi Other",2025,23.2
+"Negeri Sembilan",Chinese,2025,245.2
+"Negeri Sembilan",Indian,2025,163.2
+"Negeri Sembilan","Other Citizen",2025,6.1
+"Negeri Sembilan","Other Non Citizen",2025,73.5
+Pahang,overall,2016,1626.7
+Pahang,"Bumi Malay",2016,1141.6
+Pahang,"Bumi Other",2016,77.9
+Pahang,Chinese,2016,232.6
+Pahang,Indian,2016,64.9
+Pahang,"Other Citizen",2016,5.6
+Pahang,"Other Non Citizen",2016,104.4
+Pahang,overall,2017,1647
+Pahang,"Bumi Malay",2017,1156.8
+Pahang,"Bumi Other",2017,79.5
+Pahang,Chinese,2017,232.7
+Pahang,Indian,2017,65.3
+Pahang,"Other Citizen",2017,5.8
+Pahang,"Other Non Citizen",2017,106.9
+Pahang,overall,2018,1664.7
+Pahang,"Bumi Malay",2018,1170.4
+Pahang,"Bumi Other",2018,80.7
+Pahang,Chinese,2018,232.7
+Pahang,Indian,2018,66.5
+Pahang,"Other Citizen",2018,6.1
+Pahang,"Other Non Citizen",2018,108.2
+Pahang,overall,2019,1671.4
+Pahang,"Bumi Malay",2019,1183.9
+Pahang,"Bumi Other",2019,82.5
+Pahang,Chinese,2019,232.6
+Pahang,Indian,2019,67.7
+Pahang,"Other Citizen",2019,6.3
+Pahang,"Other Non Citizen",2019,98.9
+Pahang,overall,2020,1591.3
+Pahang,"Bumi Malay",2020,1134.2
+Pahang,"Bumi Other",2020,92.2
+Pahang,Chinese,2020,221.7
+Pahang,Indian,2020,55.9
+Pahang,"Other Citizen",2020,9.2
+Pahang,"Other Non Citizen",2020,78.1
+Pahang,overall,2021,1601.5
+Pahang,"Bumi Malay",2021,1149.7
+Pahang,"Bumi Other",2021,91.6
+Pahang,Chinese,2021,221.3
+Pahang,Indian,2021,55.8
+Pahang,"Other Citizen",2021,9.3
+Pahang,"Other Non Citizen",2021,73.8
+Pahang,overall,2022,1614.3
+Pahang,"Bumi Malay",2022,1161.4
+Pahang,"Bumi Other",2022,92.9
+Pahang,Chinese,2022,220.6
+Pahang,Indian,2022,55.8
+Pahang,"Other Citizen",2022,9.4
+Pahang,"Other Non Citizen",2022,74.2
+Pahang,overall,2023,1643.2
+Pahang,"Bumi Malay",2023,1173.9
+Pahang,"Bumi Other",2023,94.4
+Pahang,Chinese,2023,220
+Pahang,Indian,2023,55.8
+Pahang,"Other Citizen",2023,9.5
+Pahang,"Other Non Citizen",2023,89.6
+Pahang,overall,2024,1667.7
+Pahang,"Bumi Malay",2024,1184.9
+Pahang,"Bumi Other",2024,95.8
+Pahang,Chinese,2024,219.2
+Pahang,Indian,2024,55.9
+Pahang,"Other Citizen",2024,9.6
+Pahang,"Other Non Citizen",2024,102.3
+Pahang,overall,2025,1678.2
+Pahang,"Bumi Malay",2025,1195
+Pahang,"Bumi Other",2025,97.2
+Pahang,Chinese,2025,218.6
+Pahang,Indian,2025,55.9
+Pahang,"Other Citizen",2025,9.7
+Pahang,"Other Non Citizen",2025,101.9
+Perak,overall,2016,2482.1
+Perak,"Bumi Malay",2016,1315.8
+Perak,"Bumi Other",2016,77.9
+Perak,Chinese,2016,700.1
+Perak,Indian,2016,280.4
+Perak,"Other Citizen",2016,9.5
+Perak,"Other Non Citizen",2016,98.6
+Perak,overall,2017,2493.2
+Perak,"Bumi Malay",2017,1327.9
+Perak,"Bumi Other",2017,79
+Perak,Chinese,2017,695.9
+Perak,Indian,2017,279.5
+Perak,"Other Citizen",2017,9.8
+Perak,"Other Non Citizen",2017,100.9
+Perak,overall,2018,2503.5
+Perak,"Bumi Malay",2018,1338.5
+Perak,"Bumi Other",2018,81.3
+Perak,Chinese,2018,694.1
+Perak,Indian,2018,277.4
+Perak,"Other Citizen",2018,9.9
+Perak,"Other Non Citizen",2018,102.1
+Perak,overall,2019,2508.8
+Perak,"Bumi Malay",2019,1350.3
+Perak,"Bumi Other",2019,83
+Perak,Chinese,2019,692.2
+Perak,Indian,2019,275.7
+Perak,"Other Citizen",2019,10
+Perak,"Other Non Citizen",2019,97.7
+Perak,overall,2020,2496
+Perak,"Bumi Malay",2020,1364.8
+Perak,"Bumi Other",2020,74.9
+Perak,Chinese,2020,643.6
+Perak,Indian,2020,270.8
+Perak,"Other Citizen",2020,10.7
+Perak,"Other Non Citizen",2020,131.2
+Perak,overall,2021,2515.8
+Perak,"Bumi Malay",2021,1385.7
+Perak,"Bumi Other",2021,73.9
+Perak,Chinese,2021,642.9
+Perak,Indian,2021,271.7
+Perak,"Other Citizen",2021,10.8
+Perak,"Other Non Citizen",2021,130.8
+Perak,overall,2022,2514.4
+Perak,"Bumi Malay",2022,1396.8
+Perak,"Bumi Other",2022,74.4
+Perak,Chinese,2022,638.3
+Perak,Indian,2022,271.2
+Perak,"Other Citizen",2022,10.8
+Perak,"Other Non Citizen",2022,122.9
+Perak,overall,2023,2541.2
+Perak,"Bumi Malay",2023,1409.1
+Perak,"Bumi Other",2023,75.2
+Perak,Chinese,2023,634.5
+Perak,Indian,2023,270.9
+Perak,"Other Citizen",2023,10.9
+Perak,"Other Non Citizen",2023,140.6
+Perak,overall,2024,2569.4
+Perak,"Bumi Malay",2024,1420.5
+Perak,"Bumi Other",2024,76.1
+Perak,Chinese,2024,630.8
+Perak,Indian,2024,270.7
+Perak,"Other Citizen",2024,11
+Perak,"Other Non Citizen",2024,160.4
+Perak,overall,2025,2574.9
+Perak,"Bumi Malay",2025,1430.1
+Perak,"Bumi Other",2025,76.8
+Perak,Chinese,2025,627.2
+Perak,Indian,2025,270.2
+Perak,"Other Citizen",2025,11
+Perak,"Other Non Citizen",2025,159.5
+Perlis,overall,2016,251
+Perlis,"Bumi Malay",2016,214.3
+Perlis,"Bumi Other",2016,0.9
+Perlis,Chinese,2016,19.2
+Perlis,Indian,2016,3.1
+Perlis,"Other Citizen",2016,4.9
+Perlis,"Other Non Citizen",2016,8.7
+Perlis,overall,2017,252
+Perlis,"Bumi Malay",2017,215.4
+Perlis,"Bumi Other",2017,1
+Perlis,Chinese,2017,18.9
+Perlis,Indian,2017,3.1
+Perlis,"Other Citizen",2017,4.8
+Perlis,"Other Non Citizen",2017,8.9
+Perlis,overall,2018,253.5
+Perlis,"Bumi Malay",2018,217
+Perlis,"Bumi Other",2018,1.1
+Perlis,Chinese,2018,18.9
+Perlis,Indian,2018,3.1
+Perlis,"Other Citizen",2018,4.8
+Perlis,"Other Non Citizen",2018,8.9
+Perlis,overall,2019,254
+Perlis,"Bumi Malay",2019,217.7
+Perlis,"Bumi Other",2019,1.1
+Perlis,Chinese,2019,18.9
+Perlis,Indian,2019,3.1
+Perlis,"Other Citizen",2019,4.9
+Perlis,"Other Non Citizen",2019,8.1
+Perlis,overall,2020,284.9
+Perlis,"Bumi Malay",2020,245.4
+Perlis,"Bumi Other",2020,1.9
+Perlis,Chinese,2020,20.5
+Perlis,Indian,2020,5.1
+Perlis,"Other Citizen",2020,5.6
+Perlis,"Other Non Citizen",2020,6.4
+Perlis,overall,2021,287.6
+Perlis,"Bumi Malay",2021,247.8
+Perlis,"Bumi Other",2021,1.5
+Perlis,Chinese,2021,20.4
+Perlis,Indian,2021,5.1
+Perlis,"Other Citizen",2021,5.7
+Perlis,"Other Non Citizen",2021,7.3
+Perlis,overall,2022,289.8
+Perlis,"Bumi Malay",2022,249.4
+Perlis,"Bumi Other",2022,1.5
+Perlis,Chinese,2022,20.2
+Perlis,Indian,2022,5.1
+Perlis,"Other Citizen",2022,5.7
+Perlis,"Other Non Citizen",2022,7.9
+Perlis,overall,2023,293.1
+Perlis,"Bumi Malay",2023,250.9
+Perlis,"Bumi Other",2023,1.5
+Perlis,Chinese,2023,20.1
+Perlis,Indian,2023,5.1
+Perlis,"Other Citizen",2023,5.7
+Perlis,"Other Non Citizen",2023,9.8
+Perlis,overall,2024,296.8
+Perlis,"Bumi Malay",2024,252.5
+Perlis,"Bumi Other",2024,1.5
+Perlis,Chinese,2024,20
+Perlis,Indian,2024,5.1
+Perlis,"Other Citizen",2024,5.7
+Perlis,"Other Non Citizen",2024,11.9
+Perlis,overall,2025,297.8
+Perlis,"Bumi Malay",2025,253.8
+Perlis,"Bumi Other",2025,1.5
+Perlis,Chinese,2025,19.9
+Perlis,Indian,2025,5.1
+Perlis,"Other Citizen",2025,5.8
+Perlis,"Other Non Citizen",2025,11.7
+"Pulau Pinang",overall,2016,1717.7
+"Pulau Pinang","Bumi Malay",2016,707.1
+"Pulau Pinang","Bumi Other",2016,4.6
+"Pulau Pinang",Chinese,2016,688.9
+"Pulau Pinang",Indian,2016,165.7
+"Pulau Pinang","Other Citizen",2016,5
+"Pulau Pinang","Other Non Citizen",2016,146.3
+"Pulau Pinang",overall,2017,1744.1
+"Pulau Pinang","Bumi Malay",2017,723.3
+"Pulau Pinang","Bumi Other",2017,5
+"Pulau Pinang",Chinese,2017,694.2
+"Pulau Pinang",Indian,2017,166.1
+"Pulau Pinang","Other Citizen",2017,5
+"Pulau Pinang","Other Non Citizen",2017,150.3
+"Pulau Pinang",overall,2018,1762.8
+"Pulau Pinang","Bumi Malay",2018,739.4
+"Pulau Pinang","Bumi Other",2018,5.3
+"Pulau Pinang",Chinese,2018,694.2
+"Pulau Pinang",Indian,2018,166.5
+"Pulau Pinang","Other Citizen",2018,5
+"Pulau Pinang","Other Non Citizen",2018,152.3
+"Pulau Pinang",overall,2019,1768.8
+"Pulau Pinang","Bumi Malay",2019,753.9
+"Pulau Pinang","Bumi Other",2019,5.5
+"Pulau Pinang",Chinese,2019,694
+"Pulau Pinang",Indian,2019,166.8
+"Pulau Pinang","Other Citizen",2019,5.1
+"Pulau Pinang","Other Non Citizen",2019,143.4
+"Pulau Pinang",overall,2020,1740.4
+"Pulau Pinang","Bumi Malay",2020,707.9
+"Pulau Pinang","Bumi Other",2020,8
+"Pulau Pinang",Chinese,2020,718.4
+"Pulau Pinang",Indian,2020,155.5
+"Pulau Pinang","Other Citizen",2020,10.1
+"Pulau Pinang","Other Non Citizen",2020,140.5
+"Pulau Pinang",overall,2021,1740
+"Pulau Pinang","Bumi Malay",2021,715.3
+"Pulau Pinang","Bumi Other",2021,6.9
+"Pulau Pinang",Chinese,2021,718.2
+"Pulau Pinang",Indian,2021,155.5
+"Pulau Pinang","Other Citizen",2021,10.2
+"Pulau Pinang","Other Non Citizen",2021,133.8
+"Pulau Pinang",overall,2022,1740.9
+"Pulau Pinang","Bumi Malay",2022,721.4
+"Pulau Pinang","Bumi Other",2022,7
+"Pulau Pinang",Chinese,2022,715.2
+"Pulau Pinang",Indian,2022,155.1
+"Pulau Pinang","Other Citizen",2022,10.2
+"Pulau Pinang","Other Non Citizen",2022,132
+"Pulau Pinang",overall,2023,1772.6
+"Pulau Pinang","Bumi Malay",2023,728.8
+"Pulau Pinang","Bumi Other",2023,7.1
+"Pulau Pinang",Chinese,2023,713.2
+"Pulau Pinang",Indian,2023,155.1
+"Pulau Pinang","Other Citizen",2023,10.2
+"Pulau Pinang","Other Non Citizen",2023,158.2
+"Pulau Pinang",overall,2024,1800.5
+"Pulau Pinang","Bumi Malay",2024,735.8
+"Pulau Pinang","Bumi Other",2024,7.2
+"Pulau Pinang",Chinese,2024,711.2
+"Pulau Pinang",Indian,2024,155
+"Pulau Pinang","Other Citizen",2024,10.3
+"Pulau Pinang","Other Non Citizen",2024,181
+"Pulau Pinang",overall,2025,1803.3
+"Pulau Pinang","Bumi Malay",2025,741.6
+"Pulau Pinang","Bumi Other",2025,7.3
+"Pulau Pinang",Chinese,2025,709.2
+"Pulau Pinang",Indian,2025,154.9
+"Pulau Pinang","Other Citizen",2025,10.3
+"Pulau Pinang","Other Non Citizen",2025,179.9
+Sabah,overall,2016,3802.8
+Sabah,"Bumi Malay",2016,281.5
+Sabah,"Bumi Other",2016,1951.3
+Sabah,Chinese,2016,307
+Sabah,Indian,2016,12.3
+Sabah,"Other Citizen",2016,121.4
+Sabah,"Other Non Citizen",2016,1129.2
+Sabah,overall,2017,3855.9
+Sabah,"Bumi Malay",2017,288.3
+Sabah,"Bumi Other",2017,1976.7
+Sabah,Chinese,2017,307
+Sabah,Indian,2017,13.1
+Sabah,"Other Citizen",2017,123
+Sabah,"Other Non Citizen",2017,1148
+Sabah,overall,2018,3898.4
+Sabah,"Bumi Malay",2018,295.3
+Sabah,"Bumi Other",2018,1999.3
+Sabah,Chinese,2018,306.9
+Sabah,Indian,2018,13.2
+Sabah,"Other Citizen",2018,125.1
+Sabah,"Other Non Citizen",2018,1158.7
+Sabah,overall,2019,3904.4
+Sabah,"Bumi Malay",2019,302.7
+Sabah,"Bumi Other",2019,2026.6
+Sabah,Chinese,2019,307.2
+Sabah,Indian,2019,13.3
+Sabah,"Other Citizen",2019,127.2
+Sabah,"Other Non Citizen",2019,1127.1
+Sabah,overall,2020,3418.8
+Sabah,"Bumi Malay",2020,236.9
+Sabah,"Bumi Other",2020,2076.5
+Sabah,Chinese,2020,248.9
+Sabah,Indian,2020,6
+Sabah,"Other Citizen",2020,40
+Sabah,"Other Non Citizen",2020,810.4
+Sabah,overall,2021,3412.6
+Sabah,"Bumi Malay",2021,312.2
+Sabah,"Bumi Other",2021,2025.7
+Sabah,Chinese,2021,248
+Sabah,Indian,2021,5.9
+Sabah,"Other Citizen",2021,41.4
+Sabah,"Other Non Citizen",2021,779.5
+Sabah,overall,2022,3414.9
+Sabah,"Bumi Malay",2022,316.1
+Sabah,"Bumi Other",2022,2040.4
+Sabah,Chinese,2022,246.1
+Sabah,Indian,2022,5.9
+Sabah,"Other Citizen",2022,42.3
+Sabah,"Other Non Citizen",2022,764.2
+Sabah,overall,2023,3596.7
+Sabah,"Bumi Malay",2023,321.7
+Sabah,"Bumi Other",2023,2059.7
+Sabah,Chinese,2023,244.8
+Sabah,Indian,2023,5.9
+Sabah,"Other Citizen",2023,43.6
+Sabah,"Other Non Citizen",2023,921.1
+Sabah,overall,2024,3742
+Sabah,"Bumi Malay",2024,326.6
+Sabah,"Bumi Other",2024,2077.6
+Sabah,Chinese,2024,243.5
+Sabah,Indian,2024,5.9
+Sabah,"Other Citizen",2024,44.8
+Sabah,"Other Non Citizen",2024,1043.6
+Sabah,overall,2025,3759.6
+Sabah,"Bumi Malay",2025,331.1
+Sabah,"Bumi Other",2025,2094.3
+Sabah,Chinese,2025,242.1
+Sabah,Indian,2025,5.9
+Sabah,"Other Citizen",2025,46
+Sabah,"Other Non Citizen",2025,1040.2
+Sarawak,overall,2016,2738.7
+Sarawak,"Bumi Malay",2016,624.7
+Sarawak,"Bumi Other",2016,1307.5
+Sarawak,Chinese,2016,615.8
+Sarawak,Indian,2016,7.5
+Sarawak,"Other Citizen",2016,7.9
+Sarawak,"Other Non Citizen",2016,175.3
+Sarawak,overall,2017,2766.3
+Sarawak,"Bumi Malay",2017,633
+Sarawak,"Bumi Other",2017,1320.1
+Sarawak,Chinese,2017,619.2
+Sarawak,Indian,2017,7.6
+Sarawak,"Other Citizen",2017,7.9
+Sarawak,"Other Non Citizen",2017,178.8
+Sarawak,overall,2018,2791.7
+Sarawak,"Bumi Malay",2018,640.3
+Sarawak,"Bumi Other",2018,1332.8
+Sarawak,Chinese,2018,622
+Sarawak,Indian,2018,7.7
+Sarawak,"Other Citizen",2018,8.1
+Sarawak,"Other Non Citizen",2018,180.7
+Sarawak,overall,2019,2806
+Sarawak,"Bumi Malay",2019,647.7
+Sarawak,"Bumi Other",2019,1345.7
+Sarawak,Chinese,2019,625
+Sarawak,Indian,2019,7.7
+Sarawak,"Other Citizen",2019,8.2
+Sarawak,"Other Non Citizen",2019,171.4
+Sarawak,overall,2020,2453.7
+Sarawak,"Bumi Malay",2020,575.4
+Sarawak,"Bumi Other",2020,1187
+Sarawak,Chinese,2020,554.6
+Sarawak,Indian,2020,5.1
+Sarawak,"Other Citizen",2020,6.3
+Sarawak,"Other Non Citizen",2020,125.3
+Sarawak,overall,2021,2465.6
+Sarawak,"Bumi Malay",2021,585.3
+Sarawak,"Bumi Other",2021,1193.5
+Sarawak,Chinese,2021,556.2
+Sarawak,Indian,2021,5
+Sarawak,"Other Citizen",2021,6.4
+Sarawak,"Other Non Citizen",2021,119.1
+Sarawak,overall,2022,2473.5
+Sarawak,"Bumi Malay",2022,591
+Sarawak,"Bumi Other",2022,1199.1
+Sarawak,Chinese,2022,555.8
+Sarawak,Indian,2022,5
+Sarawak,"Other Citizen",2022,6.5
+Sarawak,"Other Non Citizen",2022,116.2
+Sarawak,overall,2023,2502.3
+Sarawak,"Bumi Malay",2023,597.6
+Sarawak,"Bumi Other",2023,1209
+Sarawak,Chinese,2023,556.6
+Sarawak,Indian,2023,5
+Sarawak,"Other Citizen",2023,6.5
+Sarawak,"Other Non Citizen",2023,127.6
+Sarawak,overall,2024,2517.5
+Sarawak,"Bumi Malay",2024,603.2
+Sarawak,"Bumi Other",2024,1217.6
+Sarawak,Chinese,2024,557.4
+Sarawak,Indian,2024,5
+Sarawak,"Other Citizen",2024,6.6
+Sarawak,"Other Non Citizen",2024,127.7
+Sarawak,overall,2025,2529.8
+Sarawak,"Bumi Malay",2025,608.3
+Sarawak,"Bumi Other",2025,1225.1
+Sarawak,Chinese,2025,558
+Sarawak,Indian,2025,5
+Sarawak,"Other Citizen",2025,6.6
+Sarawak,"Other Non Citizen",2025,126.8
+Selangor,overall,2016,6291.5
+Selangor,"Bumi Malay",2016,3240.5
+Selangor,"Bumi Other",2016,85.1
+Selangor,Chinese,2016,1544
+Selangor,Indian,2016,719.6
+Selangor,"Other Citizen",2016,45.2
+Selangor,"Other Non Citizen",2016,656.9
+Selangor,overall,2017,6380.7
+Selangor,"Bumi Malay",2017,3301.5
+Selangor,"Bumi Other",2017,86.4
+Selangor,Chinese,2017,1553.4
+Selangor,Indian,2017,724
+Selangor,"Other Citizen",2017,47.4
+Selangor,"Other Non Citizen",2017,668.4
+Selangor,overall,2018,6475
+Selangor,"Bumi Malay",2018,3369.9
+Selangor,"Bumi Other",2018,90.4
+Selangor,Chinese,2018,1560.3
+Selangor,Indian,2018,727.8
+Selangor,"Other Citizen",2018,49.1
+Selangor,"Other Non Citizen",2018,677.5
+Selangor,overall,2019,6506.1
+Selangor,"Bumi Malay",2019,3436.3
+Selangor,"Bumi Other",2019,94.8
+Selangor,Chinese,2019,1567.1
+Selangor,Indian,2019,731
+Selangor,"Other Citizen",2019,50.6
+Selangor,"Other Non Citizen",2019,626.7
+Selangor,overall,2020,6994.4
+Selangor,"Bumi Malay",2020,3806.2
+Selangor,"Bumi Other",2020,89.7
+Selangor,Chinese,2020,1756.2
+Selangor,Indian,2020,726
+Selangor,"Other Citizen",2020,52.4
+Selangor,"Other Non Citizen",2020,564
+Selangor,overall,2021,7014.7
+Selangor,"Bumi Malay",2021,3865.7
+Selangor,"Bumi Other",2021,81
+Selangor,Chinese,2021,1759
+Selangor,Indian,2021,728.2
+Selangor,"Other Citizen",2021,53.9
+Selangor,"Other Non Citizen",2021,526.9
+Selangor,overall,2022,7050.3
+Selangor,"Bumi Malay",2022,3907.9
+Selangor,"Bumi Other",2022,82.2
+Selangor,Chinese,2022,1757.8
+Selangor,Indian,2022,727.6
+Selangor,"Other Citizen",2022,54.9
+Selangor,"Other Non Citizen",2022,519.9
+Selangor,overall,2023,7209.7
+Selangor,"Bumi Malay",2023,3956.8
+Selangor,"Bumi Other",2023,83.7
+Selangor,Chinese,2023,1758.7
+Selangor,Indian,2023,729.1
+Selangor,"Other Citizen",2023,56.4
+Selangor,"Other Non Citizen",2023,624.9
+Selangor,overall,2024,7362.7
+Selangor,"Bumi Malay",2024,4001.7
+Selangor,"Bumi Other",2024,85.3
+Selangor,Chinese,2024,1758.9
+Selangor,Indian,2024,730.4
+Selangor,"Other Citizen",2024,57.7
+Selangor,"Other Non Citizen",2024,728.7
+Selangor,overall,2025,7406.8
+Selangor,"Bumi Malay",2025,4042.5
+Selangor,"Bumi Other",2025,86.9
+Selangor,Chinese,2025,1759.6
+Selangor,Indian,2025,731.1
+Selangor,"Other Citizen",2025,58.9
+Selangor,"Other Non Citizen",2025,727.9
+Terengganu,overall,2016,1183.4
+Terengganu,"Bumi Malay",2016,1113.1
+Terengganu,"Bumi Other",2016,3.8
+Terengganu,Chinese,2016,28.3
+Terengganu,Indian,2016,2.4
+Terengganu,"Other Citizen",2016,2.4
+Terengganu,"Other Non Citizen",2016,33.6
+Terengganu,overall,2017,1208
+Terengganu,"Bumi Malay",2017,1135.6
+Terengganu,"Bumi Other",2017,3.8
+Terengganu,Chinese,2017,28.4
+Terengganu,Indian,2017,2.5
+Terengganu,"Other Citizen",2017,3.2
+Terengganu,"Other Non Citizen",2017,34.7
+Terengganu,overall,2018,1228.3
+Terengganu,"Bumi Malay",2018,1154.6
+Terengganu,"Bumi Other",2018,3.8
+Terengganu,Chinese,2018,28.5
+Terengganu,Indian,2018,2.5
+Terengganu,"Other Citizen",2018,3.3
+Terengganu,"Other Non Citizen",2018,35.4
+Terengganu,overall,2019,1244.5
+Terengganu,"Bumi Malay",2019,1174.3
+Terengganu,"Bumi Other",2019,4
+Terengganu,Chinese,2019,28.5
+Terengganu,Indian,2019,2.5
+Terengganu,"Other Citizen",2019,3.3
+Terengganu,"Other Non Citizen",2019,32.2
+Terengganu,overall,2020,1149.4
+Terengganu,"Bumi Malay",2020,1090.4
+Terengganu,"Bumi Other",2020,5.2
+Terengganu,Chinese,2020,23.2
+Terengganu,Indian,2020,2.1
+Terengganu,"Other Citizen",2020,2.2
+Terengganu,"Other Non Citizen",2020,26.4
+Terengganu,overall,2021,1170.7
+Terengganu,"Bumi Malay",2021,1111.2
+Terengganu,"Bumi Other",2021,3.3
+Terengganu,Chinese,2021,23
+Terengganu,Indian,2021,2.1
+Terengganu,"Other Citizen",2021,2.2
+Terengganu,"Other Non Citizen",2021,28.8
+Terengganu,overall,2022,1186.6
+Terengganu,"Bumi Malay",2022,1127.4
+Terengganu,"Bumi Other",2022,3.3
+Terengganu,Chinese,2022,22.9
+Terengganu,Indian,2022,2.1
+Terengganu,"Other Citizen",2022,2.3
+Terengganu,"Other Non Citizen",2022,28.6
+Terengganu,overall,2023,1210
+Terengganu,"Bumi Malay",2023,1145.1
+Terengganu,"Bumi Other",2023,3.3
+Terengganu,Chinese,2023,22.8
+Terengganu,Indian,2023,2.1
+Terengganu,"Other Citizen",2023,2.3
+Terengganu,"Other Non Citizen",2023,34.4
+Terengganu,overall,2024,1231.5
+Terengganu,"Bumi Malay",2024,1161.8
+Terengganu,"Bumi Other",2024,3.4
+Terengganu,Chinese,2024,22.7
+Terengganu,Indian,2024,2.1
+Terengganu,"Other Citizen",2024,2.3
+Terengganu,"Other Non Citizen",2024,39.3
+Terengganu,overall,2025,1246.9
+Terengganu,"Bumi Malay",2025,1177.5
+Terengganu,"Bumi Other",2025,3.4
+Terengganu,Chinese,2025,22.6
+Terengganu,Indian,2025,2
+Terengganu,"Other Citizen",2025,2.3
+Terengganu,"Other Non Citizen",2025,39
+"W.P. Kuala Lumpur",overall,2016,1789.7
+"W.P. Kuala Lumpur","Bumi Malay",2016,700.8
+"W.P. Kuala Lumpur","Bumi Other",2016,21.6
+"W.P. Kuala Lumpur",Chinese,2016,654.9
+"W.P. Kuala Lumpur",Indian,2016,151.7
+"W.P. Kuala Lumpur","Other Citizen",2016,17.9
+"W.P. Kuala Lumpur","Other Non Citizen",2016,242.7
+"W.P. Kuala Lumpur",overall,2017,1793.2
+"W.P. Kuala Lumpur","Bumi Malay",2017,702.2
+"W.P. Kuala Lumpur","Bumi Other",2017,21.8
+"W.P. Kuala Lumpur",Chinese,2017,654.5
+"W.P. Kuala Lumpur",Indian,2017,151.3
+"W.P. Kuala Lumpur","Other Citizen",2017,18.4
+"W.P. Kuala Lumpur","Other Non Citizen",2017,245.1
+"W.P. Kuala Lumpur",overall,2018,1790
+"W.P. Kuala Lumpur","Bumi Malay",2018,698.8
+"W.P. Kuala Lumpur","Bumi Other",2018,21.1
+"W.P. Kuala Lumpur",Chinese,2018,654.2
+"W.P. Kuala Lumpur",Indian,2018,151.4
+"W.P. Kuala Lumpur","Other Citizen",2018,18.9
+"W.P. Kuala Lumpur","Other Non Citizen",2018,246
+"W.P. Kuala Lumpur",overall,2019,1782.5
+"W.P. Kuala Lumpur","Bumi Malay",2019,698.5
+"W.P. Kuala Lumpur","Bumi Other",2019,20.2
+"W.P. Kuala Lumpur",Chinese,2019,654.9
+"W.P. Kuala Lumpur",Indian,2019,151.8
+"W.P. Kuala Lumpur","Other Citizen",2019,19.5
+"W.P. Kuala Lumpur","Other Non Citizen",2019,237.6
+"W.P. Kuala Lumpur",overall,2020,1982.1
+"W.P. Kuala Lumpur","Bumi Malay",2020,824.6
+"W.P. Kuala Lumpur","Bumi Other",2020,21.7
+"W.P. Kuala Lumpur",Chinese,2020,737.2
+"W.P. Kuala Lumpur",Indian,2020,178.1
+"W.P. Kuala Lumpur","Other Citizen",2020,12.1
+"W.P. Kuala Lumpur","Other Non Citizen",2020,208.4
+"W.P. Kuala Lumpur",overall,2021,1964
+"W.P. Kuala Lumpur","Bumi Malay",2021,829.7
+"W.P. Kuala Lumpur","Bumi Other",2021,19.6
+"W.P. Kuala Lumpur",Chinese,2021,732.4
+"W.P. Kuala Lumpur",Indian,2021,177.5
+"W.P. Kuala Lumpur","Other Citizen",2021,12.4
+"W.P. Kuala Lumpur","Other Non Citizen",2021,192.4
+"W.P. Kuala Lumpur",overall,2022,1961.2
+"W.P. Kuala Lumpur","Bumi Malay",2022,837.2
+"W.P. Kuala Lumpur","Bumi Other",2022,19.9
+"W.P. Kuala Lumpur",Chinese,2022,730.7
+"W.P. Kuala Lumpur",Indian,2022,177
+"W.P. Kuala Lumpur","Other Citizen",2022,12.7
+"W.P. Kuala Lumpur","Other Non Citizen",2022,183.6
+"W.P. Kuala Lumpur",overall,2023,2005.7
+"W.P. Kuala Lumpur","Bumi Malay",2023,846.4
+"W.P. Kuala Lumpur","Bumi Other",2023,20.3
+"W.P. Kuala Lumpur",Chinese,2023,730.5
+"W.P. Kuala Lumpur",Indian,2023,177
+"W.P. Kuala Lumpur","Other Citizen",2023,13.1
+"W.P. Kuala Lumpur","Other Non Citizen",2023,218.6
+"W.P. Kuala Lumpur",overall,2024,2067.5
+"W.P. Kuala Lumpur","Bumi Malay",2024,855
+"W.P. Kuala Lumpur","Bumi Other",2024,20.6
+"W.P. Kuala Lumpur",Chinese,2024,730
+"W.P. Kuala Lumpur",Indian,2024,177
+"W.P. Kuala Lumpur","Other Citizen",2024,13.5
+"W.P. Kuala Lumpur","Other Non Citizen",2024,271.5
+"W.P. Kuala Lumpur",overall,2025,2074.1
+"W.P. Kuala Lumpur","Bumi Malay",2025,862.3
+"W.P. Kuala Lumpur","Bumi Other",2025,21
+"W.P. Kuala Lumpur",Chinese,2025,729.5
+"W.P. Kuala Lumpur",Indian,2025,176.9
+"W.P. Kuala Lumpur","Other Citizen",2025,13.8
+"W.P. Kuala Lumpur","Other Non Citizen",2025,270.7
+"W.P. Labuan",overall,2016,96.8
+"W.P. Labuan","Bumi Malay",2016,33.2
+"W.P. Labuan","Bumi Other",2016,39.7
+"W.P. Labuan",Chinese,2016,9.5
+"W.P. Labuan",Indian,2016,0.7
+"W.P. Labuan","Other Citizen",2016,2.5
+"W.P. Labuan","Other Non Citizen",2016,10.7
+"W.P. Labuan",overall,2017,97.6
+"W.P. Labuan","Bumi Malay",2017,32.9
+"W.P. Labuan","Bumi Other",2017,40.8
+"W.P. Labuan",Chinese,2017,9.5
+"W.P. Labuan",Indian,2017,0.8
+"W.P. Labuan","Other Citizen",2017,2.7
+"W.P. Labuan","Other Non Citizen",2017,11
+"W.P. Labuan",overall,2018,99
+"W.P. Labuan","Bumi Malay",2018,33.6
+"W.P. Labuan","Bumi Other",2018,41.2
+"W.P. Labuan",Chinese,2018,9.6
+"W.P. Labuan",Indian,2018,0.8
+"W.P. Labuan","Other Citizen",2018,2.8

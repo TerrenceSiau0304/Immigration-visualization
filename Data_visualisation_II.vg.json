@@ -32,15 +32,19 @@
   ],
   "vconcat": [
     {
-      "title": {"text": "Total Immigration towards Malaysia in 2025",
+      "title": {"text": "Total Arrivals towards Malaysia in 2025",
       "fontSize": 15},
       "width": 800,
-      "height": 400,
+      "height": 400, 
       "projection": {"type": "equirectangular", "rotate": [-120, 0, 0]},
       "layer": [
         {
+    "data": {"sphere": true},
+    "mark": {"type": "geoshape", "fill": "#cce5f5"}
+  },
+        {
           "data": {
-            "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/ne_grid_boundary110m.json",
+            "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/world_map.json",
             "format": {
               "type": "topojson",
               "feature": "ne_110m_admin_0_countries"
@@ -91,36 +95,45 @@
 {
   "width": 800,
   "height": 400,
-  "title":{"text":"Top 10 Origin Countries for Immigrants", "fontSize":15},
+  "title": {"text": "Top 10 Origin Countries of Arrivals", "fontSize": 15},
   "data": {
-    "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/All_Immigrants.csv"},
-    "transform": [
-      {"calculate": "toNumber(datum.total)", "as": "total"},
-      {"calculate": "toNumber(datum.year)", "as": "year_num"},
-      {
+    "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/All_Immigrants.csv"
+  },
+  "transform": [
+    {"calculate": "toNumber(datum.total)", "as": "total"},
+    {"calculate": "toNumber(datum.year)", "as": "year_num"},
+    {
       "window": [{"op": "rank", "as": "rank"}],
       "sort": [{"field": "total", "order": "descending"}],
       "groupby": ["year_num"]
-      },
-      {"filter": "datum.rank <= 10"}
-    ],
-    "mark": {"type": "line", "point": true, "strokeWidth": 16},
-  "encoding": {
-    "x": {"field": "year_num", "type": "ordinal", "title": "Year"},
-    "y": {
-      "field": "rank",
-      "type": "quantitative",
-      "title": "Country",
-      "sort": "descending"
     },
-    "color": {"field": "country", "type": "nominal", "title": "Country"},
+    {"filter": "datum.rank <= 10"}
+  ],
+  "mark": {"type": "area", "interpolate": "basis"},
+  "encoding": {
+    "x": {
+      "field": "year_num",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "total",
+      "stack": "center",
+      "title": "Arrivals"
+    },
+    "color": {
+      "field": "country",
+      "type": "nominal",
+      "title": "Country"
+    },
     "tooltip": [
       {"field": "country", "title": "Country"},
       {"field": "year_num", "title": "Year"},
-      {"field": "total", "title": "Immigrants"},
-      {"field": "rank", "title": "Rank"}
+      {"aggregate": "sum", "field": "total", "title": "Total Immigrants"}
     ]
-}
+  }
 },
  {
       "title": {"text":"Malaysia Population by State (2025)", "fontSize":15},
