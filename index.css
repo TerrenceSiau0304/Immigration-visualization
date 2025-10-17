@@ -14,16 +14,36 @@ h1 {
   font-family: serif;
 }
 
+#main-title {
+    background-color: lightblue;
+    width: 100%;
+}
+
 #Visualisation,
 #age-distribution {
   margin: 20px 0;
 }
 
 
-#author {
+#meta-data {
+  color: gray;
+  align-self: flex-start;   
+  text-align: left;         
+  margin-left: 50px;        
+  width: 100%;
+  font-size: 0.9em;  
+  line-height: 1.4;
+}
+
+
+#author{
   align-self: flex-start;
-  margin-left: 20px;
   margin-top: 40px;
   font-style: italic;
-  color: gray;
 }
+
+hr {
+    width: 100%;
+    border: 0.5px solid gray;
+}
+
