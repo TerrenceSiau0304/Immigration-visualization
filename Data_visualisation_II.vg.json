@@ -219,7 +219,7 @@
               "type": "quantitative",
               "title": "Total Population (thousands)"
             },
-            "color": {"field": "sex", "type": "nominal", "title": "Sex", "scale": {"domain":["male","female","both"]}},
+            "color": {"field": "sex", "type": "nominal", "title": "Sex"},
             "tooltip": [
               {"field": "state", "title": "State"},
               {"field": "year", "title": "Year"},
