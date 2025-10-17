@@ -95,13 +95,17 @@
 {
   "width": 800,
   "height": 400,
-  "title": {"text": "Top 10 Origin Countries of Arrivals", "fontSize": 15},
+  "title": {"text": "Top Origin Countries of Arrivals", "fontSize": 15},
   "data": {
     "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/All_Immigrants.csv"
   },
   "transform": [
     {"calculate": "toNumber(datum.total)", "as": "total"},
     {"calculate": "toNumber(datum.year)", "as": "year_num"},
+    {
+      "calculate": "({'AUS':'Australia','BGD':'Bangladesh','BRN':'Brunei','CHN':'China','GBR':'United Kingdom','IDN':'Indonesia','IND':'India','JPN':'Japan','KOR':'South Korea','NPL':'Nepal','PAK':'Pakistan','PHL':'Philippines','SGP':'Singapore','THA':'Thailand'}[datum.country] || datum.country)",
+      "as": "country_name"
+    },
     {
       "window": [{"op": "rank", "as": "rank"}],
       "sort": [{"field": "total", "order": "descending"}],
@@ -124,12 +128,12 @@
       "title": "Arrivals"
     },
     "color": {
-      "field": "country",
+      "field": "country_name",
       "type": "nominal",
       "title": "Country"
     },
     "tooltip": [
-      {"field": "country", "title": "Country"},
+      {"field": "country_name", "title": "Country"},
       {"field": "year_num", "title": "Year"},
       {"aggregate": "sum", "field": "total", "title": "Total Immigrants"}
     ]
