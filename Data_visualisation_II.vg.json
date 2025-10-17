@@ -291,7 +291,7 @@
               "type": "quantitative",
               "title": "Total Population (thousands)"
             },
-            "color": {"field": "ethnicity", "type": "nominal", "title": "Ethnics", "scale": {"domain":["bumi", "chinese", "indian", "bumi_malay", "bumi_other", "other_citizen", "other_noncitizen"]}},
+            "color": {"field": "ethnicity", "type": "nominal", "title": "Ethnics", "scale": {"domain":["Bumi", "Chinese", "Indian", "Bumi Malay", "Bumi Other", "Other Citizen", "Other Non Citizen"]}},
             "tooltip": [
               {"field": "ethnicity", "title": "Ethnicity"},
               {"field": "year", "title": "Year"},
