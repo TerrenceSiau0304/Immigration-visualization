@@ -1,77 +1,110 @@
-
 body {
   display: flex;
   flex-direction: column;
-  align-items: center;  
-  text-align: center;    
+  align-items: center;
+  text-align: center;
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  margin-top: 30px;
-  font-weight: bold;
-  font-family: serif;
-}
-
-h2{
-    font-size: 18px;
-    font-family: serif;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f9fafc;
+  color: #222;
 }
 
 #main-title {
-    background-color: lightblue;
-    width: 100%;
-}
-
-#Visualisation,
-#age-distribution {
-  margin: 20px 0;
-}
-
-
-#meta-data {
-  color: gray;
-  align-self: flex-start;   
-  text-align: left;         
-  margin-left: 50px;        
+  background: linear-gradient(to right, #a0d8ef, #b3e0f2);
+  color: #00334e;
   width: 100%;
-  font-size: 0.7em;  
-  line-height: 1.4;
+  padding: 30px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Georgia", serif;
+}
 
-#author{
-  align-self: flex-start;
-  margin-top: 40px;
+h2 {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  font-family: "Georgia", serif;
+  color: #00334e;
   font-style: italic;
 }
 
-hr {
-    width: 100%;
-    border: 0.5px solid gray;
+#Visualisation,
+#state-density,
+#gender-ethnics,
+#age-distribution {
+  margin: 40px 0;
+  width: 80%;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  padding: 20px;
 }
 
-#article{
-    align-self: flex-start;   
-  text-align: left;         
-  margin-left: 250px;        
-  width: 100%;
-  line-height: 1.4;
-  margin-bottom: 100px;
+#article {
+  align-self: flex-start;
+  text-align: left;
+  margin-left: 12%;
+  width: 70%;
+  line-height: 1.6;
+  margin-bottom: 80px;
 }
 
-#end{
-  align-self: flex-end;
+#article h3 {
+  color: #005b96;
+  border-left: 5px solid #66b3ff;
+  padding-left: 10px;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
 }
-
 
 #paragraph {
-    line-height: 0.6;
-    padding-left: 1%;
+  margin-left: 15px;
+  font-size: 1rem;
 }
 
 #keyword {
-    font-weight: bold;
+  font-weight: bold;
+  color: #0073e6;
+}
+
+hr {
+  width: 80%;
+  border: 0.5px solid #ccc;
+  margin: 50px 0;
+}
+
+#meta-data {
+  color: gray;
+  text-align: left;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  width: 80%;
+  font-size: 0.85em;
+  line-height: 1.6;
+}
+
+#meta-data a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+#meta-data a:hover {
+  text-decoration: underline;
+}
+
+#author {
+  margin-top: 30px;
+  font-style: italic;
+  color: #444;
+}
+
+
+#end {
+  align-self: flex-end;
+  text-align: right;
 }
