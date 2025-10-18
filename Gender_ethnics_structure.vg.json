@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "spacing": 100,
+  "padding": {"top": 50, "bottom": 40, "left": 0, "right": 0},
+  "params": [
+    {
+      "name": "State_selection",
+      "value": "Selangor",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Johor",
+          "Kedah",
+          "Kelantan",
+          "Melaka",
+          "Negeri Sembilan",
+          "Pahang",
+          "Perak",
+          "Perlis",
+          "Pulau Pinang",
+          "Sabah",
+          "Sarawak",
+          "Selangor",
+          "Terengganu",
+          "W.P. Kuala Lumpur",
+          "W.P. Labuan",
+          "W.P. Putrajaya"
+        ],
+        "name": "Select State: "
+      }
+    }
+  ],
+  "hconcat": [
+    {
+      "width": 400,
+      "height": 400,
+      "title": {"text": "Total Population of State by Gender", "fontSize": 15},
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_gender_10years.csv"
+      },
+      "transform": [
+        {"calculate": "toNumber(datum.population)", "as": "pop"},
+        {"calculate": "toNumber(datum.year)", "as": "year_num"},
+        {"filter": "datum.pop > 0"},
+        {"filter": "datum.state == State_selection"}
+      ],
+      "mark": {"type": "line", "interpolate": "monotone", "point": false},
+      "encoding": {
+        "x": {"field": "year", "type": "ordinal", "title": "Year"},
+        "y": {"field": "pop", "type": "quantitative", "title": "Total Population (thousands)"},
+        "color": {"field": "sex", "type": "nominal", "title": "Sex"},
+        "tooltip": [
+          {"field": "state", "title": "State"},
+          {"field": "year", "title": "Year"},
+          {"field": "sex", "title": "Sex"},
+          {"field": "pop", "title": "Total Population (thousands)"}
+        ]
+      }
+    },
+    {
+      "width": 400,
+      "height": 400,
+      "title": {"text": "Total Population of State by Ethnics", "fontSize": 15},
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_with_state_ethnicity_10years.csv"
+      },
+      "layer": [
+        {
+          "transform": [
+            {"calculate": "toNumber(datum.population)", "as": "pop"},
+            {"calculate": "toNumber(datum.year)", "as": "year_num"},
+            {"filter": "datum.pop > 0"},
+            {"filter": "datum.state == State_selection"},
+            {"filter": "datum.ethnicity != 'overall'"}
+          ],
+          "mark": {"type": "bar"},
+          "encoding": {
+            "x": {"field": "year", "type": "ordinal", "title": "Year"},
+            "y": {"field": "pop", "type": "quantitative", "title": "Total Population (thousands)"},
+            "color": {
+              "field": "ethnicity",
+              "type": "nominal",
+              "title": "Ethnics",
+              "scale": {
+                "domain": [
+                  "Bumi",
+                  "Chinese",
+                  "Indian",
+                  "Bumi Malay",
+                  "Bumi Other",
+                  "Other Citizen",
+                  "Other Non Citizen"
+                ],
+                "range": [
+                  "#1f77b4",  
+                  "#ff7f0e",  
+                  "#9467bd",  
+                  "#17becf", 
+                  "#8c564b",  
+                  "#ff0000",  
+                  "#bcbd22"  
+                ]
+              }
+            },
+            "tooltip": [
+              {"field": "ethnicity", "title": "Ethnicity"},
+              {"field": "year", "title": "Year"},
+              {"field": "pop", "title": "Total Population"}
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "resolve": {
+    "legend": {"color": "independent"},
+    "scale": {"color": "independent"}
+  }
+}

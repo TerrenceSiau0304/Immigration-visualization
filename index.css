@@ -56,11 +56,22 @@ hr {
 #article{
     align-self: flex-start;   
   text-align: left;         
-  margin-left: 200px;        
+  margin-left: 250px;        
   width: 100%;
   line-height: 1.4;
+  margin-bottom: 100px;
 }
+
+#end{
+  align-self: flex-end;
+}
+
 
 #paragraph {
     line-height: 0.6;
+    padding-left: 1%;
+}
+
+#keyword {
+    font-weight: bold;
 }

@@ -1,0 +1,114 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "title": {"text":"Malaysia Population by State (2025)", "fontSize":15},
+      "padding": {"top": 50, "bottom": 40, "left": 0, "right": 0},
+      "width": 800,
+      "height": 400,
+      "projection": {
+      "type": "mercator",
+      "center": [110, 4],
+      "scale": 2100
+
+  },
+      "layer": [
+        {
+            "data": {"sphere": true},
+            "mark": {"type": "geoshape", "fill": "#daedf9"}
+        },
+    {
+      "data": {"graticule": {"step": [2, 2]}},
+      "mark": {"type": "geoshape", "stroke": "#dddddd", "strokeWidth": 0.8}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/Malaysia_state_grid.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_10m_admin_1_states_provinces"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_by_state.csv"
+            },
+            "key": "state",
+            "fields": ["population", "area"]
+          }
+        },
+        {"calculate": "datum.population/datum.area", "as": "density"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "#ffffff", "strokeWidth": 0.8},
+      "encoding": {
+        "color": {
+          "field": "density",
+          "type": "quantitative",
+          "scale": {"scheme": "reds", "type": "log"},
+          "title": "Density (/km²)"
+        },
+        "tooltip": [
+          {"field": "properties.name", "title": "State"},
+          {"field": "population", "title": "Population (thousands)"},
+          {"field": "density", "title": "Density (/km²)"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/js/Malaysia_state_grid.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_10m_admin_1_states_provinces"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/TerrenceSiau0304/Immigration-visualization/main/data/Total_population_by_state.csv"
+            },
+            "key": "state",
+            "fields": ["population", "area"]
+          }
+        },
+        {"calculate": "datum.population/datum.area", "as": "density"},
+        {
+          "window": [{"op": "rank", "as": "rank"}],
+          "sort": [{"field": "density", "order": "descending"}]
+        },
+        {"filter": "datum.rank == 1"},
+         {
+        "calculate": "'Most Dense: ' + datum['properties.name'] + ' (' + format(datum.density, '.1f') + ' per km²)'",
+        "as": "label"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke": "black",
+            "strokeWidth": 2
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": -300,
+            "dy": 20,
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "color": "black"
+          },
+          "encoding": {
+            "text": {"field": "label"}
+          }
+        }
+      ]
+    }
+  ]
+}
+    
